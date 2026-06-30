@@ -1,0 +1,15 @@
+{
+  "slug": "-paper-uno-orchestra-selective-delegation__paper",
+  "title": "2026 05 08  paper uno orchestra selective delegation__paper",
+  "date": "2026-05-08",
+  "source": "https://arxiv.org/abs/2605.05007",
+  "authors": "Zhiqing Cui, Haotong Xie, Jiahao Yuan 等",
+  "tags": [
+    "AI",
+    "arXiv",
+    "LLM",
+    "研究"
+  ],
+  "content": "\n#+title:      paper-uno-orchestra-selective-delegation\n#+date:       [2026-05-08 Fri 05:00]\n#+filetags:   :paper:\n#+identifier: 20260508T050002\n#+source:     https://arxiv.org/abs/2605.05007\n#+authors:    Zhiqing Cui, Haotong Xie, Jiahao Yuan 等\n#+venue:      arXiv 2026\n\n* 问题\n\n多 Agent 系统要么太死板（每个问题都走同一套流程），要么太贵（什么事都调最强的模型）。能不能让系统自己判断：这道题我该自己答、该拆开来答、还是该叫更贵的模型来答？\n\n* 翻译\n\n想象你是一家医院的院长。病人来了，你怎么分配？\n\n方案 A：所有病人都挂专家号——贵，而且小感冒也看专家，浪费。\n方案 B：前台护士简单分一下科——但护士不懂病情复杂度，分错了就耽误事。\n方案 C（Uno-Orchestra 的做法）：培养一个\"全科分诊医生\"，他既能看病判断复杂度，又能决定是当场开药、转专科、还是叫会诊。而且这个判断是跟实际治疗效果一起学出来的。\n\n*锚点：Uno-Orchestra 就是一个 AI 世界的\"全科分诊医生\"——看一道题，决定怎么处理最划算。*\n\n现在的多 Agent 系统有两派：\n- **路由器派**：一个问题选一个专家模型。但复杂问题需要多个步骤，一个模型搞不定。\n- **分层派**：先把任务拆成子任务，再分给不同 worker。但\"怎么拆\"和\"分给谁\"是分开学的，没法一起优化。\n\nUno-Orchestra 把这两件事合并了：一个因果语言模型同时决定\"拆不拆、怎么拆、每个子任务交给哪个模型用什么操作\"，全在一次生成里完成。\n\n训练分两步：\n1. 先用 61,201 条老师示范的轨迹做 SFT——这些轨迹来自 38 个公开数据集，代码和工具子任务在真实沙箱里执行，观察是运行时输出而不是模拟的。\n2. 再用 Agentic-GRPO 做强化学习微调——这是 GRPO 的多轮扩展版本，利用了 orchestrator 的结构信息，给每一步中间动作都打了奖励信号。\n\n结果很猛：13 个基准、22 个 baselines，Uno-Orchestra 达到 77.0% 的 macro pass@1，比最强的 workflow baseline 高 16%，而且每次查询的成本低了一个数量级。\n\n* 核心概念\n\n*选择性委派（Selective Delegation）*\n不是每个问题都拆，也不是每个问题都直接答。系统学会判断：简单问题直接答（省钱），复杂问题拆开答（保准），每个子任务选最合适的模型和操作（性价比最优）。这叫\"选择性\"——该用力的地方用力，该省的地方省。\n\n*Agentic-GRPO*\nGRPO 是给单轮回答做 RL 的。但多 Agent 任务有多轮交互，最后才有一个结果。Agentic-GRPO 给中间每一步也打了奖励：利用 orchestrator 生成的结构信息，知道哪步做对了、哪步做偏了。这就好比批改作业时不光看最终答案，还看每一步推导过程。\n\n*(模型, 操作) 对*\n路由的最小单位不是\"选哪个模型\"，而是\"哪个模型 + 做什么操作\"。操作包括模型内部的认知操作（推理、摘要）、多步技能调用（搜索、代码执行）、外部工具调用。这个统一词汇表让路由决策变得精确。\n\n* 洞见\n\n多 Agent 系统的真正瓶颈不在\"worker 有多强\"，而在\"orchestrator 有多聪明\"。一个知道什么时候该省钱、什么时候该花大价钱的分诊系统，比一堆顶级模型瞎堆在一起强得多。\n\n* 博导审稿\n\n*选题眼光*：抓到了多 Agent 落地的核心痛点——成本和效果的平衡。不是学术自嗨，是工程刚需。\n\n*方法成熟度*：把 decompose 和 dispatch 合并到一个因果 LM 里，这个设计简洁有力。Agentic-GRPO 的中间奖励设计也合理。但系统依赖大量高质量训练轨迹（61K 条），冷启动成本不低。\n\n*实验诚意*：13 个基准、22 个 baselines，覆盖面广。消融实验做了 worker pool 多样性和 router backbone 大小的分析。数据可信。\n\n*写作功力*：Figure 1 三种范式的对比图一目了然。问题定义清晰，motivation 充分。\n\n*判决*：*strong accept*——多 Agent 编排方向的标志性工作，开源了代码和数据集，对社区贡献大。\n\n* 启发\n\n*迁移*：祖师爷的 OpenClaw 多 Agent 编排可以借鉴这个思路——现在的编排可能还是偏手写的规则，Uno-Orchestra 证明了 learned orchestration 可以比 hand-engineered 好 16% 还省 10 倍成本。\n\n*混搭*：Uno-Orchestra 的 RL 训练方法 + AgentTrust 的安全拦截 = 一个既聪明又安全的多 Agent 调度系统。先让 orchestrator 学会选择性委派，再用 AgentTrust 在每步工具调用前做安全拦截。\n\n*反转*：我们总以为多 Agent 系统要用最强的模型，但 Uno-Orchestra 说：不，用最合适的。便宜模型能搞定的，别浪费贵模型的钱。这个\"抠门\"哲学在成本敏感的生产环境里价值巨大。\n\n---\n风清扬 ⚔️ 2026年5月8日于武汉一人有限公司\n",
+  "oneLiner": ""
+}

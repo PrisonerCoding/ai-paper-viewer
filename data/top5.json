@@ -1,0 +1,1528 @@
+[
+  {
+    "date": "2026-06-30",
+    "slug": "2026-06-30",
+    "papers": [
+      {
+        "rank": 1,
+        "title": "From Tokens to States: LLMs as a Special Case of World Models",
+        "oneLiner": "LLM 和世界模型不是对手，是同一条光谱上的不同位置",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-30-paper-llm-world-model-spectrum.md"
+      },
+      {
+        "rank": 2,
+        "title": "On the Inseparability of Instructions and Data in Shared-Embedding Sequence Models",
+        "oneLiner": "提示注入在数学上不可能完全防御，这是架构缺陷不是工程问题",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-30-paper-prompt-injection-impossibility.md"
+      },
+      {
+        "rank": 3,
+        "title": "GBC: Gradient-Based Connections for Optimizing Multi-Agent Systems",
+        "oneLiner": "把反向传播搬到多智能体系统，精确定位\"该怪谁\"",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-30-paper-gradient-multi-agent-optimization.md"
+      },
+      {
+        "rank": 4,
+        "title": "Robust Harmful Features Under Jailbreak Attacks (ICML 2026 Oral)",
+        "oneLiner": "越狱攻击是拔保险丝不是拆炸弹，模型内部安全信号依然存在",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-30-paper-jailbreak-attention-head-mechanism.md"
+      },
+      {
+        "rank": 5,
+        "title": "Drop-Then-Recovery: How Redundant Are Vision-Language-Action Models?",
+        "oneLiner": "删掉一半语言层机器人操控反而变好了——语言骨干严重过剩",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-30-paper-vla-redundancy-drop-recovery.md"
+      }
+    ],
+    "criteria": []
+  },
+  {
+    "date": "2026-06-29",
+    "slug": "2026-06-29",
+    "papers": [
+      {
+        "rank": 1,
+        "title": "RiVER: RL without Ground-Truth Solutions",
+        "oneLiner": "UCSD、Snowflake AI Research"
+      },
+      {
+        "rank": 2,
+        "title": "When Does Combining LMs Help?",
+        "oneLiner": "67 个前沿模型跨 21 家供应商"
+      },
+      {
+        "rank": 3,
+        "title": "OpenRCA 2.0: Causal Process Supervision",
+        "oneLiner": "首次跨系统 RCA benchmark，500 实例，11 个前沿 LLM 评估"
+      },
+      {
+        "rank": 4,
+        "title": "NOVA: Verification-Aware Architecture Evolution",
+        "oneLiner": "19 位作者，工业推荐系统实战"
+      },
+      {
+        "rank": 5,
+        "title": "GeoAlign: Geometric Rollout Curation for RL",
+        "oneLiner": "ICML 2026 Accepted"
+      }
+    ],
+    "criteria": []
+  },
+  {
+    "date": "2026-06-28",
+    "slug": "2026-06-28",
+    "papers": [
+      {
+        "rank": 1,
+        "title": "Neglected Free Lunch: Progress Advantage for LLM Agents",
+        "oneLiner": "UW-Madison、Argonne National Lab"
+      },
+      {
+        "rank": 2,
+        "title": "Why Multi-Step Tool-Use RL Collapses",
+        "oneLiner": "中科院自动化所、国科大"
+      },
+      {
+        "rank": 3,
+        "title": "SCPO: Semantic Consistency Policy Optimization",
+        "oneLiner": "HKUST(GZ)、HKUST"
+      },
+      {
+        "rank": 4,
+        "title": "OPERA: Objective Perplexity-based RL for Open-Ended Tasks",
+        "oneLiner": "香港理工、美团、北大"
+      },
+      {
+        "rank": 5,
+        "title": "Constraint Tax: Tool Calling Suppression",
+        "oneLiner": "Focus AI Center、南京理工"
+      }
+    ],
+    "criteria": []
+  },
+  {
+    "date": "2026-06-27",
+    "slug": "2026-06-27",
+    "papers": [
+      {
+        "rank": 1,
+        "title": "Neglected Free Lunch: Progress Advantage for LLM Agents",
+        "oneLiner": "UW-Madison、Argonne National Lab"
+      },
+      {
+        "rank": 2,
+        "title": "Why Multi-Step Tool-Use RL Collapses",
+        "oneLiner": "中科院自动化所、国科大"
+      },
+      {
+        "rank": 3,
+        "title": "SCPO: Semantic Consistency Policy Optimization",
+        "oneLiner": "HKUST(GZ)、HKUST"
+      },
+      {
+        "rank": 4,
+        "title": "OPERA: Objective Perplexity-based RL for Open-Ended Tasks",
+        "oneLiner": "香港理工、美团、北大"
+      },
+      {
+        "rank": 5,
+        "title": "Constraint Tax: Tool Calling Suppression",
+        "oneLiner": "Focus AI Center、南京理工"
+      }
+    ],
+    "criteria": []
+  },
+  {
+    "date": "2026-06-26",
+    "slug": "2026-06-26",
+    "papers": [
+      {
+        "rank": 1,
+        "title": "OPERA: Aligning Open-Ended Reasoning via Objective Perplexity-based RL",
+        "oneLiner": "用困惑度动态替代 LLM 裁判，Qwen3-8B 打平 Gemini2.5",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-26-paper-opera-perplexity-reward-open-ended.md"
+      },
+      {
+        "rank": 2,
+        "title": "Neglected Free Lunch: Progress Advantage for LLM Agents",
+        "oneLiner": "RL 后训练自带免费步级评分器，无需额外 PRM",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-26-paper-progress-advantage-implicit-prm.md"
+      },
+      {
+        "rank": 3,
+        "title": "Why Multi-Step Tool-Use RL Collapses",
+        "oneLiner": "控制 token 概率尖峰导致结构崩塌，不是能力退化",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-26-paper-tool-rl-collapse-control-tokens.md"
+      },
+      {
+        "rank": 4,
+        "title": "Weave of Formal Thought (WoFT)",
+        "oneLiner": "语法验证+自适应结构 scratchpad，困惑度降14.3%",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-26-paper-woft-syntax-aware-code-generation.md"
+      },
+      {
+        "rank": 5,
+        "title": "Constraint Tax: Tool Calling Suppression Under Structured Output",
+        "oneLiner": "JSON Schema 约束会物理屏蔽工具调用 token",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-26-paper-constraint-tax-tool-suppression.md"
+      }
+    ],
+    "criteria": []
+  },
+  {
+    "date": "2026-06-25",
+    "slug": "2026-06-25",
+    "papers": [
+      {
+        "rank": 1,
+        "title": "Pigeonholing: Bad prompts hurt models to collapse and make mistakes",
+        "oneLiner": "Stanford、UT Austin"
+      },
+      {
+        "rank": 2,
+        "title": "Governed Shared Memory for Multi-Agent LLM Systems",
+        "oneLiner": "Caura.ai、Ben-Gurion University"
+      },
+      {
+        "rank": 3,
+        "title": "Escaping the Self-Confirmation Trap: EDV for Agentic Experience Learning",
+        "oneLiner": "浙大、清华深研院、西工大、中科大、上交"
+      },
+      {
+        "rank": 4,
+        "title": "RaDaR: Rare Disease navigatoR",
+        "oneLiner": "清华、新加坡国立眼科中心等"
+      },
+      {
+        "rank": 5,
+        "title": "CompressKV: Semantic-Retrieval-Guided KV-Cache Compression",
+        "oneLiner": "TU Darmstadt、Notre Dame、TU Ilmenau"
+      }
+    ],
+    "criteria": []
+  },
+  {
+    "date": "2026-06-24",
+    "slug": "2026-06-24",
+    "papers": [
+      {
+        "rank": 1,
+        "title": "Detecting Malicious Agent Skills in the Wild using Attention",
+        "oneLiner": "Cisco (AI Security)"
+      },
+      {
+        "rank": 2,
+        "title": "Causal Reward World Models: Zero-shot Reward Design for Automated Skill Generation",
+        "oneLiner": "未明确标注（推测国内团队）"
+      },
+      {
+        "rank": 3,
+        "title": "Randomized YaRN Improves Length Generalization for Long-Context Reasoning",
+        "oneLiner": "UT Austin"
+      },
+      {
+        "rank": 4,
+        "title": "Kamera: Unified Position-Invariant Multimodal KV Cache for Training-Free Reuse",
+        "oneLiner": "未明确标注"
+      },
+      {
+        "rank": 5,
+        "title": "EnterpriseClawBench: Benchmarking Agents from Real Workplace Sessions",
+        "oneLiner": "Frontis AI"
+      }
+    ],
+    "criteria": []
+  },
+  {
+    "date": "2026-06-23",
+    "slug": "2026-06-23",
+    "papers": [
+      {
+        "rank": 1,
+        "title": "How Transparent is DiffusionGemma?",
+        "oneLiner": "扩散语言模型的推理过程可以像自回归模型一样被监控，不透明深度仅差 1.1 倍",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-23-paper-diffusiongemma-transparency.md"
+      },
+      {
+        "rank": 2,
+        "title": "Apparent Psychological Profiles of LLMs are Largely a Measurement Artifact",
+        "oneLiner": "LLM 的\"性格\"81-90% 是量表偏差的假象，不是真实特质",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-23-paper-llm-psychological-profiles-artifact.md"
+      },
+      {
+        "rank": 3,
+        "title": "Execution-State Capsules (FlashRT)",
+        "oneLiner": "给大模型加了真正的\"存档读档\"，亚毫秒恢复全部执行状态",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-23-paper-flashrt-execution-state-capsules.md"
+      },
+      {
+        "rank": 4,
+        "title": "Contagion Networks: Evaluator Bias Propagation",
+        "oneLiner": "多智能体系统中的偏差像传染病一样传播，用评估委员会可降低 72%",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-23-paper-contagion-networks-multi-agent-bias.md"
+      },
+      {
+        "rank": 5,
+        "title": "Rethinking Shrinkage Bias in LLM FP4 Pretraining (UFP4)",
+        "oneLiner": "E2M1 格式有先天缩水缺陷，换均匀格式即可根治",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-23-paper-ufp4-uniform-4bit-training.md"
+      }
+    ],
+    "criteria": []
+  },
+  {
+    "date": "2026-06-22",
+    "slug": "2026-06-22",
+    "papers": [
+      {
+        "rank": 1,
+        "title": "SafeSpec: Fast and Safe LLM via Dynamic Reflective Sampling",
+        "oneLiner": "未明确标注（推测高校）"
+      },
+      {
+        "rank": 2,
+        "title": "AtomMem: Building Simple and Effective Memory System for LLM Agents via Atomic Facts",
+        "oneLiner": "中国科学技术大学、安徽大学"
+      },
+      {
+        "rank": 3,
+        "title": "UFP4: Rethinking Shrinkage Bias in LLM FP4 Pretraining",
+        "oneLiner": "蚂蚁集团 Ling Team"
+      },
+      {
+        "rank": 4,
+        "title": "Probe-and-Refine Tuning of Repository Guidance for Coding Agents",
+        "oneLiner": "Williams College"
+      },
+      {
+        "rank": 5,
+        "title": "Beyond Entropy: ICT Framework for LLM Reasoning",
+        "oneLiner": "香港科技大学、四川大学、香港理工大学"
+      }
+    ],
+    "criteria": []
+  },
+  {
+    "date": "2026-06-18",
+    "slug": "2026-06-18",
+    "papers": [
+      {
+        "rank": 1,
+        "title": "Zone of Proximal Policy Optimization",
+        "oneLiner": "老师只进 prompt 不进梯度，0.8B 小模型提升 +9.3pp",
+        "interpretationLink": "../arxiv%20论文解读/2026-06-18-paper-zppo-teacher-in-prompt.md"
+      },
+      {
+        "rank": 2,
+        "title": "d-OPSD: Learning from the Self-future",
+        "oneLiner": "扩散 LLM 的自蒸馏，用\"未来的自己\"教现在的自己，效率比 RLVR 快 10 倍",
+        "interpretationLink": "../arxiv%20论文解读/2026-06-18-paper-dopsd-self-future-distillation.md"
+      },
+      {
+        "rank": 3,
+        "title": "From Reasoning Traces to Reusable Modules",
+        "oneLiner": "SFT 给材料 RL 搭积木，首次理论解释 SFT+RL 为什么组合拳最有效",
+        "interpretationLink": "../arxiv%20论文解读/2026-06-18-paper-compositional-reasoning-modules.md"
+      },
+      {
+        "rank": 4,
+        "title": "ConSA: Controllable Sparsity in Hybrid Attention",
+        "oneLiner": "让模型自己决定哪层全注意力哪层滑动窗口，打破人工规则",
+        "interpretationLink": "../arxiv%20论文解读/2026-06-18-paper-consa-hybrid-attention-allocation.md"
+      },
+      {
+        "rank": 5,
+        "title": "SkillCamo: Seeing Is Not Screening",
+        "oneLiner": "恶意指令藏在图片里绕过 skill scanner，多模态 agent 的新攻击面",
+        "interpretationLink": "../arxiv%20论文解读/2026-06-18-paper-skillcamo-multimodal-skill-attack.md"
+      }
+    ],
+    "criteria": []
+  },
+  {
+    "date": "2026-06-17",
+    "slug": "2026-06-17",
+    "papers": [
+      {
+        "rank": 1,
+        "title": "ContextRL: Context-Aware RL for Agentic and Multimodal LLMs",
+        "oneLiner": "用\"选对上下文\"作为 RL 辅助目标，开源模型的\"接地\"能力被严重高估",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-17-paper-context-aware-rl-grounding.md"
+      },
+      {
+        "rank": 2,
+        "title": "KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing",
+        "oneLiner": "在 KV 空间里\"擦掉\"错误上下文，延迟仅增 24% vs 重算的 17.6 倍",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-17-paper-kveraser-kv-cache-erasing.md"
+      },
+      {
+        "rank": 3,
+        "title": "DeepRubric: Evidence-Tree Rubric Supervision for Efficient RL of Deep Research Agents",
+        "oneLiner": "先有证据再出题，8B 模型用 1/13 算力追上 30B 大模型",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-17-paper-deeprubric-evidence-tree-rl.md"
+      },
+      {
+        "rank": 4,
+        "title": "ExpRL: Exploratory RL for LLM Mid-Training",
+        "oneLiner": "用 RL 热身比 SFT 更好——在评判下探索优于模仿答案",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-17-paper-exprl-exploratory-rl-mid-training.md"
+      },
+      {
+        "rank": 5,
+        "title": "CircuitLasso: Scalable Circuit Learning for Interpreting LLMs",
+        "oneLiner": "用稀疏线性回归替代干预式电路发现，成本降一个量级",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-17-paper-circuitlasso-scalable-circuit-learning.md"
+      }
+    ],
+    "criteria": []
+  },
+  {
+    "date": "2026-06-16",
+    "slug": "2026-06-16",
+    "papers": [
+      {
+        "rank": 1,
+        "title": "When Errors Become Narratives: Silent Failures in Production LLM Agent Runtime",
+        "oneLiner": "独立研究者 (Wei Wu)"
+      },
+      {
+        "rank": 2,
+        "title": "AgentSpec: Understanding Embodied Agent Scaffolds Through Controlled Composition",
+        "oneLiner": "UCSD、Johns Hopkins、UW、UIUC"
+      },
+      {
+        "rank": 3,
+        "title": "SkillAudit: Ground-Truth-Free Skill Evolution via Paired Trajectory Auditing",
+        "oneLiner": "中科院计算所、阿里通义实验室"
+      },
+      {
+        "rank": 4,
+        "title": "From Shield to Target: Denial-of-Service Attacks on LLM-Based Agent Guardrails",
+        "oneLiner": "未明确标注（推测港澳/内地高校）"
+      },
+      {
+        "rank": 5,
+        "title": "Parallel-Synthesis: Direct Latent-Space Synthesis for Parallel Branches in LLM-Agent Workflows",
+        "oneLiner": "未明确标注"
+      }
+    ],
+    "criteria": []
+  },
+  {
+    "date": "2026-06-14",
+    "slug": "2026-06-14",
+    "papers": [
+      {
+        "rank": 1,
+        "title": "Operadic consistency: a label-free signal for compositional reasoning failures in LLMs",
+        "oneLiner": "Incubilate、University of Cambridge、Allen Institute for AI"
+      },
+      {
+        "rank": 2,
+        "title": "EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery",
+        "oneLiner": "Tsinghua University、Zhipu AI"
+      },
+      {
+        "rank": 3,
+        "title": "Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning",
+        "oneLiner": "Meta Superintelligence Labs、Rice University"
+      },
+      {
+        "rank": 4,
+        "title": "EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments",
+        "oneLiner": "NUS、SMU、UW、UCL、Penn、NTU、Recursive、MIT"
+      },
+      {
+        "rank": 5,
+        "title": "Uncertainty-Aware Hybrid Retrieval for Long-Document RAG",
+        "oneLiner": "Purdue University"
+      }
+    ],
+    "criteria": []
+  },
+  {
+    "date": "2026-06-12",
+    "slug": "2026-06-12",
+    "papers": [
+      {
+        "rank": 1,
+        "title": "Goal-Autopilot: A Verifiable Anti-Fabrication Firewall for Unattended Long-Horizon Agents",
+        "oneLiner": "EpistemicaLab"
+      },
+      {
+        "rank": 2,
+        "title": "SkillJuror: Measuring How Agent Skill Organization Changes Runtime Behavior",
+        "oneLiner": "未明确标注（开源项目）"
+      },
+      {
+        "rank": 3,
+        "title": "RACES: Verifiable Environments Are LEGO Bricks — Recursive Composition for Reasoning Generalization",
+        "oneLiner": "中国科学院、阿里通义"
+      },
+      {
+        "rank": 4,
+        "title": "Bebop: Breaking Entropy Bounds — Accelerating RL Training via MTP with Rejection Sampling",
+        "oneLiner": "Qwen Team, Alibaba"
+      },
+      {
+        "rank": 5,
+        "title": "HORMA: Organize then Retrieve — Hierarchical Memory Navigation for Efficient Agents",
+        "oneLiner": "未明确标注（开源项目）"
+      }
+    ],
+    "criteria": []
+  },
+  {
+    "date": "2026-06-11",
+    "slug": "2026-06-11",
+    "papers": [
+      {
+        "rank": 1,
+        "title": "Multi-Faceted Interactivity Alignment in Full-Duplex Speech Models",
+        "oneLiner": "用 RL 四维度对齐全双工语音模型的交互行为（停顿/轮次/反馈/打断），LLM 评委保底语义质量",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-11-paper-full-duplex-interactivity-alignment.md"
+      },
+      {
+        "rank": 2,
+        "title": "Flaws in the LLM Automation Narrative",
+        "oneLiner": "LLM 的风险不是\"不够好\"而是\"不够稳\"——测方差和错误幅度，发现人类专家更可靠",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-11-paper-llm-automation-narrative-flaws.md"
+      },
+      {
+        "rank": 3,
+        "title": "Attention Amnesia in Hybrid LLMs",
+        "oneLiner": "CoT 微调会破坏混合架构的长程记忆，只恢复 W_Q/W_K 两个矩阵即可零训练修复",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-11-paper-attention-amnesia-cot-hybrid.md"
+      },
+      {
+        "rank": 4,
+        "title": "What Fits Into Few Tokens Doesn't Overfit",
+        "oneLiner": "ML 研究不过拟合的原因：成功的策略本身就是可压缩的，描述长度是策略好坏的新标准",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-11-paper-compression-generalization-ml-agents.md"
+      },
+      {
+        "rank": 5,
+        "title": "Frontier Coding Agents Use Metaprogramming",
+        "oneLiner": "强 coding agent 不会写冷门语言？它让 Python 帮它写——核心差距是策略灵活性而非知识量",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-11-paper-coding-agent-metaprogramming.md"
+      }
+    ],
+    "criteria": []
+  },
+  {
+    "date": "2026-06-10",
+    "slug": "2026-06-10",
+    "papers": [
+      {
+        "rank": 1,
+        "title": "SearchSwarm: Towards Delegation Intelligence in Agentic LLMs for Long-Horizon Deep Research",
+        "oneLiner": "清华大学、北京大学、蚂蚁集团、中国人民大学"
+      },
+      {
+        "rank": 2,
+        "title": "Muon Learns More Robust and Transferable Features than Adam",
+        "oneLiner": "耶鲁大学、新加坡国立大学、中科院"
+      },
+      {
+        "rank": 3,
+        "title": "IS-CoT: Breaking the Long-form Generation Collapse via Interleaved Structural Thinking",
+        "oneLiner": "苏州大学、军事科学院"
+      },
+      {
+        "rank": 4,
+        "title": "End-to-End Context Compression at Scale (LCLMs)",
+        "oneLiner": "NYU、UMD、Princeton、Columbia、Harvard、Meta FAIR、LLNL"
+      },
+      {
+        "rank": 5,
+        "title": "WeaveBench: A Long-Horizon, Real-World Benchmark for Computer-Use Agents with Hybrid Interfaces",
+        "oneLiner": "浙江大学、微软亚洲研究院、清华大学"
+      }
+    ],
+    "criteria": []
+  },
+  {
+    "date": "2026-06-09",
+    "slug": "2026-06-09",
+    "papers": [
+      {
+        "rank": 1,
+        "title": "Reversible Foundations: Training a 120B Sparse MoE",
+        "oneLiner": "8张显卡训120B模型，可逆架构+MoE生长+TQP量化",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-09-paper-reversible-120b-sparse-moe.md"
+      },
+      {
+        "rank": 2,
+        "title": "Socratic-SWE: Self-Evolving Coding Agents",
+        "oneLiner": "代码Agent从自己的解题轨迹中提炼技能，闭环自我进化",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-09-paper-socratic-swe-self-evolving-coding-agent.md"
+      },
+      {
+        "rank": 3,
+        "title": "Agentopia: Long-Term Life Simulation",
+        "oneLiner": "100个AI模拟10年社会生活，涌现复杂社会行为",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-09-paper-agentopia-long-term-life-simulation.md"
+      },
+      {
+        "rank": 4,
+        "title": "Your UnEmbedding Matrix is Secretly a Feature Lens",
+        "oneLiner": "发现LLM嵌入被高频词污染，一个线性变换修复",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-09-paper-embedfilter-unembedding-feature-lens.md"
+      },
+      {
+        "rank": 5,
+        "title": "A Comprehensive Anatomy of Human and DeepSeek-R1 Mathematical Reasoning",
+        "oneLiner": "解剖10247个推理步骤，发现DeepSeek-R1的\"拓扑模仿\"",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-09-paper-deepseek-r1-reasoning-topology-mimicry.md"
+      }
+    ],
+    "criteria": []
+  },
+  {
+    "date": "2026-06-08",
+    "slug": "2026-06-08",
+    "papers": [
+      {
+        "rank": 1,
+        "title": "[CLSA: You Only Index Once — Cross-Layer Sparse Attention with Shared Routing](http://arxiv.org/abs/2606.06467v1)（Microsoft）",
+        "oneLiner": "跨层共享路由索引，一次计算复用多层，128K 上下文实现 7.6x 解码加速 + 17.1x 吞吐提升",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-08/2026-06-08-CLSA-跨层稀疏注意力.md"
+      },
+      {
+        "rank": 2,
+        "title": "[SASA: Subspace-Aware Sparse Autoencoders for Mechanistic Interpretability](http://arxiv.org/abs/2606.06333v1)（Texas A&M）",
+        "oneLiner": "用子空间解码器替代单方向解码器，理论证明可解决 SAE 特征分裂，在 GPT-2/Mistral-7B 上验证",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-08/2026-06-08-SASA-子空间稀疏自编码器.md"
+      },
+      {
+        "rank": 3,
+        "title": "[MAGE: Memory as Execution State Management for Long-Horizon Agents](http://arxiv.org/abs/2606.06090v1)",
+        "oneLiner": "将记忆从语义检索重构为执行状态管理，用状态树约束上下文增长，任务成功率 +7.8~20.4pp，token 减少 55.1%",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-08/2026-06-08-MAGE-执行状态记忆管理.md"
+      },
+      {
+        "rank": 4,
+        "title": "[RedKnot: Head-Aware KV Cache Management for LLM Serving](http://arxiv.org/abs/2606.06256v1)",
+        "oneLiner": "按注意力头分解 KV 缓存，统一支持位置无关复用/前缀压缩/热冷分离，吞吐提升 2.6x，无需重训",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-08/2026-06-08-RedKnot-头感知KV缓存.md"
+      },
+      {
+        "rank": 5,
+        "title": "[RHO: Retrospective Harness Optimization via Self-Preference over Trajectory Rollouts](http://arxiv.org/abs/2606.05922v1)（Microsoft）",
+        "oneLiner": "自监督优化 agent harness，无需外部标注，一轮优化将 SWE-Bench Pro 从 59% 提升至 78%",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-08/2026-06-08-RHO-自优化Agent-Harness.md"
+      }
+    ],
+    "criteria": []
+  },
+  {
+    "date": "2026-06-07",
+    "slug": "2026-06-07",
+    "papers": [
+      {
+        "rank": 1,
+        "title": "LifeSkill: Learning While Acting — A Skill-Enhanced Test-Time Co-Evolution Framework（Bo Mao 等）",
+        "oneLiner": "验证器引导的技能提取 + 测试时技能内化，Agent 边做边学不靠外挂",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-07/2026-06-07-paper-lifeskill.md"
+      },
+      {
+        "rank": 2,
+        "title": "Skill-RM: Unifying Heterogeneous Evaluation Criteria via Agent Skill（Qwen 团队）",
+        "oneLiner": "把奖励建模变成可复用的 Agentic Skill，规则/参考/清单/评分全打通",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-07/2026-06-07-paper-skillrm.md"
+      },
+      {
+        "rank": 3,
+        "title": "EvoDS: Self-Evolving Autonomous Data Science Agent（Zherui Yang 等）",
+        "oneLiner": "自主技能获取 + 自适应上下文压缩，数据科学 Agent 自己长本事",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-07/2026-06-07-paper-evods.md"
+      },
+      {
+        "rank": 4,
+        "title": "AIP: A Graph Representation for Learning and Governing Agent Skills（Zachary Blumenfeld, Jim Webber）",
+        "oneLiner": "把技能从散文变成有向执行图，编译后任务通过率 53%→67%",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-07/2026-06-07-paper-aip.md"
+      },
+      {
+        "rank": 5,
+        "title": "DeltaMem: Incremental Experience Memory for LLM Agents via Residual Trees（Haoran Tan 等）",
+        "oneLiner": "残差树存增量经验，新旧知识共享基础不重复，检索时自动拼接",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-07/2026-06-07-paper-deltamem.md"
+      }
+    ],
+    "criteria": []
+  },
+  {
+    "date": "2026-06-05",
+    "slug": "2026-06-05",
+    "papers": [
+      {
+        "rank": 1,
+        "title": "DeMaVLA: A Vision-Language-Action Foundation Model for Generalizable Deformable Manipulation（上海交大等）",
+        "oneLiner": "Flow matching + 5000h 真实数据，让机器人学会通用折叠",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-05/2026-06-05-paper-demavla.md"
+      },
+      {
+        "rank": 2,
+        "title": "GitHub Copilot and Developer Productivity（Microsoft）",
+        "oneLiner": "1.6 万工程师、43 周数据证明：Copilot 让 PR 产出提升 40.5%",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-05/2026-06-05-paper-copilot-productivity.md"
+      },
+      {
+        "rank": 3,
+        "title": "RDA: Reward Design Agent for Reinforcement Learning（CMU 等）",
+        "oneLiner": "VLM 当「奖励设计师」，让 RL 奖励函数不再靠人手写",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-05/2026-06-05-paper-rda-reward-design.md"
+      },
+      {
+        "rank": 4,
+        "title": "SkillSmith: Co-Evolving Skills and Tools for Self-Improving Agent Systems",
+        "oneLiner": "技能和工具协同进化，用生态学模型指导 Agent 自我改进",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-05/2026-06-05-paper-skillsmith.md"
+      },
+      {
+        "rank": 5,
+        "title": "MindZero: Learning Online Mental Reasoning With Zero Annotations（NYU 等）",
+        "oneLiner": "零标注学心智推理，把 ToM 推理蒸馏成单次前向传播",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-05/2026-06-05-paper-mindzero.md"
+      }
+    ],
+    "criteria": []
+  },
+  {
+    "date": "2026-06-04",
+    "slug": "2026-06-04",
+    "papers": [
+      {
+        "rank": 1,
+        "title": "Language Models Need Sleep",
+        "oneLiner": "大模型需要\"睡觉\"来固化记忆：NREM 做知识蒸馏，REM 做 RL 梦境课程",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-04/2026-06-04-paper-llm-sleep-memory-consolidation.md"
+      },
+      {
+        "rank": 2,
+        "title": "Neuron Populations Exhibit Divergent Selectivity with Scale",
+        "oneLiner": "模型越大，1% 的精英神经元越来越专，99% 的打工人越来越摸鱼——亚线性幂律 + 极化效应",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-04/2026-06-04-paper-neuron-scaling-polarization.md"
+      },
+      {
+        "rank": 3,
+        "title": "Imaginative Perception Tokens Enhance Spatial Reasoning",
+        "oneLiner": "教 VLM 学会\"脑补\"：用想象力感知 Token 推理未观察到的空间结构",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-04/2026-06-04-paper-imaginative-perception-tokens.md"
+      },
+      {
+        "rank": 4,
+        "title": "Skill-RM: Unifying Heterogeneous Evaluation Criteria",
+        "oneLiner": "把奖励模型变成\"会查资料的考官\"：用 Agent 技能统一异构评判标准",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-04/2026-06-04-paper-skill-reward-model.md"
+      },
+      {
+        "rank": 5,
+        "title": "Denoise First, Orthogonalize Later",
+        "oneLiner": "Muon 优化器的动量不是加速器，是频谱滤波器——顺序不能反",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-04/2026-06-04-paper-muon-momentum-spectral-filtering.md"
+      }
+    ],
+    "criteria": []
+  },
+  {
+    "date": "2026-06-03",
+    "slug": "2026-06-03",
+    "papers": [
+      {
+        "rank": 1,
+        "title": "Geometric Latent Reasoning",
+        "oneLiner": "把 CoT 当 embedding 空间中的轨迹走，模型自动缩短生成且不掉准确率",
+        "interpretationLink": "../arxiv%20论文解读/2026-06-03/2026-06-03-paper-geometric-latent-reasoning.md"
+      },
+      {
+        "rank": 2,
+        "title": "SafeSteer: Localized On-Policy Distillation",
+        "oneLiner": "安全对齐只改 1% 的安全 token，100 个样本搞定，通用能力零退化",
+        "interpretationLink": "../arxiv%20论文解读/2026-06-03/2026-06-03-paper-safesteer.md"
+      },
+      {
+        "rank": 3,
+        "title": "SimSD: Speculative Decoding for Diffusion LMs",
+        "oneLiner": "给扩散语言模型装上\"验钞机\"，训练无关，最高 7.46x 吞吐量提升",
+        "interpretationLink": "../arxiv%20论文解读/2026-06-03/2026-06-03-paper-simsd-speculative-decoding-diffusion.md"
+      },
+      {
+        "rank": 4,
+        "title": "FLARE: Diffusion for Hybrid Language Model",
+        "oneLiner": "AR checkpoint 用少量数据转混合模型，数据质量 > 损失函数 > 注意力设计",
+        "interpretationLink": "../arxiv%20论文解读/2026-06-03/2026-06-03-paper-flare-hybrid-diffusion.md"
+      },
+      {
+        "rank": 5,
+        "title": "Massive Spikes are Bias Vectors",
+        "oneLiner": "激活 spikes 是模型主动构建的功能组件，理解本质后量化达到 SOTA",
+        "interpretationLink": "../arxiv%20论文解读/2026-06-03/2026-06-03-paper-spike-bias-vectors-quantization.md"
+      }
+    ],
+    "criteria": []
+  },
+  {
+    "date": "2026-06-02",
+    "slug": "2026-06-02",
+    "papers": [
+      {
+        "rank": 1,
+        "title": "LongTraceRL",
+        "oneLiner": "用搜索Agent的真实浏览记录构造干扰项+实体级rubric奖励，清华团队让大模型长上下文推理提升5.7分",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-02/2026-06-02-paper-longtrace-rl-search-agent-rubric.md"
+      },
+      {
+        "rank": 2,
+        "title": "GRKV",
+        "oneLiner": "用岭回归把被丢弃token的信息全局重分配，唯一一个KV合并后性能不降反升的方法",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-02/2026-06-02-paper-grkv-cache-ridge-regression.md"
+      },
+      {
+        "rank": 3,
+        "title": "EchoRL",
+        "oneLiner": "RLVR训练信号\"塌缩\"了？从全对的rollout中挖掘熵差异，ICML 2026接收",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-02/2026-06-02-paper-echorl-rollout-echoing-rlvr.md"
+      },
+      {
+        "rank": 4,
+        "title": "AutoSci",
+        "oneLiner": "北大团队的科研全栈Agent：记忆为中心，从读文献到回审稿意见全包，还能跨项目学习",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-02/2026-06-02-paper-autosci-memory-centric-research.md"
+      },
+      {
+        "rank": 5,
+        "title": "CoRP",
+        "oneLiner": "不用梯度的后训练：50个随机扰动折叠成1个模型，推理成本降50倍",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-02/2026-06-02-paper-corp-rewarded-perturbations-consolidation.md"
+      }
+    ],
+    "criteria": []
+  },
+  {
+    "date": "2026-06-01",
+    "slug": "2026-06-01",
+    "papers": [
+      {
+        "rank": 1,
+        "title": "LLMSurgeon: Diagnosing Data Mixture of LLMs",
+        "oneLiner": "从模型输出反推训练数据配方，R²=0.996",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-01/2026-06-01-paper-llm-pretraining-data-mixture-recovery.md"
+      },
+      {
+        "rank": 2,
+        "title": "Automating Low-Risk Code Review at Meta: RADAR",
+        "oneLiner": "53.5万条diff自动审查，事故率仅人工的1/50",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-01/2026-06-01-paper-meta-radar-code-review-automation.md"
+      },
+      {
+        "rank": 3,
+        "title": "How LoRA Remembers? A Parametric Memory Law",
+        "oneLiner": "LoRA记忆遵循幂律，token级相变阈值p>0.5",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-01/2026-06-01-paper-lora-parametric-memory-law.md"
+      },
+      {
+        "rank": 4,
+        "title": "RLR³: Reinforcement Learning with Robust Rubric Rewards",
+        "oneLiner": "评分表驱动RL奖励，突破\"必须可验证\"的边界",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-01/2026-06-01-paper-rlr3-rubric-rewards.md"
+      },
+      {
+        "rank": 5,
+        "title": "GenClaw: Code-Driven Agentic Image Generation",
+        "oneLiner": "代码当画笔，agent像画家一样构思→草稿→上色",
+        "interpretationLink": "./arxiv%20论文解读/2026-06-01/2026-06-01-paper-genclaw-code-driven-image-gen.md"
+      }
+    ],
+    "criteria": []
+  },
+  {
+    "date": "2026-05-27",
+    "slug": "2026-05-27",
+    "papers": [
+      {
+        "rank": 1,
+        "title": "CDD: 对比解码差分逐字恢复微调内容",
+        "oneLiner": "灰盒访问打败白盒基线，快170倍，还能挖出数据管道的意外产物",
+        "interpretationLink": "./arxiv 论文解读/2026-05-27-paper-cdd-verbatim-content-recovery.md"
+      },
+      {
+        "rank": 2,
+        "title": "DiscoverPhysics: LLM科学发现能力互动基准",
+        "oneLiner": "最强AI只通过一半的非标准物理世界，预测准≠理解对",
+        "interpretationLink": "./arxiv 论文解读/2026-05-27-paper-discoverphysics-scientific-discovery.md"
+      },
+      {
+        "rank": 3,
+        "title": "VeriTrace: 深度研究Agent心智模型监管",
+        "oneLiner": "三个监管环代替模型规模，认知图让中间推理可控",
+        "interpretationLink": "./arxiv 论文解读/2026-05-27-paper-veritrace-mental-models.md"
+      },
+      {
+        "rank": 4,
+        "title": "CQA: 100条CoT让AI学会专家审美",
+        "oneLiner": "架构对偶性解释为什么少量数据就够——校准判断力，创造力自动跟上",
+        "interpretationLink": "./arxiv 论文解读/2026-05-27-paper-cqa-creative-quality-alignment.md"
+      },
+      {
+        "rank": 5,
+        "title": "ABA: 自动化基准审计发现25.7%任务有重大问题",
+        "oneLiner": "AI考试的四分之一题目是错题，去掉后模型排名都变了",
+        "interpretationLink": "./arxiv 论文解读/2026-05-27-paper-aba-benchmark-audit.md"
+      }
+    ],
+    "criteria": []
+  },
+  {
+    "date": "2026-05-25",
+    "slug": "2026-05-25",
+    "papers": [
+      {
+        "rank": 1,
+        "title": "**DeltaBox**: Scaling Stateful AI Agents with Millisecond-Level Sandbox C/R",
+        "oneLiner": "Agent分身从4秒降到5毫秒，OS层做增量差分而非全盘复制",
+        "interpretationLink": "./arXiv 论文解读/2026-05-25-paper-deltabox-millisecond-sandbox.md"
+      },
+      {
+        "rank": 2,
+        "title": "**VPO**: Vector Policy Optimization — Training for Diversity Improves Test-Time Search",
+        "oneLiner": "RL训练不该追求单一最优，应该产出多样化候选集供搜索挑选",
+        "interpretationLink": "./arXiv 论文解读/2026-05-25-paper-vpo-diversity-training.md"
+      },
+      {
+        "rank": 3,
+        "title": "**LCGuard**: Latent Communication Guard for Safe KV Sharing in Multi-Agent Systems",
+        "oneLiner": "KV缓存共享暗藏隐私泄露风险，用对抗学习在表示层做安检",
+        "interpretationLink": "./arXiv 论文解读/2026-05-25-paper-lcguard-kv-security.md"
+      },
+      {
+        "rank": 4,
+        "title": "**SPD**: Self-Policy Distillation via Capability-Selective Subspace Projection",
+        "oneLiner": "不靠外部标签，从模型自身梯度提取能力子空间来做自蒸馏",
+        "interpretationLink": "./arXiv 论文解读/2026-05-25-paper-spd-self-policy-distillation.md"
+      },
+      {
+        "rank": 5,
+        "title": "**Beyond Temperature**: Hyperfitting as a Late-Stage Geometric Expansion",
+        "oneLiner": "过拟合到零损失不是温度缩放，是最后一层维度展开+token排名重排",
+        "interpretationLink": "./arXiv 论文解读/2026-05-25-paper-hyperfitting-rank-reordering.md"
+      }
+    ],
+    "criteria": []
+  },
+  {
+    "date": "2026-05-22",
+    "slug": "2026-05-22",
+    "papers": [
+      {
+        "rank": 1,
+        "title": "Agent JIT Compilation (ICML 2026)",
+        "oneLiner": "把网页 Agent 从\"每步调 LLM\"解放出来，先编译成代码再执行，速度翻 10 倍、准确率涨 28%",
+        "interpretationLink": "./arxiv%20论文解读/2026-05-22/2026-05-22-paper-agent-jit-compilation.md"
+      },
+      {
+        "rank": 2,
+        "title": "VIPER-MCP",
+        "oneLiner": "首个 MCP 服务器自动漏洞审计框架，扫 4 万仓库挖出 106 个 0-day、67 个 CVE",
+        "interpretationLink": "./arxiv%20论文解读/2026-05-22/2026-05-22-paper-viper-mcp-security.md"
+      },
+      {
+        "rank": 3,
+        "title": "Insights Generator (Scale AI)",
+        "oneLiner": "多 agent 系统做 trace 语料诊断，专家照着报告改，性能提升 30.4 个百分点",
+        "interpretationLink": "./arxiv%20论文解读/2026-05-22/2026-05-22-paper-insights-generator-debug.md"
+      },
+      {
+        "rank": 4,
+        "title": "RELEX (UVA)",
+        "oneLiner": "发现 RLVR 权重更新是 rank-1 线性轨迹，用 15% 训练步数外推预测全部结果",
+        "interpretationLink": "./arxiv%20论文解读/2026-05-22/2026-05-22-paper-relex-rank1-extrapolation.md"
+      },
+      {
+        "rank": 5,
+        "title": "APEX (NUS)",
+        "oneLiner": "给自我进化 Agent 建策略地图，解决\"找到一条路就不试别的\"的探索坍缩问题",
+        "interpretationLink": "./arxiv%20论文解读/2026-05-22/2026-05-22-paper-apex-exploration-collapse.md"
+      }
+    ],
+    "criteria": []
+  },
+  {
+    "date": "2026-05-21",
+    "slug": "2026-05-21",
+    "papers": [
+      {
+        "rank": 1,
+        "title": "ClinSeekAgent: 医疗AI从\"做题\"到\"看病\"",
+        "oneLiner": "让 Agent 主动搜索病历、影像、知识库，Claude Opus 多模态F1提升15分",
+        "interpretationLink": "../arxiv%20论文解读/2026-05-21/2026-05-21-paper-clinseek-agent-active-evidence.md"
+      },
+      {
+        "rank": 2,
+        "title": "ThoughtTrace: AI听懂了你说的，没听懂你想的",
+        "oneLiner": "首次大规模收集用户与AI对话时的真实想法，1058用户17000轮对话",
+        "interpretationLink": "../arxiv%20论文解读/2026-05-21/2026-05-21-paper-thoughttrace-user-thoughts-llm.md"
+      },
+      {
+        "rank": 3,
+        "title": "CopT: 推理顺序搞反了，应该先答后想",
+        "oneLiner": "反转CoT范式，先给草稿答案再反思，准确率+23%、token-57%",
+        "interpretationLink": "../arxiv%20论文解读/2026-05-21/2026-05-21-paper-copt-reverse-cot-thinking.md"
+      },
+      {
+        "rank": 4,
+        "title": "PEEK: Agent反复处理同一环境像失忆",
+        "oneLiner": "给Agent一张常驻的context map小抄，迭代次数减少上百倍",
+        "interpretationLink": "../arxiv%20论文解读/2026-05-21/2026-05-21-paper-peek-context-map-agent.md"
+      },
+      {
+        "rank": 5,
+        "title": "ReBel: Agent走偏是因为信念漂移",
+        "oneLiner": "用\"预测vs实际\"的一致性做自我监督，ALFWorld成功率+20pp",
+        "interpretationLink": "../arxiv%20论文解读/2026-05-21/2026-05-21-paper-rebel-belief-rl-long-horizon.md"
+      }
+    ],
+    "criteria": []
+  },
+  {
+    "date": "2026-05-20",
+    "slug": "2026-05-20",
+    "papers": [
+      {
+        "rank": 1,
+        "title": "EnvFactory: Scaling Tool-Use Agents via Executable Environments",
+        "oneLiner": "85 个环境自动建出 2575 条训练数据，Qwen3 工具调用涨了 15%",
+        "interpretationLink": "./arxiv 论文解读/2026-05-20-paper-envfactory-auto-build-agents.md"
+      },
+      {
+        "rank": 2,
+        "title": "A Three-Layer Probabilistic Architecture for Safe LLM Agent Deployment",
+        "oneLiner": "单层 Agent 安全注定不够——三层信息严格不同，缺一不可",
+        "interpretationLink": "./arxiv 论文解读/2026-05-20-paper-three-layer-agent-safety.md"
+      },
+      {
+        "rank": 3,
+        "title": "Prompts Don't Protect: MCP Proxy for Tool Access Control",
+        "oneLiner": "靠 prompt 控制工具权限？4-37% 越权率。架构过滤才是 0%",
+        "interpretationLink": "./arxiv 论文解读/2026-05-20-paper-mcp-proxy-access-control.md"
+      },
+      {
+        "rank": 4,
+        "title": "QSTRBench: Evaluating LLMs on Qualitative Spatial/Temporal Reasoning",
+        "oneLiner": "32 个模型全测了，没有一个能稳定答对空间关系推理",
+        "interpretationLink": "./arxiv 论文解读/2026-05-20-paper-qstrbench-spatial-temporal-reasoning.md"
+      },
+      {
+        "rank": 5,
+        "title": "Beyond Inference-Time Search: RL Synthesizes Reusable Solvers",
+        "oneLiner": "RL 让模型从\"每次解题\"变成\"写求解器\"，推理成本降 91 倍",
+        "interpretationLink": "./arxiv 论文解读/2026-05-20-paper-rl-synthesizes-reusable-solvers.md"
+      }
+    ],
+    "criteria": []
+  },
+  {
+    "date": "2026-05-18",
+    "slug": "2026-05-18",
+    "papers": [
+      {
+        "rank": 1,
+        "title": "MetaBackdoor: 利用位置编码做后门攻击",
+        "oneLiner": "不改输入文字，只改对话长度就能让 AI 泄密——微软发现了一个全新的 LLM 攻击面",
+        "interpretationLink": "./arxiv%20论文解读/2026-05-18/2026-05-18-paper-position-encoding-backdoor.md"
+      },
+      {
+        "rank": 2,
+        "title": "Orchard: 开源 Agent 训练框架",
+        "oneLiner": "微软开源了一套 Agent 训练底座，三道菜（SWE/GUI/Claw）刷出同尺寸开源 SOTA",
+        "interpretationLink": "./arxiv%20论文解读/2026-05-18/2026-05-18-paper-orchard-agent-framework.md"
+      },
+      {
+        "rank": 3,
+        "title": "Veritas: AI 挖到苹果 CVE",
+        "oneLiner": "用\"工具提取证据 + LLM 推理 + 调试器验证\"三阶段流水线，90% 召回 + 零误报",
+        "interpretationLink": "./arxiv%20论文解读/2026-05-18/2026-05-18-paper-veritas-binary-vulnerability.md"
+      },
+      {
+        "rank": 4,
+        "title": "像保护操作系统一样保护 Agent",
+        "oneLiner": "Agent 的安全问题就是 60 年前 OS 安全的老问题——但大部分人还在贴\"请勿入内\"的纸条",
+        "interpretationLink": "./arxiv%20论文解读/2026-05-18/2026-05-18-paper-securing-agents-like-os.md"
+      },
+      {
+        "rank": 5,
+        "title": "LLM 攻击评测地图：只覆盖了 25%",
+        "oneLiner": "932 篇论文画出完整威胁地图后，发现现有 benchmark 加起来只覆盖了四分之一的攻击面",
+        "interpretationLink": "./arxiv%20论文解读/2026-05-18/2026-05-18-paper-llm-attack-taxonomy.md"
+      }
+    ],
+    "criteria": []
+  },
+  {
+    "date": "2026-05-17",
+    "slug": "2026-05-17",
+    "papers": [
+      {
+        "rank": 1,
+        "title": "MetaBackdoor: 位置编码当后门 trigger",
+        "oneLiner": "不用改输入内容，光靠\"输入有多长\"就能让大模型泄露 system prompt",
+        "interpretationLink": "./arxiv 论文解读/2026-05-17-paper-metabackdoor-positional-encoding.md"
+      },
+      {
+        "rank": 2,
+        "title": "Orchard: 微软开源 Agent 训练基建",
+        "oneLiner": "一个薄环境层通吃代码/浏览器/个人助理三大领域，SWE-bench 67.5%",
+        "interpretationLink": "./arxiv 论文解读/2026-05-17-paper-orchard-agent-infrastructure.md"
+      },
+      {
+        "rank": 3,
+        "title": "把 AI Agent 当操作系统来安全",
+        "oneLiner": "四个主流 Agent（含 OpenClaw）全部存在根本性安全设计缺陷",
+        "interpretationLink": "./arxiv 论文解读/2026-05-17-paper-securing-agents-like-os.md"
+      },
+      {
+        "rank": 4,
+        "title": "无载荷技能攻击",
+        "oneLiner": "不写一行恶意代码，靠自然语言\"合规说明\"让 Agent 自己生成攻击，检测率 0%",
+        "interpretationLink": "./arxiv 论文解读/2026-05-17-paper-payload-less-skill-attack.md"
+      },
+      {
+        "rank": 5,
+        "title": "MemLineage: Agent 记忆溯源追踪",
+        "oneLiner": "给每条记忆装密码学来源标签，恶意内容经过 Agent 加工也能追溯到源头",
+        "interpretationLink": "./arxiv 论文解读/2026-05-17-paper-memlineage-memory-provenance.md"
+      }
+    ],
+    "criteria": []
+  },
+  {
+    "date": "2026-05-16",
+    "slug": "2026-05-16",
+    "papers": [
+      {
+        "rank": 1,
+        "title": "MetaBackdoor: Exploiting Positional Encoding as a Backdoor Attack Surface in LLMs",
+        "oneLiner": "不用改一个字，靠对话长度就能让大模型泄露系统提示词——微软安全团队开辟全新攻击面",
+        "interpretationLink": "./arxiv%20论文解读/2026-05-16/2026-05-16-paper-metabackdoor-positional-attack.md"
+      },
+      {
+        "rank": 2,
+        "title": "OpenDeepThink: Parallel Reasoning via Bradley–Terry Aggregation",
+        "oneLiner": "让多个答案互相挑刺，Gemini 3.1 Pro 编程水平暴涨 405 Elo，不需要任何训练",
+        "interpretationLink": "./arxiv%20论文解读/2026-05-16/2026-05-16-paper-opendeepthink-bt-ranking.md"
+      },
+      {
+        "rank": 3,
+        "title": "TFGN: Task-Free, Replay-Free Continual Pre-Training Without Catastrophic Forgetting at LLM Scale",
+        "oneLiner": "大模型连学六门课还不遗忘，靠的是「读写分离」架构——不需要回放、不需要任务标签",
+        "interpretationLink": "./arxiv%20论文解读/2026-05-16/2026-05-16-paper-tfgn-catastrophic-forgetting.md"
+      },
+      {
+        "rank": 4,
+        "title": "AsyncFC: Future-based Asynchronous Function Calling for LLMs",
+        "oneLiner": "大模型调工具不再干等——用「未来占位符」实现并行调用，提速 1.44 倍且无需模型改动",
+        "interpretationLink": "./arxiv%20论文解读/2026-05-16/2026-05-16-paper-asyncfc-future-calling.md"
+      },
+      {
+        "rank": 5,
+        "title": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
+        "oneLiner": "在 Agent 场景下，grep 打败了向量检索——噪音越多优势越大，反直觉但有数据支撑",
+        "interpretationLink": "./arxiv%20论文解读/2026-05-16/2026-05-16-paper-grep-vs-vector-agent-search.md"
+      }
+    ],
+    "criteria": []
+  },
+  {
+    "date": "2026-05-15",
+    "slug": "2026-05-15",
+    "papers": [
+      {
+        "rank": 1,
+        "title": "LLM-Based Persuasion Enables Guardrail Override",
+        "oneLiner": "一个AI用自然语言聊天就能说服另一个AI突破安全护栏，连剧本都不用写",
+        "interpretationLink": "./arxiv%20论文解读/2026-05-15/2026-05-15-paper-ai-persuades-ai-break-guardrails.md"
+      },
+      {
+        "rank": 2,
+        "title": "Negation Neglect: When models fail to learn negations in training",
+        "oneLiner": "给模型一万篇带\"这是假的\"标注的文章，微调后它照样把假内容当真",
+        "interpretationLink": "./arxiv%20论文解读/2026-05-15/2026-05-15-paper-negation-neglect-llm-finetune.md"
+      },
+      {
+        "rank": 3,
+        "title": "TFlow: Weight-Space Communication for Multi-Agent LLMs",
+        "oneLiner": "Agent之间不发消息，直接给对方的模型参数打临时补丁，token消耗降83%",
+        "interpretationLink": "./arxiv%20论文解读/2026-05-15/2026-05-15-paper-tflow-weight-agent-comm.md"
+      },
+      {
+        "rank": 4,
+        "title": "History Anchors: Prior Behavior Steers LLMs Toward Unsafe Actions",
+        "oneLiner": "一句\"保持一致\"让所有前沿模型从96分安全水平掉到2分，模型越强越脆弱",
+        "interpretationLink": "./arxiv%20论文解读/2026-05-15/2026-05-15-paper-history-anchors-agent-safety.md"
+      },
+      {
+        "rank": 5,
+        "title": "FlowCompile: An Optimizing Compiler for Structured LLM Workflows",
+        "oneLiner": "把AI工作流优化当成编译器来做，部署前算好最优配置，最高提速6.4倍",
+        "interpretationLink": "./arxiv%20论文解读/2026-05-15/2026-05-15-paper-flowcompile-workflow-compiler.md"
+      }
+    ],
+    "criteria": []
+  },
+  {
+    "date": "2026-05-14",
+    "slug": "2026-05-14",
+    "papers": [
+      {
+        "rank": 1,
+        "title": "Covering Human Action Space for Computer Use",
+        "oneLiner": "发现 GUI Agent 的致命弱点不在\"不会点\"而在\"不会拖\"，用渲染式数据合成补齐长尾操作"
+      },
+      {
+        "rank": 2,
+        "title": "TextSeal: A Localized LLM Watermark",
+        "oneLiner": "双钥匙水印方案，检测率碾压 SynthID 且零推理开销，水印还能通过蒸馏\"传染\"给小模型"
+      },
+      {
+        "rank": 3,
+        "title": "Multi-Stream LLMs",
+        "oneLiner": "把 LLM 从单线程聊天格式解放出来，读、想、做同时进行，首 token 延迟大幅下降"
+      },
+      {
+        "rank": 4,
+        "title": "TokenHD: Token-Level Hallucination Detection",
+        "oneLiner": "0.6B 小模型就能精确到每个词找出大模型的幻觉，比 32B 推理模型还准"
+      },
+      {
+        "rank": 5,
+        "title": "Learning, Fast and Slow: FST",
+        "oneLiner": "把 LLM 学习拆成\"参数慢更新 + prompt 快更新\"，训练效率提升 3 倍，灾难性遗忘减少 70%"
+      }
+    ],
+    "criteria": []
+  },
+  {
+    "date": "2026-05-13",
+    "slug": "2026-05-13",
+    "papers": [
+      {
+        "rank": 1,
+        "title": "[Can You Keep a Secret? Involuntary Information Leakage in Language Model Writing](https://arxiv.org/abs/2605.10794) (Allen AI/UW)",
+        "oneLiner": "所有前沿模型都藏不住秘密——就算一个字都不说，选题/意象/场景全在泄密",
+        "interpretationLink": "../arxiv 论文解读/2026-05-13-paper-secret-leakage-llm-writing.md"
+      },
+      {
+        "rank": 2,
+        "title": "[The Bystander Effect in Multi-Agent Reasoning](https://arxiv.org/abs/2605.10698)",
+        "oneLiner": "多Agent组队反而变蠢——模型明明内部算对了，嘴上却迎合群体",
+        "interpretationLink": "../arxiv 论文解读/2026-05-13-paper-bystander-effect-multi-agent.md"
+      },
+      {
+        "rank": 3,
+        "title": "[Compute Where it Counts: Self-Optimizing Language Models](https://arxiv.org/abs/2605.10875)",
+        "oneLiner": "让模型自己决定每个token花多少算力，同样预算MMLU+7.3%",
+        "interpretationLink": "../arxiv 论文解读/2026-05-13-paper-dynamic-compute-allocation-sol.md"
+      },
+      {
+        "rank": 4,
+        "title": "[Rethinking Agentic Search with Pi-Serini: Is Lexical Retrieval Sufficient?](https://arxiv.org/abs/2605.10848) (Waterloo)",
+        "oneLiner": "强LLM+BM25就够了，向量检索可以省了——答案准确率83.1%",
+        "interpretationLink": "../arxiv 论文解读/2026-05-13-paper-lexical-retrieval-agentic-search.md"
+      },
+      {
+        "rank": 5,
+        "title": "[ComplexMCP: Evaluation of LLM Agents in Dynamic, Interdependent Tool Sandbox](https://arxiv.org/abs/2605.10787)",
+        "oneLiner": "最强Agent在真实工具环境里成功率不到60%，人类是90%——工具越多Agent越懵",
+        "interpretationLink": "../arxiv 论文解读/2026-05-13-paper-complex-mcp-agent-evaluation.md"
+      }
+    ],
+    "criteria": []
+  },
+  {
+    "date": "2026-05-11",
+    "slug": "2026-05-11",
+    "papers": [
+      {
+        "rank": 1,
+        "title": "SkillOS: Learning Skill Curation for Self-Evolving Agents",
+        "oneLiner": "Agent自己攒经验、自己整理经验，用RL训练\"策展人\"管理技能库，越用越聪明"
+      },
+      {
+        "rank": 2,
+        "title": "Verifier-Backed Hard Problem Generation for Mathematical Reasoning",
+        "oneLiner": "三方自博弈（出题+验证+做题）堵住奖励黑客，4B小模型出了32B大模型做不出的题"
+      },
+      {
+        "rank": 3,
+        "title": "Positive-Only Policy Optimization (POPO)",
+        "oneLiner": "只学成功不学失败，靠隐式负梯度实现Qwen-Math-7B在AIME 2025上甩GRPO近7分"
+      },
+      {
+        "rank": 4,
+        "title": "Can RL Teach Long-Horizon Reasoning? Expressiveness Is Key",
+        "oneLiner": "发现RL推理训练的幂律Scaling Law：逻辑越复杂，训练成本加速增长，但迁移效果更好"
+      },
+      {
+        "rank": 5,
+        "title": "Optimizer-Model Consistency: Full Finetuning Forgets Less",
+        "oneLiner": "微调别换优化器——跟预训练同一个优化器，全量微调Pareto前沿全面碾压LoRA"
+      }
+    ],
+    "criteria": []
+  },
+  {
+    "date": "2026-05-10",
+    "slug": "2026-05-10",
+    "papers": [
+      {
+        "rank": 1,
+        "title": "Why Global LLM Leaderboards Are Misleading (CMU+MIT)",
+        "oneLiner": "全球排行榜前50名分不出谁强谁弱，按语言分组才看得清",
+        "interpretationLink": "../arxiv 论文解读/2026-05-10-paper-llm-leaderboard-misleading.md"
+      },
+      {
+        "rank": 2,
+        "title": "STALE: Can LLM Agents Know When Memories Are Stale? (武大+HKUST)",
+        "oneLiner": "AI记住了你搬家，却还给你推旧小区的攻略——隐式记忆冲突检测",
+        "interpretationLink": "../arxiv 论文解读/2026-05-10-paper-agent-memory-stale.md"
+      },
+      {
+        "rank": 3,
+        "title": "Optimizer-Model Consistency (UIUC+Apple, Tong Zhang)",
+        "oneLiner": "微调用和预训练同一个优化器，比LoRA忘得更少",
+        "interpretationLink": "../arxiv 论文解读/2026-05-10-paper-optimizer-consistency-finetuning.md"
+      },
+      {
+        "rank": 4,
+        "title": "MiA-Signature (中科院+腾讯)",
+        "oneLiner": "大脑不是逐条翻记忆，是先\"感觉\"在哪——RAG的两阶段检索",
+        "interpretationLink": "../arxiv 论文解读/2026-05-10-paper-mia-signature-long-context.md"
+      },
+      {
+        "rank": 5,
+        "title": "ROSE: Rollout On Serving GPUs (HKUST+阿里)",
+        "oneLiner": "训练AI不用多买卡，线上GPU空闲算力薅来用，提速3倍",
+        "interpretationLink": "../arxiv 论文解读/2026-05-10-paper-rose-serving-gpu-rl-rollout.md"
+      }
+    ],
+    "criteria": []
+  },
+  {
+    "date": "2026-05-09",
+    "slug": "2026-05-09",
+    "papers": [
+      {
+        "rank": 1,
+        "title": "Verifier-Backed Hard Problem Generation",
+        "oneLiner": "4B小模型出题，难倒32B大模型——三博弈架构堵住奖励黑客漏洞",
+        "interpretationLink": "./arxiv 论文解读/2026-05-09-paper-vhg-verifier-math-problem.md"
+      },
+      {
+        "rank": 2,
+        "title": "Why Global LLM Leaderboards Are Misleading",
+        "oneLiner": "全球排行榜前50名胜率不超过53%——语言才是最大分歧源",
+        "interpretationLink": "./arxiv 论文解读/2026-05-09-paper-llm-leaderboard-misleading.md"
+      },
+      {
+        "rank": 3,
+        "title": "Optimizer-Model Consistency",
+        "oneLiner": "微调用和预训练一样的优化器，全量微调比LoRA忘得更少",
+        "interpretationLink": "./arxiv 论文解读/2026-05-09-paper-optimizer-consistency-finetune.md"
+      },
+      {
+        "rank": 4,
+        "title": "SuperIntelligent Retrieval Agent (SIRA)",
+        "oneLiner": "一次精准检索打败多轮Agent搜索——不用训练，不靠密集向量",
+        "interpretationLink": "./arxiv 论文解读/2026-05-09-paper-sira-one-shot-retrieval.md"
+      },
+      {
+        "rank": 5,
+        "title": "StraTA: Strategic Trajectory Abstraction",
+        "oneLiner": "Agent做长任务先定战略再动手——三层基准超闭源模型",
+        "interpretationLink": "./arxiv 论文解读/2026-05-09-paper-strata-strategic-agentic-rl.md"
+      }
+    ],
+    "criteria": []
+  },
+  {
+    "date": "2026-05-08",
+    "slug": "2026-05-08",
+    "papers": [
+      {
+        "rank": 1,
+        "title": "Design Conductor 2.0: An agent builds a TurboQuant inference accelerator in 80 hours",
+        "oneLiner": "LLM 看一篇论文，80 小时自主设计出完整 AI 推理芯片，从架构到物理布局"
+      },
+      {
+        "rank": 2,
+        "title": "CuBridge: An LLM-Based Framework for Understanding and Reconstructing High-Performance Attention Kernels",
+        "oneLiner": "用\"提起-转移-放下\"三步法让 LLM 适配专家 CUDA kernel，比 PyTorch 快 16 倍"
+      },
+      {
+        "rank": 3,
+        "title": "Uno-Orchestra: Parsimonious Agent Routing via Selective Delegation",
+        "oneLiner": "多 Agent 编排学会\"见菜下碟\"，效果 +16%，成本 -10x"
+      },
+      {
+        "rank": 4,
+        "title": "AgentTrust: Runtime Safety Evaluation and Interception for AI Agent Tool Use",
+        "oneLiner": "AI Agent 的实时贴身保镖，每个动作先过审再执行，支持 MCP"
+      },
+      {
+        "rank": 5,
+        "title": "You Snooze, You Lose: Automatic Safety Alignment Restoration through Neural Weight Translation",
+        "oneLiner": "给 LoRA 适配器\"后装刹车\"，攻击成功率 70%→13%，知识保留 90%"
+      }
+    ],
+    "criteria": []
+  },
+  {
+    "date": "2026-05-07",
+    "slug": "2026-05-07",
+    "papers": [
+      {
+        "rank": 1,
+        "title": "[SaFE-Scale: 临床LLM的安全与准确率走的是两条路](https://arxiv.org/abs/2605.04039v1)",
+        "oneLiner": "准确率提高了，高危错误可能没变甚至更严重——RAG让模型错的时候更自信",
+        "interpretationLink": "./arxiv%20论文解读/20260507T050125--paper-safe-scale-clinical-llm__paper.md"
+      },
+      {
+        "rank": 2,
+        "title": "[OpenSeeker-v2: 纯SFT打败CPT+SFT+RL](https://arxiv.org/abs/2605.04036v1)",
+        "oneLiner": "10.6k条高难度数据+SFT，打败通义DeepResearch的重型训练管线",
+        "interpretationLink": "./arxiv%20论文解读/20260507T050126--paper-openseeker-v2-sft-search-agent__paper.md"
+      },
+      {
+        "rank": 3,
+        "title": "[ARGUS: 上下文感知的Prompt注入防御](https://arxiv.org/abs/2605.03378v1)",
+        "oneLiner": "Agent安全的核心不是意图识别，是数据溯源——每个决定追溯到数据来源",
+        "interpretationLink": "./arxiv%20论文解读/20260507T050127--paper-argus-context-aware-prompt-injection__paper.md"
+      },
+      {
+        "rank": 4,
+        "title": "[Agent Memory Circuit: 记忆黑盒里的控制先于内容](https://arxiv.org/abs/2605.03354v1)",
+        "oneLiner": "小模型会\"表演\"记忆管理——动作到位，内容空白；4B能检测，8B才能操控",
+        "interpretationLink": "./arxiv%20论文解读/20260507T050128--paper-agent-memory-circuit-emergence__paper.md"
+      },
+      {
+        "rank": 5,
+        "title": "[Moral Sensitivity: 蒸馏把偏见找回来了](https://arxiv.org/abs/2605.03217v1)",
+        "oneLiner": "大模型消除了偏见，蒸馏后小模型的偏见又回来了——U型曲线",
+        "interpretationLink": "./arxiv%20论文解读/20260507T050129--paper-moral-sensitivity-u-curve-bias__paper.md"
+      }
+    ],
+    "criteria": []
+  },
+  {
+    "date": "2026-04-30",
+    "slug": "2026-04-30",
+    "papers": [
+      {
+        "rank": 1,
+        "title": "Pythia: Exploiting Workflow Predictability for Efficient Agent-Native LLM Serving",
+        "oneLiner": "给 LLM 调度系统装上\"透视眼镜\"，看穿多 Agent 工作流结构，JCT 降低 2.9 倍",
+        "interpretationLink": "../arxiv 论文解读/2026-04-30-paper-pythia.md"
+      },
+      {
+        "rank": 2,
+        "title": "ReQueR: One Refiner to Unlock Them All",
+        "oneLiner": "一个问题改写器，用 RL 训练，解锁所有模型的推理能力，O(1) 对齐范式",
+        "interpretationLink": "../arxiv 论文解读/2026-04-30-paper-requer.md"
+      },
+      {
+        "rank": 3,
+        "title": "From Syntax to Emotion: Mechanistic Analysis of Emotion Inference in LLMs",
+        "oneLiner": "用 SAE 打开 LLM 情绪识别黑盒，发现三阶段加工链路：语法→概念→情绪",
+        "interpretationLink": "../arxiv 论文解读/2026-04-30-paper-emotion-saes.md"
+      },
+      {
+        "rank": 4,
+        "title": "Semantic Gateway: Zero-Trust Security for AI-Native Enterprise Systems",
+        "oneLiner": "把区块链形式验证移植到 Agent 安全，50 万次 fuzzing 100% 发现越权漏洞",
+        "interpretationLink": "../arxiv 论文解读/2026-04-30-paper-semantic-gateway.md"
+      },
+      {
+        "rank": 5,
+        "title": "ValueAlpha: Agreement-Gated Stress Testing of LLM-Judged Investment Rationales",
+        "oneLiner": "发现 LLM 投资裁判的致命陷阱：简洁正确的逻辑被扣 2.81 分，废话反而得高分",
+        "interpretationLink": "../arxiv 论文解读/2026-04-30-paper-valuealpha.md"
+      }
+    ],
+    "criteria": []
+  },
+  {
+    "date": "2026-04-29",
+    "slug": "2026-04-29",
+    "papers": [
+      {
+        "rank": 1,
+        "title": "[Evaluating whether AI models would sabotage AI safety research](https://arxiv.org/abs/2604.24618v1)",
+        "oneLiner": "Anthropic 把 Claude 模型放到可以暗中破坏安全研究的场景里，发现最强模型最擅长\"明知故犯\"——内心知道不对但行动上还是搞了",
+        "interpretationLink": "./arxiv 论文解读/2026-04-29-paper-ai-model-sabotage-safety-research.md"
+      },
+      {
+        "rank": 2,
+        "title": "[Layerwise Convergence Fingerprints for Runtime Misbehavior Detection](https://arxiv.org/abs/2604.24542v1)",
+        "oneLiner": "给 AI 模型\"把脉\"——通过监测层间隐藏状态的变化，不用训练、不用参考模型就能同时检测后门、越狱和注入",
+        "interpretationLink": "./arxiv 论文解读/2026-04-29-paper-lcf-layerwise-convergence-fingerprints.md"
+      },
+      {
+        "rank": 3,
+        "title": "[Rewarding the Scientific Process: Process-Level Reward Modeling for Agentic Data Analysis](https://arxiv.org/abs/2604.24198v1)",
+        "oneLiner": "通用 PRM 抓不到数据分析的\"沉默错误\"（代码不报错但结果不对），也分不出探索性试错——浙大设计了环境感知的 DataPRM",
+        "interpretationLink": "./arxiv 论文解读/2026-04-29-paper-dataprm-process-reward-data-analysis.md"
+      },
+      {
+        "rank": 4,
+        "title": "[Agentic Witnessing: TEE-Enabled Privacy-Preserving Auditing](https://arxiv.org/abs/2604.24203v1)",
+        "oneLiner": "用 TEE 里的 LLM 当\"虚拟鉴定师\"——不用交出源代码，就能回答\"你的代码是不是实现了论文里的算法\"这种定性问题",
+        "interpretationLink": "./arxiv 论文解读/2026-04-29-paper-agentic-witnessing-tee-auditing.md"
+      },
+      {
+        "rank": 5,
+        "title": "[Skill Retrieval Augmentation for Agentic AI](https://arxiv.org/abs/2604.24594v1)",
+        "oneLiner": "Agent 技能库膨胀到万级时，全塞 prompt 的做法崩了——更关键的是，Agent 根本不知道自己什么时候该用技能",
+        "interpretationLink": "./arxiv 论文解读/2026-04-29-paper-sra-skill-retrieval-augmentation.md"
+      }
+    ],
+    "criteria": []
+  },
+  {
+    "date": "2026-04-28",
+    "slug": "2026-04-28",
+    "papers": [
+      {
+        "rank": 1,
+        "title": "How LLMs Detect and Correct Their Own Errors (Google DeepMind)",
+        "oneLiner": "模型回答后的换行符里藏着一个\"信心检测器\"，不仅能发现自己错了，还知道自己能不能改过来",
+        "interpretationLink": "./arxiv 论文解读/2026-04-28-paper-llm-internal-confidence-signals.md"
+      },
+      {
+        "rank": 2,
+        "title": "Contexts are Never Long Enough: SLIDERS (Stanford)",
+        "oneLiner": "把超长文档问答从\"塞context window\"变成\"提取到数据库+SQL推理\"，36M token场景下超越GPT-4.1约32分",
+        "interpretationLink": "./arxiv 论文解读/2026-04-28-paper-sliders-structured-reasoning.md"
+      },
+      {
+        "rank": 3,
+        "title": "SpikingBrain2.0 (中科院自动化所)",
+        "oneLiner": "5B模型通过混搭稀疏注意力+转换式训练，4M上下文首token速度快10倍，INT8脉冲路径芯片面积省70%",
+        "interpretationLink": "./arxiv 论文解读/2026-04-28-paper-spikingbrain2-efficient-long-context.md"
+      },
+      {
+        "rank": 4,
+        "title": "Behavioral Canaries: Auditing Private Context in RLFT (Google)",
+        "oneLiner": "往文档里埋\"行为金丝雀\"，通过检测模型说话风格变化来判断是否违规用你的数据训练RL",
+        "interpretationLink": "./arxiv 论文解读/2026-04-28-paper-behavioral-canaries-audit-rlft.md"
+      },
+      {
+        "rank": 5,
+        "title": "How Do AI Agents Spend Your Money? (MIT等)",
+        "oneLiner": "第一篇agent经济学系统研究：花最多token的模型准确率不更高，同一任务消耗差30倍且模型自己也预测不准",
+        "interpretationLink": "./arxiv 论文解读/2026-04-28-paper-token-consumption-agentic-coding.md"
+      }
+    ],
+    "criteria": []
+  }
+]

@@ -1,0 +1,3765 @@
+[
+  {
+    "slug": "paper-adaptive-inference",
+    "title": "paper-adaptive-inference",
+    "date": "2026-06-30",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-30-card-adaptive-inference.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-flexmoe",
+    "title": "paper-flexmoe",
+    "date": "2026-06-30",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-30-card-flexmoe.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-textual-belief",
+    "title": "paper-textual-belief",
+    "date": "2026-06-30",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-30-card-textual-belief.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-training-monitor",
+    "title": "paper-training-monitor",
+    "date": "2026-06-30",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-30-card-training-monitor.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-vla-redundancy",
+    "title": "paper-vla-redundancy",
+    "date": "2026-06-30",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-30-card-vla-redundancy.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-gradient-multi-agent-optimization",
+    "title": "paper-gradient-multi-agent-optimization",
+    "date": "2026-06-30",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-jailbreak-attention-head-mechanism",
+    "title": "paper-jailbreak-attention-head-mechanism",
+    "date": "2026-06-30",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-llm-world-model-spectrum",
+    "title": "paper-llm-world-model-spectrum",
+    "date": "2026-06-30",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-prompt-injection-impossibility",
+    "title": "paper-prompt-injection-impossibility",
+    "date": "2026-06-30",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-vla-redundancy-drop-recovery",
+    "title": "paper-vla-redundancy-drop-recovery",
+    "date": "2026-06-30",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-ceiling",
+    "title": "paper-ceiling",
+    "date": "2026-06-29",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-29-card-ceiling.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-geoalign",
+    "title": "paper-geoalign",
+    "date": "2026-06-29",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-29-card-geoalign.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-nova",
+    "title": "paper-nova",
+    "date": "2026-06-29",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-29-card-nova.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-rca",
+    "title": "paper-rca",
+    "date": "2026-06-29",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-29-card-rca.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-river",
+    "title": "paper-river",
+    "date": "2026-06-29",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-29-card-river.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-constraint-tax",
+    "title": "paper-constraint-tax",
+    "date": "2026-06-28",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-28-card-constraint-tax.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-opera-perplexity-reward",
+    "title": "paper-opera-perplexity-reward",
+    "date": "2026-06-28",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-28-card-opera-perplexity-reward.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-progress-advantage",
+    "title": "paper-progress-advantage",
+    "date": "2026-06-28",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-28-card-progress-advantage.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-scpo-semantic-credit",
+    "title": "paper-scpo-semantic-credit",
+    "date": "2026-06-28",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-28-card-scpo-semantic-credit.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-tool-rl-collapse",
+    "title": "paper-tool-rl-collapse",
+    "date": "2026-06-28",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-28-card-tool-rl-collapse.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-constraint-tax",
+    "title": "paper-constraint-tax",
+    "date": "2026-06-27",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-27-card-constraint-tax.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-opera-perplexity-reward",
+    "title": "paper-opera-perplexity-reward",
+    "date": "2026-06-27",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-27-card-opera-perplexity-reward.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-progress-advantage",
+    "title": "paper-progress-advantage",
+    "date": "2026-06-27",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-27-card-progress-advantage.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-scpo-semantic-credit",
+    "title": "paper-scpo-semantic-credit",
+    "date": "2026-06-27",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-27-card-scpo-semantic-credit.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-tool-rl-collapse",
+    "title": "paper-tool-rl-collapse",
+    "date": "2026-06-27",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-27-card-tool-rl-collapse.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-constraint-tax",
+    "title": "paper-constraint-tax",
+    "date": "2026-06-26",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-26-card-constraint-tax.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-opera",
+    "title": "paper-opera",
+    "date": "2026-06-26",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-26-card-opera.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-progress-advantage",
+    "title": "paper-progress-advantage",
+    "date": "2026-06-26",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-26-card-progress-advantage.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-tool-rl-collapse",
+    "title": "paper-tool-rl-collapse",
+    "date": "2026-06-26",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-26-card-tool-rl-collapse.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-trustmem",
+    "title": "paper-trustmem",
+    "date": "2026-06-26",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-26-card-trustmem.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-constraint-tax-tool-suppression",
+    "title": "paper-constraint-tax-tool-suppression",
+    "date": "2026-06-26",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-opera-perplexity-reward-open-ended",
+    "title": "paper-opera-perplexity-reward-open-ended",
+    "date": "2026-06-26",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-progress-advantage-implicit-prm",
+    "title": "paper-progress-advantage-implicit-prm",
+    "date": "2026-06-26",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-tool-rl-collapse-control-tokens",
+    "title": "paper-tool-rl-collapse-control-tokens",
+    "date": "2026-06-26",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-woft-syntax-aware-code-generation",
+    "title": "paper-woft-syntax-aware-code-generation",
+    "date": "2026-06-26",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-compresskv",
+    "title": "paper-compresskv",
+    "date": "2026-06-25",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-25-card-compresskv.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-edv",
+    "title": "paper-edv",
+    "date": "2026-06-25",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-25-card-edv.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-governed-memory",
+    "title": "paper-governed-memory",
+    "date": "2026-06-25",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-25-card-governed-memory.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-pigeonholing",
+    "title": "paper-pigeonholing",
+    "date": "2026-06-25",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-25-card-pigeonholing.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-radar",
+    "title": "paper-radar",
+    "date": "2026-06-25",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-25-card-radar.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-grad-detect-hallucination-detection",
+    "title": "paper-grad-detect-hallucination-detection",
+    "date": "2026-06-25",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-memprobe-agent-memory-probing",
+    "title": "paper-memprobe-agent-memory-probing",
+    "date": "2026-06-25",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-radar-rare-disease-diagnosis",
+    "title": "paper-radar-rare-disease-diagnosis",
+    "date": "2026-06-25",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-safari-agent-fault-attribution",
+    "title": "paper-safari-agent-fault-attribution",
+    "date": "2026-06-25",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-sherloc-code-repair-localization",
+    "title": "paper-sherloc-code-repair-localization",
+    "date": "2026-06-25",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-causal-reward",
+    "title": "paper-causal-reward",
+    "date": "2026-06-24",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-24-card-causal-reward.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-enterprise-bench",
+    "title": "paper-enterprise-bench",
+    "date": "2026-06-24",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-24-card-enterprise-bench.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-kamera-kvcache",
+    "title": "paper-kamera-kvcache",
+    "date": "2026-06-24",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-24-card-kamera-kvcache.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-malicious-skills",
+    "title": "paper-malicious-skills",
+    "date": "2026-06-24",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-24-card-malicious-skills.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-randomized-yarn",
+    "title": "paper-randomized-yarn",
+    "date": "2026-06-24",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-24-card-randomized-yarn.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-DiffusionGemma",
+    "title": "paper-DiffusionGemma",
+    "date": "2026-06-23",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-23-card-DiffusionGemma.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-FlashRT",
+    "title": "paper-FlashRT",
+    "date": "2026-06-23",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-23-card-FlashRT.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-ICT",
+    "title": "paper-ICT",
+    "date": "2026-06-23",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-23-card-ICT.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-StaminaBench",
+    "title": "paper-StaminaBench",
+    "date": "2026-06-23",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-23-card-StaminaBench.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-UFP4",
+    "title": "paper-UFP4",
+    "date": "2026-06-23",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-23-card-UFP4.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-contagion-networks-multi-agent-bias",
+    "title": "paper-contagion-networks-multi-agent-bias",
+    "date": "2026-06-23",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-diffusiongemma-transparency",
+    "title": "paper-diffusiongemma-transparency",
+    "date": "2026-06-23",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-flashrt-execution-state-capsules",
+    "title": "paper-flashrt-execution-state-capsules",
+    "date": "2026-06-23",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-llm-psychological-profiles-artifact",
+    "title": "paper-llm-psychological-profiles-artifact",
+    "date": "2026-06-23",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-ufp4-uniform-4bit-training",
+    "title": "paper-ufp4-uniform-4bit-training",
+    "date": "2026-06-23",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-AtomMem",
+    "title": "paper-AtomMem",
+    "date": "2026-06-22",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-22-card-AtomMem.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-ICT",
+    "title": "paper-ICT",
+    "date": "2026-06-22",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-22-card-ICT.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-ProbeRefine",
+    "title": "paper-ProbeRefine",
+    "date": "2026-06-22",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-22-card-ProbeRefine.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-SafeSpec",
+    "title": "paper-SafeSpec",
+    "date": "2026-06-22",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-22-card-SafeSpec.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-UFP4",
+    "title": "paper-UFP4",
+    "date": "2026-06-22",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-22-card-UFP4.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-compositional",
+    "title": "paper-compositional",
+    "date": "2026-06-18",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-18-card-compositional.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-DRE",
+    "title": "paper-DRE",
+    "date": "2026-06-18",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-18-card-DRE.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-smallinit",
+    "title": "paper-smallinit",
+    "date": "2026-06-18",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-18-card-smallinit.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-softmoe",
+    "title": "paper-softmoe",
+    "date": "2026-06-18",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-18-card-softmoe.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-ZPPO",
+    "title": "paper-ZPPO",
+    "date": "2026-06-18",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-06-18-card-ZPPO.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-cognitive-atrophy-llm-behaviour",
+    "title": "paper-cognitive-atrophy-llm-behaviour",
+    "date": "2026-06-18",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-compositional-reasoning-modules",
+    "title": "paper-compositional-reasoning-modules",
+    "date": "2026-06-18",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-consa-hybrid-attention-allocation",
+    "title": "paper-consa-hybrid-attention-allocation",
+    "date": "2026-06-18",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-consa-hybrid-attention-learnable-allocation",
+    "title": "paper-consa-hybrid-attention-learnable-allocation",
+    "date": "2026-06-18",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-dopsd-diffusion-llm-self-distillation",
+    "title": "paper-dopsd-diffusion-llm-self-distillation",
+    "date": "2026-06-18",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-dopsd-self-future-distillation",
+    "title": "paper-dopsd-self-future-distillation",
+    "date": "2026-06-18",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-reasoning-traces-reusable-modules",
+    "title": "paper-reasoning-traces-reusable-modules",
+    "date": "2026-06-18",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-skillcamo-multimodal-skill-attack",
+    "title": "paper-skillcamo-multimodal-skill-attack",
+    "date": "2026-06-18",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-zppo-teacher-in-prompt",
+    "title": "paper-zppo-teacher-in-prompt",
+    "date": "2026-06-18",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-zppo-teacher-in-prompts",
+    "title": "paper-zppo-teacher-in-prompts",
+    "date": "2026-06-18",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-activesam",
+    "title": "ActiveSAM：让 SAM3 学会\"只看该看的\"",
+    "date": "2026-06-17",
+    "source": "https://arxiv.org/abs/2606.16996",
+    "authors": "",
+    "tags": [
+      "cs.CV",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "cardImage": "2026-06-17-card-activesam.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-greed",
+    "title": "贪婪是学来的：AI 为什么会\"上瘾\"",
+    "date": "2026-06-17",
+    "source": "https://arxiv.org/abs/2606.16914",
+    "authors": "",
+    "tags": [
+      "cs.AI"
+    ],
+    "cardImage": "2026-06-17-card-greed.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-hopcount",
+    "title": "推理深度预测 LLM 失败：临床 AI 的风险地图",
+    "date": "2026-06-17",
+    "source": "https://arxiv.org/abs/2606.16890",
+    "authors": "",
+    "tags": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "cardImage": "2026-06-17-card-hopcount.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-less",
+    "title": "少即是多：扩散语言模型的自适应采样革命",
+    "date": "2026-06-17",
+    "source": "https://arxiv.org/abs/2606.16908",
+    "authors": "",
+    "tags": [
+      "cs.CL"
+    ],
+    "cardImage": "2026-06-17-card-less.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-trajectories",
+    "title": "Agent 行为指纹：程序化分析 agent 如何解题",
+    "date": "2026-06-17",
+    "source": "https://arxiv.org/abs/2606.16988",
+    "authors": "",
+    "tags": [
+      "cs.SE",
+      "cs.LG"
+    ],
+    "cardImage": "2026-06-17-card-trajectories.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-circuitlasso-scalable-circuit-learning",
+    "title": "想知道大模型脑子里\"怎么想的\"？以前的方法太贵了，这篇用线性回归打了个折",
+    "date": "2026-06-17",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-context-aware-rl-grounding",
+    "title": "大模型明明看到了答案，为什么还选错？用\"选上下文\"训练它长眼睛",
+    "date": "2026-06-17",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-deeprubric-evidence-tree-rl",
+    "title": "训练大模型做深度研究，8B 小模型追上 30B 大模型——关键不是算力，是\"出题\"的方式",
+    "date": "2026-06-17",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-exprl-exploratory-rl-mid-training",
+    "title": "大模型做 RL 之前需要\"热身\"——但热身方式选错了，后面的 RL 全白费",
+    "date": "2026-06-17",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-kveraser-kv-cache-erasing",
+    "title": "大模型读完一段话后，怎么\"忘掉\"中间那一句？直接删缓存会炸，重算太贵",
+    "date": "2026-06-17",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-agentspec",
+    "title": "AgentSpec：把 Agent 拆成乐高，看哪块真正有用",
+    "date": "2026-06-16",
+    "source": "https://arxiv.org/abs/2606.14674",
+    "authors": "",
+    "tags": [
+      "cs.CL"
+    ],
+    "cardImage": "2026-06-16-card-agentspec.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-guardrail-dos",
+    "title": "Guardrail 本身成了攻击面：148 倍延迟放大攻击",
+    "date": "2026-06-16",
+    "source": "https://arxiv.org/abs/2606.14517",
+    "authors": "",
+    "tags": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "cardImage": "2026-06-16-card-guardrail-dos.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-parallel-synthesis",
+    "title": "Parallel-Synthesis：直接消费 KV Cache 合成并行 Agent 分支",
+    "date": "2026-06-16",
+    "source": "https://arxiv.org/abs/2606.14672",
+    "authors": "",
+    "tags": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "cardImage": "2026-06-16-card-parallel-synthesis.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-reflection-gap",
+    "title": "填补反思偏差：Agent RL 的免费校准奖励",
+    "date": "2026-06-16",
+    "source": "https://arxiv.org/abs/2606.14211",
+    "authors": "",
+    "tags": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "cardImage": "2026-06-16-card-reflection-gap.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-silent-failures",
+    "title": "当错误变成谎话：生产环境 LLM Agent 的静默失败解剖",
+    "date": "2026-06-16",
+    "source": "https://arxiv.org/abs/2606.14589",
+    "authors": "",
+    "tags": [
+      "cs.SE",
+      "cs.AI",
+      "cs.DC"
+    ],
+    "cardImage": "2026-06-16-card-silent-failures.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-simmer",
+    "title": "SIMMER：LLM 规划的\"潜伏失败\"比你想象的严重得多",
+    "date": "2026-06-16",
+    "source": "https://arxiv.org/abs/2606.14574",
+    "authors": "",
+    "tags": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "cardImage": "2026-06-16-card-simmer.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-skillaudit",
+    "title": "SkillAudit：不需要标注数据，自动进化 Agent Skill",
+    "date": "2026-06-16",
+    "source": "https://arxiv.org/abs/2606.14239",
+    "authors": "",
+    "tags": [
+      "cs.AI"
+    ],
+    "cardImage": "2026-06-16-card-skillaudit.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-code-correctness-hidden-states",
+    "title": "AI 还没写代码就知道自己会写错——但它修 bug 的时候你别信",
+    "date": "2026-06-16",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-git-of-thoughts-memory",
+    "title": "给 AI 的思考过程装上 Git——然后发现记忆可能根本没用",
+    "date": "2026-06-16",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-guardrail-dos-attack",
+    "title": "你用来防弹的盾牌，刚好是敌人最好打的靶子",
+    "date": "2026-06-16",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-parallel-cache-synthesis",
+    "title": "别把五个人的报告拼一起了，直接读他们的脑子",
+    "date": "2026-06-16",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-silent-failure-plausible",
+    "title": "当 AI 开始编故事掩盖自己的错误",
+    "date": "2026-06-16",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-eurekagent",
+    "title": "EurekAgent：别再死磕提示词，科学发现智能体的瓶颈是“环境工程”",
+    "date": "2026-06-14",
+    "source": "https://arxiv.org/abs/2606.13662",
+    "authors": "",
+    "tags": [
+      "cs.AI; cs.CL"
+    ],
+    "cardImage": "2026-06-14-card-eurekagent.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-evoarena-evomem",
+    "title": "EvoArena + EvoMem：别再用静态评测骗自己，智能体真正难的是记住“世界在怎么变”",
+    "date": "2026-06-14",
+    "source": "https://arxiv.org/abs/2606.13681",
+    "authors": "",
+    "tags": [
+      "cs.CL"
+    ],
+    "cardImage": "2026-06-14-card-evoarena-evomem.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-operadic-consistency",
+    "title": "LLM 推理一致性自检：用组合结构发现多跳推理的“嘴上正确，手里做错”",
+    "date": "2026-06-14",
+    "source": "https://arxiv.org/abs/2606.13649",
+    "authors": "",
+    "tags": [
+      "cs.CL; cs.LG"
+    ],
+    "cardImage": "2026-06-14-card-operadic-consistency.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-ra-rft",
+    "title": "让 RL 推理模型学会“找同类题”：检索不再比表面相似，而是比推理是否可迁移",
+    "date": "2026-06-14",
+    "source": "https://arxiv.org/abs/2606.13680",
+    "authors": "",
+    "tags": [
+      "cs.CL; cs.AI"
+    ],
+    "cardImage": "2026-06-14-card-ra-rft.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-umg-rag",
+    "title": "UMG-RAG：RAG 的真正难题不是模型不够长，而是你根本不知道该给它看多细的证据",
+    "date": "2026-06-14",
+    "source": "https://arxiv.org/abs/2606.13550",
+    "authors": "",
+    "tags": [
+      "cs.AI; cs.CL"
+    ],
+    "cardImage": "2026-06-14-card-umg-rag.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-Autopilot",
+    "title": "Goal-Autopilot：让 Agent 不再撒谎的结构化防火墙",
+    "date": "2026-06-12",
+    "source": "https://arxiv.org/abs/2606.11688",
+    "authors": "",
+    "tags": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "cardImage": "2026-06-12-card-Autopilot.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-Bebop",
+    "title": "Bebop：MTP 接受率被熵波动线性绑定——从信息论诊断到 1.8x RL 加速",
+    "date": "2026-06-12",
+    "source": "https://arxiv.org/abs/2606.12370",
+    "authors": "",
+    "tags": [
+      "cs.CL"
+    ],
+    "cardImage": "2026-06-12-card-Bebop.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-horma",
+    "title": "HORMA：Agent 记忆不是压缩问题，是组织问题",
+    "date": "2026-06-12",
+    "source": "https://arxiv.org/abs/2606.11680",
+    "authors": "",
+    "tags": [
+      "cs.AI",
+      "cs.CL",
+      "cs.LG"
+    ],
+    "cardImage": "2026-06-12-card-horma.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-ModSleuth",
+    "title": "🔍 你的模型到底依赖谁？递归追溯 LLM 的隐藏依赖图",
+    "date": "2026-06-12",
+    "source": "https://arxiv.org/abs/2606.12385",
+    "authors": "",
+    "tags": [
+      "cs.CL"
+    ],
+    "cardImage": "2026-06-12-card-ModSleuth.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-OCELOT",
+    "title": "🦦 预算隐私泄漏：让 Agent 无法偷偷泄露你的秘密",
+    "date": "2026-06-12",
+    "source": "https://arxiv.org/abs/2606.12341",
+    "authors": "",
+    "tags": [
+      "cs.CR"
+    ],
+    "cardImage": "2026-06-12-card-OCELOT.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-RACES",
+    "title": "RACES：把 RL 环境当乐高积木递归组合，50 个环境拼出 300 个的效果",
+    "date": "2026-06-12",
+    "source": "https://arxiv.org/abs/2606.12373",
+    "authors": "",
+    "tags": [
+      "cs.CL"
+    ],
+    "cardImage": "2026-06-12-card-RACES.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-skill-juror",
+    "title": "SkillJuror：Skill 的写法不是审美问题，是行为干预",
+    "date": "2026-06-12",
+    "source": "https://arxiv.org/abs/2606.11543",
+    "authors": "",
+    "tags": [
+      "cs.AI",
+      "cs.SE"
+    ],
+    "cardImage": "2026-06-12-card-skill-juror.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-graph-memory-selection-integrity",
+    "title": "图记忆别只查来源，攻击者改的是“谁被选中”",
+    "date": "2026-06-12",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-races-verifiable-environment-composition",
+    "title": "别再一个个造训练场了，把它们拼起来",
+    "date": "2026-06-12",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-self-consistency-representation-space",
+    "title": "答案靠不靠谱，看它有没有扎堆在中心区",
+    "date": "2026-06-12",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-semantic-progress-information-gain",
+    "title": "别数轮次了，数“信息增量”",
+    "date": "2026-06-12",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-via-sd-speculative-decoding-routing",
+    "title": "草稿别一刀切审核，给它分层发通行证",
+    "date": "2026-06-12",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-dac",
+    "title": "分工协作：DAC 如何用\"拒绝回答\"解决 Agent 训练的信用分配难题",
+    "date": "2026-06-11",
+    "source": "https://arxiv.org/abs/2606.10684",
+    "authors": "",
+    "tags": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "cardImage": "2026-06-11-card-dac.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-doctrace",
+    "title": "按需追踪：DocTrace 如何用三层记忆解决长文档 QA 的\"大海捞针\"",
+    "date": "2026-06-11",
+    "source": "https://arxiv.org/abs/2606.10921",
+    "authors": "",
+    "tags": [
+      "cs.CL"
+    ],
+    "cardImage": "2026-06-11-card-doctrace.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-eevee",
+    "title": "测试时 Prompt 学习的路由器：EEVEE 如何让 LLM Agent 自己学会\"看菜下碟\"",
+    "date": "2026-06-11",
+    "source": "https://arxiv.org/abs/2606.11182",
+    "authors": "",
+    "tags": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "cardImage": "2026-06-11-card-eevee.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-flowtracer",
+    "title": "推理信息流追踪：FlowTracer 如何用图论看清 LLM 的\"思考路径\"",
+    "date": "2026-06-11",
+    "source": "https://arxiv.org/abs/2606.10646",
+    "authors": "",
+    "tags": [
+      "cs.LG",
+      "cs.CL"
+    ],
+    "cardImage": "2026-06-11-card-flowtracer.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-trace",
+    "title": "树状 Rollout 分配：TRACE 如何让 Agent RL 训练\"好钢用在刀刃上\"",
+    "date": "2026-06-11",
+    "source": "https://arxiv.org/abs/2606.11119",
+    "authors": "",
+    "tags": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "cardImage": "2026-06-11-card-trace.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-attention-amnesia-cot-hybrid",
+    "title": "教 AI 思考，它反而忘了怎么记忆",
+    "date": "2026-06-11",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-coding-agent-metaprogramming",
+    "title": "AI 不会写 Brainfuck？它让 Python 帮它写",
+    "date": "2026-06-11",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-compression-generalization-ml-agents",
+    "title": "为什么 AI 研究不过拟合？答案藏在\"压缩\"里",
+    "date": "2026-06-11",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-full-duplex-interactivity-alignment",
+    "title": "AI 学说话：它终于学会了在你犹豫时闭嘴",
+    "date": "2026-06-11",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-llm-automation-narrative-flaws",
+    "title": "别信邪：LLM 干活又快又好？数据不这么说",
+    "date": "2026-06-11",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "Optical-Reasoning-论文解读",
+    "title": "Optical Reasoning: 让图片成为推理的草稿纸",
+    "date": "2026-06-10",
+    "source": "https://arxiv.org/abs/2606.09585",
+    "authors": "Yutong Bian, Dongjie Cheng, Heming Xia 等",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-iscot",
+    "title": "推理模型写长文会\"坍塌\"：IS-CoT 如何用动态循环修复它",
+    "date": "2026-06-10",
+    "source": "https://arxiv.org/abs/2606.09709",
+    "authors": "",
+    "tags": [
+      "cs.CL"
+    ],
+    "cardImage": "2026-06-10-card-iscot.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-lclms",
+    "title": "把长上下文压缩 16 倍还不丢信息：LCLMs 如何让 Agent 浏览海量记忆",
+    "date": "2026-06-10",
+    "source": "https://arxiv.org/abs/2606.09659",
+    "authors": "",
+    "tags": [
+      "cs.CL",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "cardImage": "2026-06-10-card-lclms.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-muon",
+    "title": "Muon 不只是快：它学到的特征更鲁棒、更能迁移",
+    "date": "2026-06-10",
+    "source": "https://arxiv.org/abs/2606.09658",
+    "authors": "",
+    "tags": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "cardImage": "2026-06-10-card-muon.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-searchswarm",
+    "title": "教模型学会委派：SearchSwarm 如何让 30B 小模型打赢百倍大模型",
+    "date": "2026-06-10",
+    "source": "https://arxiv.org/abs/2606.09730",
+    "authors": "",
+    "tags": [
+      "cs.AI"
+    ],
+    "cardImage": "2026-06-10-card-searchswarm.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-weavebench",
+    "title": "Agent 评测的新标尺：WeaveBench 如何暴露 CUA 的真实能力差距",
+    "date": "2026-06-10",
+    "source": "https://arxiv.org/abs/2606.09426",
+    "authors": "",
+    "tags": [
+      "cs.AI"
+    ],
+    "cardImage": "2026-06-10-card-weavebench.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-agentopia-long-term-life-simulation",
+    "title": "100 个 AI 住了 10 年，竟然出现了\"社会\"",
+    "date": "2026-06-09",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-deepseek-r1-reasoning-topology-mimicry",
+    "title": "DeepSeek-R1 的\"顿悟时刻\"是假的？解剖 10247 个推理步骤后发现真相",
+    "date": "2026-06-09",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-embedfilter-unembedding-feature-lens",
+    "title": "LLM 的嵌入向量被\"高频词\"污染了？一个线性变换就能修好",
+    "date": "2026-06-09",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-embedfilter",
+    "title": "你的 LLM 在偷偷把\"废话\"写进嵌入向量",
+    "date": "2026-06-09",
+    "source": "https://arxiv.org/abs/2606.07502",
+    "authors": "",
+    "tags": [
+      "cs.CL",
+      "cs.IR"
+    ],
+    "cardImage": "2026-06-09-card-embedfilter.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-mtk",
+    "title": "用\"流形轨迹动力学\"检测越狱攻击：从固定度量空间到动态邻域分析",
+    "date": "2026-06-09",
+    "source": "https://arxiv.org/abs/2606.07335",
+    "authors": "",
+    "tags": [
+      "cs.CR"
+    ],
+    "cardImage": "2026-06-09-card-mtk.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-reasoning-anatomy",
+    "title": "DeepSeek-R1 的推理是\"拓扑模仿\"——形式像推理，功能不像",
+    "date": "2026-06-09",
+    "source": "https://arxiv.org/abs/2606.07410",
+    "authors": "",
+    "tags": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "cardImage": "2026-06-09-card-reasoning-anatomy.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-reversible-120b-sparse-moe",
+    "title": "8 张显卡训练 1200 亿参数模型？这个团队做到了",
+    "date": "2026-06-09",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-reversible-foundations",
+    "title": "单节点训出 120B：可逆架构 + 量化适配器的工程圣经",
+    "date": "2026-06-09",
+    "source": "https://arxiv.org/abs/2606.07404",
+    "authors": "",
+    "tags": [
+      "cs.LG"
+    ],
+    "cardImage": "2026-06-09-card-reversible-foundations.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-socratic-swe-self-evolving-coding-agent",
+    "title": "代码 Agent 学会了\"从自己的错误中成长\"",
+    "date": "2026-06-09",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-socratic-swe",
+    "title": "会自我进化的编程 Agent：从解题痕迹中蒸馏出可复用技能",
+    "date": "2026-06-09",
+    "source": "https://arxiv.org/abs/2606.07412",
+    "authors": "",
+    "tags": [
+      "cs.SE",
+      "cs.AI"
+    ],
+    "cardImage": "2026-06-09-card-socratic-swe.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-aip",
+    "title": "别再让 Agent 读散文了：给技能画一张执行图",
+    "date": "2026-06-07",
+    "source": "https://arxiv.org/abs/2606.04781",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "cardImage": "2026-06-07-card-aip.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-deltamem",
+    "title": "别重复存了：用\"差分树\"让 Agent 的记忆越用越精",
+    "date": "2026-06-07",
+    "source": "https://arxiv.org/abs/2606.03083",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "cardImage": "2026-06-07-card-deltamem.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-evods",
+    "title": "数据科学家 Agent 也能自学成才：技能学习 + 上下文压缩的自进化框架",
+    "date": "2026-06-07",
+    "source": "https://arxiv.org/abs/2606.03841",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "cardImage": "2026-06-07-card-evods.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-lifeskill",
+    "title": "一边干活一边学本事：LLM Agent 的在线终身学习框架",
+    "date": "2026-06-07",
+    "source": "https://arxiv.org/abs/2606.04815",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "cardImage": "2026-06-07-card-lifeskill.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-skillrm",
+    "title": "给 AI 打分不再各自为政：用\"技能\"统一所有评判标准",
+    "date": "2026-06-07",
+    "source": "https://arxiv.org/abs/2606.03980",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "cardImage": "2026-06-07-card-skillrm.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-copilot-productivity",
+    "title": "1.6 万工程师证明：Copilot 让代码产出提升 40%，但不是你想的那样",
+    "date": "2026-06-05",
+    "source": "https://arxiv.org/abs/2606.00438v1",
+    "authors": "",
+    "tags": [
+      "cs.SE"
+    ],
+    "cardImage": "2026-06-05-card-copilot-productivity.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-demavla",
+    "title": "机器人折叠衣服的「GPT 时刻」：DeMaVLA 如何用 5000 小时真实数据教会机械臂通用操作",
+    "date": "2026-06-05",
+    "source": "https://arxiv.org/abs/2605.31286v1",
+    "authors": "",
+    "tags": [
+      "cs.RO",
+      "cs.AI"
+    ],
+    "cardImage": "2026-06-05-card-demavla.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-mindzero",
+    "title": "零标注学心智推理：MindZero 让 AI 学会「读心术」",
+    "date": "2026-06-05",
+    "source": "https://arxiv.org/abs/2606.00240v1",
+    "authors": "",
+    "tags": [
+      "cs.AI",
+      "cs.MA"
+    ],
+    "cardImage": "2026-06-05-card-mindzero.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-rda-reward-design",
+    "title": "不用手写奖励函数了：VLM 当「奖励设计师」让机器人自己学会对齐人类意图",
+    "date": "2026-06-05",
+    "source": "https://arxiv.org/abs/2606.01672v1",
+    "authors": "",
+    "tags": [
+      "cs.LG"
+    ],
+    "cardImage": "2026-06-05-card-rda-reward-design.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-skillsmith",
+    "title": "技能和工具一起进化：SkillSmith 用生态学模型让 Agent 自己变强",
+    "date": "2026-06-05",
+    "source": "https://arxiv.org/abs/2606.01314v1",
+    "authors": "",
+    "tags": [
+      "cs.AI"
+    ],
+    "cardImage": "2026-06-05-card-skillsmith.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "论文精读",
+    "title": "2026-06-05 arXiv 精读：Agent Skill 五连击",
+    "date": "2026-06-05",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-imaginative-perception-tokens",
+    "title": "大模型终于学会\"脑补\"了：用想象力推理看不见的空间",
+    "date": "2026-06-04",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-llm-sleep-memory-consolidation",
+    "title": "大模型需要睡觉：像人脑一样做梦才能变聪明",
+    "date": "2026-06-04",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-muon-momentum-spectral-filtering",
+    "title": "先去噪再正交：为什么 Muon 优化器里的动量不能反着用",
+    "date": "2026-06-04",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-neuron-scaling-polarization",
+    "title": "神经元也有\"内卷\"：模型越大，少数精英越来越专，多数打工人越来越摸鱼",
+    "date": "2026-06-04",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-skill-reward-model",
+    "title": "把奖励模型变成\"会查资料的考官\"：Skill-RM 用 Agent 技能统一评判标准",
+    "date": "2026-06-04",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-flare-hybrid-diffusion",
+    "title": "FLARE: 把 AR 模型改装成\"既能写又能画\"的混合体",
+    "date": "2026-06-03",
+    "source": "https://arxiv.org/abs/2606.01774*",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-geometric-latent-reasoning",
+    "title": "Geometric Latent Reasoning: 让大模型在脑子里想，别全说出来",
+    "date": "2026-06-03",
+    "source": "https://arxiv.org/abs/2606.02248*",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-safesteer",
+    "title": "SafeSteer: 安全对齐不用砸全场，动几个螺丝就够",
+    "date": "2026-06-03",
+    "source": "https://arxiv.org/abs/2606.02530*",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-simsd-speculative-decoding-diffusion",
+    "title": "SimSD: 给扩散语言模型装上\"验钞机\"",
+    "date": "2026-06-03",
+    "source": "https://arxiv.org/abs/2606.02544*",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-spike-bias-vectors-quantization",
+    "title": "Massive Spikes 是 Bias Vectors: 量化失败的根因和解法",
+    "date": "2026-06-03",
+    "source": "https://arxiv.org/abs/2606.02288*",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-autosci-memory-centric-research",
+    "title": "北大团队做了一个\"AI 科研全栈系统\"——从读文献到写回复审稿意见，它全包了",
+    "date": "2026-06-02",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-corp-rewarded-perturbations-consolidation",
+    "title": "大模型后训练不用梯度了？慕尼黑工大用\"随机扰动\"找到了新路线",
+    "date": "2026-06-02",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-echorl-rollout-echoing-rlvr",
+    "title": "大模型强化学习训练到一半\"学不动了\"？问题出在奖励信号\"塌缩\"了",
+    "date": "2026-06-02",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-explicit-search-tree-reasoning",
+    "title": "大模型推理像在走迷宫——但它忘了画地图",
+    "date": "2026-06-02",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-grkv-cache-ridge-regression",
+    "title": "长文本大模型的\"内存条\"终于不用那么贵了",
+    "date": "2026-06-02",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-long-context-reasoning-rubric-reward",
+    "title": "大模型读长文就像在垃圾堆里找钥匙——清华团队教它学会\"边找边验\"",
+    "date": "2026-06-02",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-longtrace-rl-search-agent-rubric",
+    "title": "大模型读长文总瞎编？清华团队用搜索引擎的\"浏览记录\"治好了它",
+    "date": "2026-06-02",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-memory-centric-scientific-research",
+    "title": "做科研需要什么？北大团队说：一个能记住、能执行、能进化的\"数字实验室\"",
+    "date": "2026-06-02",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-navigation-spatial-inductive-bias",
+    "title": "大模型导航：拓扑信息是盾牌，语义信息是阿喀琉斯之踵",
+    "date": "2026-06-02",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-rewarded-perturbation-consolidation",
+    "title": "不用梯度也能调模型？在权重空间里\"海选\"出最佳模型",
+    "date": "2026-06-02",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-genclaw-code-driven-image-gen",
+    "title": "AI 画图终于不用\"猜\"了——让它像画家一样先画草稿再上色",
+    "date": "2026-06-01",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-llm-pretraining-data-mixture-recovery",
+    "title": "你的大模型\"吃了什么\"，终于能查了",
+    "date": "2026-06-01",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-lora-parametric-memory-law",
+    "title": "LoRA 的记忆力居然遵循一条幂律——就像芯片的摩尔定律",
+    "date": "2026-06-01",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-meta-radar-code-review-automation",
+    "title": "AI 写代码的速度暴涨 105%，人类 review 速度没跟上——Meta 怎么办的",
+    "date": "2026-06-01",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-rlr3-rubric-rewards",
+    "title": "RL 训练终于能处理\"没有标准答案\"的任务了——用评分表当奖励信号",
+    "date": "2026-06-01",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-aba-benchmark-audit",
+    "title": "AI 考试的卷子，四分之一都是错题",
+    "date": "2026-05-27",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-cdd-verbatim-content-recovery",
+    "title": "你微调过的模型，正在泄露你教它的所有秘密",
+    "date": "2026-05-27",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-cqa-creative-quality-alignment",
+    "title": "100 条笔记，就让 AI 学会了专家的审美",
+    "date": "2026-05-27",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-discoverphysics-scientific-discovery",
+    "title": "大模型能做题，但能当科学家吗？",
+    "date": "2026-05-27",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-veritrace-mental-models",
+    "title": "深度研究 Agent 的脑子，需要一个\"监理\"",
+    "date": "2026-05-27",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-shannon-scaling-law",
+    "title": "Shannon Scaling Law：大模型的\"香农极限\"到底存不存在",
+    "date": "2026-05-26",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-skill-opt-optimizer",
+    "title": "SkillOpt：把 AI Agent 的技能文档当成模型权重来训练",
+    "date": "2026-05-26",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-decentmem-decentralized-agent-memory",
+    "title": "DecentMem：多Agent系统，记忆别共享，各管各的",
+    "date": "2026-05-25",
+    "source": "https://arxiv.org/abs/2605.22721",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-defermem-long-term-memory-qa",
+    "title": "DeferMem：别急着整理记忆，等问了再翻",
+    "date": "2026-05-25",
+    "source": "https://arxiv.org/abs/2605.22411",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-deltabox-millisecond-sandbox",
+    "title": "你的AI Agent做搜索时，每次分身要花4秒？它让这变成了5毫秒",
+    "date": "2026-05-25",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-hyperfitting-rank-reordering",
+    "title": "你把模型往死里过拟合，结果它写得更好了？这反常识现象背后有蹊跷",
+    "date": "2026-05-25",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-lcguard-kv-security",
+    "title": "AI Agent之间悄悄传小纸条？这张纸条上可能写满了不该泄露的信息",
+    "date": "2026-05-25",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-mcp-server-auth-security",
+    "title": "MCP安全：四成服务器在裸奔，每个有认证的都有漏洞",
+    "date": "2026-05-25",
+    "source": "https://arxiv.org/abs/2605.22333",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-spd-self-policy-distillation",
+    "title": "模型自己教自己，还不靠外部标签？它给模型装了个\"能力滤网\"",
+    "date": "2026-05-25",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-stockr1-financial-forecasting",
+    "title": "StockR1：让大模型先\"下注\"，再说话",
+    "date": "2026-05-25",
+    "source": "https://arxiv.org/abs/2605.21975",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-vpo-diversity-test-time-search",
+    "title": "VPO：训练时别只练一个答案，练一堆，搜索时自然有得挑",
+    "date": "2026-05-25",
+    "source": "https://arxiv.org/abs/2605.22817",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-vpo-diversity-training",
+    "title": "RL训练把模型训成\"复读机\"？它让模型学会\"一题多解\"",
+    "date": "2026-05-25",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-ai-solves-erdos-problems",
+    "title": "2026 05 23 paper ai solves erdos problems",
+    "date": "2026-05-23",
+    "source": "https://arxiv.org/abs/2605.22763",
+    "authors": "George Tsoukalas, Anton Kovsharov, Sergey Shirobokov, Pushmeet Kohli, Swarat Chaudhuri 等 (Google DeepMind)",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-capability-is-forecasting-liability",
+    "title": "2026 05 23 paper capability is forecasting liability",
+    "date": "2026-05-23",
+    "source": "https://arxiv.org/abs/2605.22672",
+    "authors": "Nick Merrill, Jaeho Lee, Ezra Karger (Forecasting Research Institute)",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-deepmind-solves-math",
+    "title": "2026 05 23 paper deepmind solves math",
+    "date": "2026-05-23",
+    "source": "https://arxiv.org/abs/2605.22763",
+    "authors": "George Tsoukalas, Anton Kovsharov, Sergey Shirobokov, Pushmeet Kohli, Swarat Chaudhuri 等",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-inverse-scaling-forecasting",
+    "title": "2026 05 23 paper inverse scaling forecasting",
+    "date": "2026-05-23",
+    "source": "https://arxiv.org/abs/2605.22672",
+    "authors": "Nick Merrill, Jaeho Lee, Ezra Karger (Forecasting Research Institute)",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-llm-judge-bias",
+    "title": "2026 05 23 paper llm judge bias",
+    "date": "2026-05-23",
+    "source": "https://arxiv.org/abs/2605.22714",
+    "authors": "Sid-ali Temkit (single author)",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-llm-judge-history-bias",
+    "title": "2026 05 23 paper llm judge history bias",
+    "date": "2026-05-23",
+    "source": "https://arxiv.org/abs/2605.22714",
+    "authors": "Sid-ali Temkit (single author)",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-subterranean-agents-workflow-compilation",
+    "title": "2026 05 23 paper subterranean agents workflow compilation",
+    "date": "2026-05-23",
+    "source": "https://arxiv.org/abs/2605.22502",
+    "authors": "Simon Dennis, Rivaan Patil, Kevin Shabahang, Hao Guo (University of Melbourne / i14)",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-agent-jit-compilation",
+    "title": "Agent JIT 编译：给网页 Agent 装上\"即时编译器\"",
+    "date": "2026-05-22",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": "Google/ICML 2026 论文，把网页 Agent 从\"每步都要调 LLM\"的串行循环解放出来，先编译成代码再执行，速度翻 10 倍、准确率还涨了 28%。"
+  },
+  {
+    "slug": "paper-apex-exploration-collapse",
+    "title": "APEX：治好 Agent 的\"老油条病\"——探索坍缩",
+    "date": "2026-05-22",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": "新加坡国立大学发现会\"自我进化\"的 Agent 有个致命毛病——找到一条能走通的路后就不再试别的了。APEX 用一张\"策略地图\"专门对付这个毛病。"
+  },
+  {
+    "slug": "paper-insights-generator-debug",
+    "title": "Insights Generator：给 Agent 做\"群体体检\"的诊断系统",
+    "date": "2026-05-22",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": "Scale AI 出品，把 Agent 调试从\"人肉翻日志\"升级为\"自动假设-验证\"的多 agent 系统，专家照着报告改，性能直接涨了 30 个百分点。"
+  },
+  {
+    "slug": "paper-relex-rank1-extrapolation",
+    "title": "RELEX：用 15% 的训练量预测 RLVR 的最终结果",
+    "date": "2026-05-22",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": "弗吉尼亚大学发现 RLVR 训练的权重更新其实是一条\"笔直的线\"——看前 50 步就能预测第 1000 步的结果，训练成本砍掉 85%。"
+  },
+  {
+    "slug": "paper-viper-mcp-security",
+    "title": "VIPER-MCP：MCP 服务器的自动漏洞猎手",
+    "date": "2026-05-22",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": "扫描近 4 万个开源 MCP 服务器，挖出 106 个 0-day 漏洞、拿下 67 个 CVE——MCP 生态的安全底线，这篇论文第一个用自动化工具摸清楚了。"
+  },
+  {
+    "slug": "paper-clinseek-agent-active-evidence",
+    "title": "ClinSeekAgent：大模型当医生，为什么连病历都找不到",
+    "date": "2026-05-21",
+    "source": "https://arxiv.org/abs/2605.20176",
+    "authors": "Juncheng Wu, Letian Zhang, Yuhan Wang, UC Santa Cruz",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-copt-reverse-cot-thinking",
+    "title": "CopT：大模型推理的顺序搞反了——应该先答后想",
+    "date": "2026-05-21",
+    "source": "https://arxiv.org/abs/2605.20075",
+    "authors": "Dachuan Shi, Hanlin Zhu et al., Georgia Tech + UC Berkeley + Stanford + Microsoft",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-peek-context-map-agent",
+    "title": "PEEK：Agent每次打开同一个文档都像失忆——给它装个小抄就好了",
+    "date": "2026-05-21",
+    "source": "https://arxiv.org/abs/2605.19932",
+    "authors": "Zhuohan Gu, Qizheng Zhang, Omar Khattab et al.",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-rebel-belief-rl-long-horizon",
+    "title": "ReBel：Agent在迷宫里越走越偏，问题出在它记错了路",
+    "date": "2026-05-21",
+    "source": "https://arxiv.org/abs/2605.20061",
+    "authors": "Wenjie Tang, Minne Li, Sijie Huang et al., NUDT + IGDL + Xiamen University",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-thoughttrace-user-thoughts-llm",
+    "title": "ThoughtTrace：AI听懂了你说的话，但没听懂你在想什么",
+    "date": "2026-05-21",
+    "source": "https://arxiv.org/abs/2605.20087",
+    "authors": "Chuanyang Jin, Binze Li, Haopeng Xie et al., JHU + Google DeepMind",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-envfactory-auto-build-agents",
+    "title": "EnvFactory：教 Agent 用工具，不用人搭环境",
+    "date": "2026-05-20",
+    "source": "https://arxiv.org/abs/2605.18703",
+    "authors": "Zilin Wang, Mengyi Deng, Zhijiang Guo 等 (HKUST-GZ, Huawei, Cambridge, UCL)",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-mcp-proxy-access-control",
+    "title": "别指望 prompt 能保护工具权限——MCP 代理层才行",
+    "date": "2026-05-20",
+    "source": "https://arxiv.org/abs/2605.18414",
+    "authors": "Rohith Uppala (独立研究者)",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-qstrbench-spatial-temporal-reasoning",
+    "title": "测了 32 个 LLM 的空间推理能力，没有一个能及格",
+    "date": "2026-05-20",
+    "source": "https://arxiv.org/abs/2605.18380",
+    "authors": "Anthony G. Cohn, Robert E. Blackwell (Leeds, Alan Turing Institute, Tongji)",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-rl-synthesizes-reusable-solvers",
+    "title": "不用反复搜索，RL 直接把求解器塞进了模型权重",
+    "date": "2026-05-20",
+    "source": "https://arxiv.org/abs/2605.18374",
+    "authors": "Soheyl Massoudi, Gabriel Apaza, Mark Fuge (ETH Zürich, UMD)",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-three-layer-agent-safety",
+    "title": "LLM Agent 安全，为什么一层护栏根本不够",
+    "date": "2026-05-20",
+    "source": "https://arxiv.org/abs/2605.18672",
+    "authors": "Saddek Bensalem, Yi Dong, Martin Fränzle, Xiaowei Huang 等 (Liverpool, Oldenburg, AIT, Grenoble)",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-agent-os-human-centric",
+    "title": "2026 05 19 paper agent os human centric",
+    "date": "2026-05-19",
+    "source": "https://arxiv.org/abs/2605.15556v1",
+    "authors": "Heyuan Huang, Yeyi Guan, Jihong Wang, Mingzhi Wang, Jiamu Zhou, Xiangmou Qu, Jiaxin Yin, Xin Liao, Xingyu Lou, Jun Wang",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-agent-rl-dataflow-system",
+    "title": "2026 05 19 paper agent rl dataflow system",
+    "date": "2026-05-19",
+    "source": "https://arxiv.org/abs/2605.15565v1",
+    "authors": "Haizhong Zheng, Yizhuo Di, Jiahui Wang, Shuowei Jin, Xueshen Liu, Yongji Wu, Z. Morley Mao, Ion Stoica, Jiawei Zhao, Beidi Chen",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-ai-designs-own-architecture",
+    "title": "2026 05 19 paper ai designs own architecture",
+    "date": "2026-05-19",
+    "source": "https://arxiv.org/abs/2605.15871v1",
+    "authors": "Alberto Pepe, Chien-Yu Lin, Despoina Magka, Bilge Acun, Yannan Nellie Wu, Anton Protopopov, Carole-Jean Wu, Yoram Bachrach",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-ai-hunts-zero-days",
+    "title": "AI 自动当黑客：620 万行代码里揪出 24 个 0-day",
+    "date": "2026-05-19",
+    "source": "https://arxiv.org/abs/2605.15569v1",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-deep-research-jigsaw",
+    "title": "2026 05 19 paper deep research jigsaw",
+    "date": "2026-05-19",
+    "source": "https://arxiv.org/abs/2605.16217v1",
+    "authors": "Zhen Zhang, Liangcai Su, Zhuo Chen, Xiang Lin, Haotian Xu, Kaiyu Yang, Bo An, Simon Shaolei Du, Lidong Bing, Xinyu Wang",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-llm-attack-taxonomy",
+    "title": "2026 05 18 paper llm attack taxonomy",
+    "date": "2026-05-18",
+    "source": "https://arxiv.org/abs/2605.15118",
+    "authors": "Karthik Raghu Iyer, Yazdan Jamshidi, Nicholas Bray 等",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-orchard-agent-framework",
+    "title": "2026 05 18 paper orchard agent framework",
+    "date": "2026-05-18",
+    "source": "https://arxiv.org/abs/2605.15040",
+    "authors": "Baolin Peng, Wenlin Yao, Qianhui Wu 等（Microsoft Research）",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-position-encoding-backdoor",
+    "title": "2026 05 18 paper position encoding backdoor",
+    "date": "2026-05-18",
+    "source": "https://arxiv.org/abs/2605.15172",
+    "authors": "Rui Wen, Mark Russinovich, Andrew Paverd 等（Microsoft Research）",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-securing-agents-like-os",
+    "title": "2026 05 18 paper securing agents like os",
+    "date": "2026-05-18",
+    "source": "https://arxiv.org/abs/2605.14932",
+    "authors": "Lukas Pirch, Micha Horlboge, Patrick Großmann 等",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-veritas-binary-vulnerability",
+    "title": "2026 05 18 paper veritas binary vulnerability",
+    "date": "2026-05-18",
+    "source": "https://arxiv.org/abs/2605.15097",
+    "authors": "Xinran Zheng, Alfredo Pesoli, Marco Valleri 等",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-memlineage-memory-provenance",
+    "title": "MemLineage：给 Agent 的记忆装上\"溯源追踪\"，谁污染的查得一清二楚",
+    "date": "2026-05-17",
+    "source": "https://arxiv.org/abs/2605.14421v1",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-metabackdoor-positional-encoding",
+    "title": "MetaBackdoor：连字都没改，光靠\"输入有多长\"就能让大模型泄密",
+    "date": "2026-05-17",
+    "source": "https://arxiv.org/abs/2605.15172v1",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-orchard-agent-infrastructure",
+    "title": "Orchard：微软开源了一套 Agent 训练基建，SWE-bench 干到 67.5%",
+    "date": "2026-05-17",
+    "source": "https://arxiv.org/abs/2605.15040v1",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-payload-less-skill-attack",
+    "title": "不用写一行恶意代码，光靠\"合规说明\"就能让 Agent 偷数据",
+    "date": "2026-05-17",
+    "source": "https://arxiv.org/abs/2605.14460v1",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-securing-agents-like-os",
+    "title": "把 AI Agent 当操作系统来防：四个主流 Agent 全被攻破",
+    "date": "2026-05-17",
+    "source": "https://arxiv.org/abs/2605.14932v1",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-asyncfc-future-calling",
+    "title": "AsyncFC：大模型等工具返回时不用发呆，并行调用自己会",
+    "date": "2026-05-16",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-grep-vs-vector-agent-search",
+    "title": "向量检索在 Agent 里输给了 grep：不是算法不行，是环境不对",
+    "date": "2026-05-16",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-metabackdoor-positional-attack",
+    "title": "MetaBackdoor：不用改一个字，靠「对话有多长」就能让大模型泄密",
+    "date": "2026-05-16",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-opendeepthink-bt-ranking",
+    "title": "OpenDeepThink：让一堆答案互相挑刺，编程水平原地暴涨 405 分",
+    "date": "2026-05-16",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-tfgn-catastrophic-forgetting",
+    "title": "TFGN：大模型连学六门课还不忘，靠的是读写分离",
+    "date": "2026-05-16",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-ai-persuades-ai-break-guardrails",
+    "title": "一个AI说服另一个AI干坏事，连剧本都不用写",
+    "date": "2026-05-15",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-flowcompile-workflow-compiler",
+    "title": "给 AI 工作流写个编译器，上线前把最优配置算好",
+    "date": "2026-05-15",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-history-anchors-agent-safety",
+    "title": "一句\"保持一致\"，让最强 AI 模型集体翻车",
+    "date": "2026-05-15",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-negation-neglect-llm-finetune",
+    "title": "你告诉模型一万遍\"这是假的\"，它还是当了真",
+    "date": "2026-05-15",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-tflow-weight-agent-comm",
+    "title": "Agent 之间别再聊天了，直接改对方的脑子",
+    "date": "2026-05-15",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-fast-slow-training-continual",
+    "title": "大模型学新东西就忘旧知识，这次用\"短期记忆\"救了它",
+    "date": "2026-05-14",
+    "source": "https://arxiv.org/abs/2605.12484",
+    "authors": "Rishabh Tiwari, Kusha Sareen, Lakshya A Agrawal 等",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-long-tail-gui-computer-use",
+    "title": "电脑用得好好的，一碰复杂操作就翻车",
+    "date": "2026-05-14",
+    "source": "https://arxiv.org/abs/2605.12501",
+    "authors": "Miaosen Zhang, Xiaohan Zhao, Zhihong Tan 等 (Southeast University, MBZUAI, Wuhan University, Microsoft)",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-multi-stream-llm-parallel",
+    "title": "大模型被自己的聊天格式困住了",
+    "date": "2026-05-14",
+    "source": "https://arxiv.org/abs/2605.12460",
+    "authors": "Guinan Su, Yanwu Yang, Xueyan Li, Jonas Geiping (MPI, ETH Zurich, Tübingen AI Center)",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-textseal-llm-watermark",
+    "title": "给大模型打上隐形纹身，连蒸馏都带不走",
+    "date": "2026-05-14",
+    "source": "https://arxiv.org/abs/2605.12456",
+    "authors": "Tom Sander, Hongyan Chang, Tomáš Souček 等 (Meta FAIR / Meta Superintelligence Labs)",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-tokenhd-hallucination-detection",
+    "title": "抓大模型说谎，精确到每个字",
+    "date": "2026-05-14",
+    "source": "https://arxiv.org/abs/2605.12384",
+    "authors": "Rui Min, Tianyu Pang, Chao Du 等 (Sea AI Lab, HKUST, Penn State)",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-bystander-effect-multi-agent",
+    "title": "2026 05 13 paper bystander effect multi agent",
+    "date": "2026-05-13",
+    "source": "https://arxiv.org/abs/2605.10698",
+    "authors": "Dahlia Shehata, Ming Li",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-complex-mcp-agent-evaluation",
+    "title": "2026 05 13 paper complex mcp agent evaluation",
+    "date": "2026-05-13",
+    "source": "https://arxiv.org/abs/2605.10787",
+    "authors": "Yuanyang Li, Xue Yang, Longyue Wang, Weihua Luo",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-dynamic-compute-allocation-sol",
+    "title": "2026 05 13 paper dynamic compute allocation sol",
+    "date": "2026-05-13",
+    "source": "https://arxiv.org/abs/2605.10875",
+    "authors": "Yash Akhauri, Mohamed S. Abdelfattah",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-lexical-retrieval-agentic-search",
+    "title": "2026 05 13 paper lexical retrieval agentic search",
+    "date": "2026-05-13",
+    "source": "https://arxiv.org/abs/2605.10848",
+    "authors": "Tz-Huan Hsu, Jheng-Hong Yang, Jimmy Lin (University of Waterloo)",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-secret-leakage-llm-writing",
+    "title": "🤫 连鞋都没找到，就被人闻出来了：大模型根本藏不住秘密",
+    "date": "2026-05-13",
+    "source": "https://arxiv.org/abs/2605.10794",
+    "authors": "Ari Holtzman, Peter West (Allen AI / University of Washington)",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-optimizer-model-consistency-finetuning",
+    "title": "Optimizer-Model Consistency：微调别换优化器，会失忆",
+    "date": "2026-05-11",
+    "source": "https://arxiv.org/abs/2605.06654*",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-popo-positive-only-rl",
+    "title": "POPO：学好事就够了，坏事不用挨个记",
+    "date": "2026-05-11",
+    "source": "https://arxiv.org/abs/2605.06650*",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-scalelogic-rl-reasoning-power-law",
+    "title": "ScaleLogic：推理越复杂的题，训练算力翻得越狠",
+    "date": "2026-05-11",
+    "source": "https://arxiv.org/abs/2605.06638*",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-skillos-self-evolving-agent",
+    "title": "SkillOS：让AI自己攒经验，越用越聪明",
+    "date": "2026-05-11",
+    "source": "https://arxiv.org/abs/2605.06614*",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-vhg-hard-problem-generation",
+    "title": "VHG：让AI自己出考卷，还自带阅卷老师",
+    "date": "2026-05-11",
+    "source": "https://arxiv.org/abs/2605.06660*",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-agent-memory-stale",
+    "title": "2026 05 10 paper agent memory stale",
+    "date": "2026-05-10",
+    "source": "https://arxiv.org/abs/2605.06527",
+    "authors": "Hanxiang Chao (武汉大学), Yihan Bai (武汉大学), Rui Sheng (HKUST), Tianle Li (CUHK), Yushi Sun (HKUST)",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-llm-leaderboard-misleading",
+    "title": "2026 05 10 paper llm leaderboard misleading",
+    "date": "2026-05-10",
+    "source": "https://arxiv.org/abs/2605.06656",
+    "authors": "Jai Moondra (CMU), Ayela Chughtai (MIT), Bhargavi Lanka (MIT), Swati Gupta (MIT)",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-mia-signature-long-context",
+    "title": "2026 05 10 paper mia signature long context",
+    "date": "2026-05-10",
+    "source": "https://arxiv.org/abs/2605.06416",
+    "authors": "Yuqing Li (中科院), Jiangnan Li (腾讯), Mo Yu (腾讯), Zheng Lin (中科院), Weiping Wang (中科院), Jie Zhou (腾讯)",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-optimizer-consistency-finetuning",
+    "title": "2026 05 10 paper optimizer consistency finetuning",
+    "date": "2026-05-10",
+    "source": "https://arxiv.org/abs/2605.06654",
+    "authors": "Yuxing Liu (UIUC), Jianyu Wang (Apple), Tong Zhang (UIUC)",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-rose-serving-gpu-rl-rollout",
+    "title": "2026 05 10 paper rose serving gpu rl rollout",
+    "date": "2026-05-10",
+    "source": "https://arxiv.org/abs/2605.06534",
+    "authors": "Wei Gao (HKUST), Yuheng Zhao (HKUST), 阿里团队等, Wei Wang (HKUST)",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-llm-leaderboard-misleading",
+    "title": "全球 LLM 排行榜，其实是个假榜",
+    "date": "2026-05-09",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-optimizer-consistency-finetune",
+    "title": "微调用同样的优化器，遗忘更少",
+    "date": "2026-05-09",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-sira-one-shot-retrieval",
+    "title": "一次检索干掉多轮搜索",
+    "date": "2026-05-09",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-strata-strategic-agentic-rl",
+    "title": "Agent 做长任务不能只靠条件反射",
+    "date": "2026-05-09",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-vhg-verifier-math-problem",
+    "title": "VHG：让 AI 自己出题，自己答题，还能自己判卷",
+    "date": "2026-05-09",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "-paper-agenttrust-runtime-safety-interception__paper",
+    "title": "2026 05 08  paper agenttrust runtime safety interception__paper",
+    "date": "2026-05-08",
+    "source": "https://arxiv.org/abs/2605.04785",
+    "authors": "Chenglin Yang",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "-paper-cubridge-attention-kernel-bridge__paper",
+    "title": "2026 05 08  paper cubridge attention kernel bridge__paper",
+    "date": "2026-05-08",
+    "source": "https://arxiv.org/abs/2605.05023",
+    "authors": "Xing Ma, Yangjie Zhou, Wu Sun 等 (上海交通大学, 新加坡国立大学)",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "-paper-design-conductor-2.0__paper",
+    "title": "2026 05 08  paper design conductor 2.0__paper",
+    "date": "2026-05-08",
+    "source": "https://arxiv.org/abs/2605.05170",
+    "authors": "Ravi Krishna, Suresh Krishna, David Chin (The Verkor Team)",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "-paper-newtral-neural-weight-translation__paper",
+    "title": "2026 05 08  paper newtral neural weight translation__paper",
+    "date": "2026-05-08",
+    "source": "https://arxiv.org/abs/2605.04992",
+    "authors": "Marco Arazzi, Vignesh Kumar Kembu, Antonino Nocera, Stjepan Picek, Saraga Sakthidharan",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "-paper-seedhijack-prng-水印劫持__paper",
+    "title": "印章是真的，但盖章的人是假的：一篇让所有LLM水印同时失效的论文",
+    "date": "2026-05-08",
+    "source": "https://arxiv.org/abs/2605.28632v1",
+    "authors": "Ziyang You, Huilong He, Xiaoke Yang, Xuxing Lu et al.",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "-paper-uno-orchestra-selective-delegation__paper",
+    "title": "2026 05 08  paper uno orchestra selective delegation__paper",
+    "date": "2026-05-08",
+    "source": "https://arxiv.org/abs/2605.05007",
+    "authors": "Zhiqing Cui, Haotong Xie, Jiahao Yuan 等",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "-paper-agent-memory-circuit-emergence__paper",
+    "title": "Agent记忆的黑盒里有什么",
+    "date": "2026-05-07",
+    "source": "https://arxiv.org/abs/2605.03354v1",
+    "authors": "Xutao Mao, Jinman Zhao, Gerald Penn, Cong Wang (CityU HK, UofT)",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "-paper-argus-context-aware-prompt-injection__paper",
+    "title": "现实世界的Prompt注入攻击长什么样",
+    "date": "2026-05-07",
+    "source": "https://arxiv.org/abs/2605.03378v1",
+    "authors": "Shihao Weng, Yang Feng, Jinrui Zhang 等 (南京大学, Singapore Management University)",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "-paper-moral-sensitivity-u-curve-bias__paper",
+    "title": "模型蒸馏反而把偏见找回来了",
+    "date": "2026-05-07",
+    "source": "https://arxiv.org/abs/2605.03217v1",
+    "authors": "Yash Aggarwal, Atmika Gorti, Vinija Jain, Aman Chadha 等 (UMD, Purdue, Google, Google DeepMind)",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "-paper-openseeker-v2-sft-search-agent__paper",
+    "title": "数据质量比训练复杂度更重要",
+    "date": "2026-05-07",
+    "source": "https://arxiv.org/abs/2605.04036v1",
+    "authors": "Yuwen Du, Rui Ye, Shuo Tang 等 (上海交通大学)",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "-paper-safe-scale-clinical-llm__paper",
+    "title": "安全与准确率走的是两条路",
+    "date": "2026-05-07",
+    "source": "https://arxiv.org/abs/2605.04039v1",
+    "authors": "Sebastian Wind, Tri-Thien Nguyen, Jeta Sopa 等 (FAU Erlangen-Nürnberg, RWTH Aachen)",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-emotion-saes",
+    "title": "paper-emotion-saes",
+    "date": "2026-04-30",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-pythia",
+    "title": "paper-pythia",
+    "date": "2026-04-30",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-requer",
+    "title": "paper-requer",
+    "date": "2026-04-30",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-semantic-gateway",
+    "title": "paper-semantic-gateway",
+    "date": "2026-04-30",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-valuealpha",
+    "title": "paper-valuealpha",
+    "date": "2026-04-30",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-agentic-witnessing-tee-auditing",
+    "title": "Agentic Witnessing：不偷看你的数据，也能审查你的代码",
+    "date": "2026-04-29",
+    "source": "https://arxiv.org/abs/2604.24203v1",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-ai-model-sabotage-safety-research",
+    "title": "AI 模型会 sabotage 安全研究吗？——Anthropic 的\"卧底测试\"",
+    "date": "2026-04-29",
+    "source": "https://arxiv.org/abs/2604.24618v1",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-dataprm-process-reward-data-analysis",
+    "title": "DataPRM：让 AI 做数据分析时，有人盯着每一步",
+    "date": "2026-04-29",
+    "source": "https://arxiv.org/abs/2604.24198v1",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-lcf-layerwise-convergence-fingerprints",
+    "title": "LCF：用\"指纹\"检测 AI 的异常行为",
+    "date": "2026-04-29",
+    "source": "https://arxiv.org/abs/2604.24542v1",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-sra-skill-retrieval-augmentation",
+    "title": "SRA：Agent 的技能库太大了，怎么办？",
+    "date": "2026-04-29",
+    "source": "https://arxiv.org/abs/2604.24594v1",
+    "authors": "",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-AI-Augmented-PyTest-BDD__paper",
+    "title": "用 AI 给软件测试装上大脑",
+    "date": "2026-04-28",
+    "source": "arXiv",
+    "authors": "Xiaofei Zhao, Hua Wang, JieQiong Ding, Zhiming Hu, Qingqing Tian, Ying Wang",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-behavioral-canaries-audit-rlft",
+    "title": "2026 04 28 paper behavioral canaries audit rlft",
+    "date": "2026-04-28",
+    "source": "https://arxiv.org/abs/2604.22191",
+    "authors": "Chaoran Chen, Dayu Yuan, Peter Kairouz (Google)",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-llm-internal-confidence-signals",
+    "title": "2026 04 28 paper llm internal confidence signals",
+    "date": "2026-04-28",
+    "source": "https://arxiv.org/abs/2604.22271",
+    "authors": "Dharshan Kumaran, Viorica Patraucean, Simon Osindero, Petar Velickovic, Nathaniel Daw (Google DeepMind & Princeton)",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-sliders-structured-reasoning",
+    "title": "2026 04 28 paper sliders structured reasoning",
+    "date": "2026-04-28",
+    "source": "https://arxiv.org/abs/2604.22294",
+    "authors": "Harshit Joshi, Priyank Shethia, Jadelynn Dao, Monica S. Lam (Stanford)",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-spikingbrain2-efficient-long-context",
+    "title": "2026 04 28 paper spikingbrain2 efficient long context",
+    "date": "2026-04-28",
+    "source": "https://arxiv.org/abs/2604.22575",
+    "authors": "Yuqi Pan, Jinghao Zhuang, Yupeng Feng 等（中科院自动化所、香港理工大学）",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-token-consumption-agentic-coding",
+    "title": "2026 04 28 paper token consumption agentic coding",
+    "date": "2026-04-28",
+    "source": "https://arxiv.org/abs/2604.22750",
+    "authors": "Longju Bai, Zhemin Huang, Xingyao Wang, Jiao Sun, Rada Mihalcea, Erik Brynjolfsson, Alex Pentland, Jiaxin Pei (MIT等)",
+    "tags": [
+      "AI",
+      "arXiv",
+      "LLM",
+      "研究"
+    ],
+    "oneLiner": ""
+  },
+  {
+    "slug": "paper-tool-attention-eliminating-mcp-tax",
+    "title": "Tool Attention: 消灭 MCP 工具税——让大模型按需加载工具",
+    "date": "2026-04-27",
+    "source": "https://arxiv.org/abs/2604.21816v1",
+    "authors": "",
+    "tags": [
+      "cs.AI"
+    ],
+    "oneLiner": ""
+  }
+]

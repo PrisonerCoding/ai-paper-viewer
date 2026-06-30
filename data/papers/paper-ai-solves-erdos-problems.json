@@ -1,0 +1,15 @@
+{
+  "slug": "paper-ai-solves-erdos-problems",
+  "title": "2026 05 23 paper ai solves erdos problems",
+  "date": "2026-05-23",
+  "source": "https://arxiv.org/abs/2605.22763",
+  "authors": "George Tsoukalas, Anton Kovsharov, Sergey Shirobokov, Pushmeet Kohli, Swarat Chaudhuri 等 (Google DeepMind)",
+  "tags": [
+    "AI",
+    "arXiv",
+    "LLM",
+    "研究"
+  ],
+  "content": "\n#+title:      paper-ai-solves-erdos-problems\n#+date:       [2026-05-23 Sat 05:00]\n#+filetags:   :paper:\n#+identifier: 20260523T050000\n#+source:     https://arxiv.org/abs/2605.22763\n#+authors:    George Tsoukalas, Anton Kovsharov, Sergey Shirobokov, Pushmeet Kohli, Swarat Chaudhuri 等 (Google DeepMind)\n#+venue:      arXiv 2026\n\n* 问题\n\n数学家花了几十年都没解开的题目，AI 能搞定吗？\n\n不是考试题，是真正的开放数学问题——那些摆在维基百科上、谁都能看但没人能证的硬骨头。\n\n* 翻译\n\n想象你在玩一个闯关游戏。每一关是一道数学题，你需要用逻辑积木一块一块搭建证明。搭对了，门就开了。搭错了，积木会自己掉下来。\n\nGoogle DeepMind 造了一个叫 AlphaProof Nexus 的系统，让 AI 来玩这个游戏。\n\n游戏规则是：AI 每次写完一块积木，一个叫 Lean 的形式化证明器就会检查这块积木稳不稳。不稳？打回重写。稳了？继续下一块。如此循环，直到整道证明全部搭完。\n\n这个系统有四个版本，从简单到复杂：\n\n- 版本A：AI 自己写，自己查，自己改。最朴素。\n- 版本B：A + 可以调用一个叫 AlphaProof 的专业工具来帮忙攻克难关\n- 版本C：A + 进化算法，多个 AI 同时试，好的策略被保留下来\n- 版本D：B + C 合体，最强版\n\n结果：最强的版本 D 自主解决了 353 个 Erdős 公开问题中的 9 个。每道题的花费：几百美元。\n\n还证明了 OEIS 整数序列百科里 44 个开放猜想。\n\n更惊人的是，最简单的版本 A 也能解决同样的 9 道题——只是贵一些。这说明随着 LLM 越来越聪明，那些复杂的 agent 设计可能没那么必要了。\n\n* 核心概念\n\n*Lean 形式化证明*\n\n一句话：把数学证明写成代码，编译器逐行检查，错一个字符都不行。\n\nLean 里有个叫 sorry 的关键字，意思是\"这步我先空着\"。证明一道题，就是要把所有 sorry 都填满，而且每块都得经得起编译器检查。\n\n类比：就像做填空题，但每一空都有标准答案在后面等着。你不能糊弄。\n\n*Ralph Loop*\n\n这是版本 A 的核心工作方式：AI 写一段证明草稿 → Lean 检查 → 有错就把错误信息拿回来 → AI 根据错误修改 → 再检查。循环往复，直到全部通过。\n\n就像你在写代码，编译器报错，你改，再编译，再改。只不过这里编译的不是代码，是数学证明。\n\n* 洞见\n\n当数学证明变成了可编译的代码，AI 不再是\"猜答案\"，而是在\"写程序\"——写对了就过，写错了就改，没有灰色地带。\n\n* 博导审稿\n\n*选题眼光*\n\n真缺口。之前 AI 做数学研究要么停留在竞赛题（IMO），要么只是把人类已有的证明翻译成交付形式化。这篇第一次大规模让 AI 去攻真正的开放问题。\n\n*方法成熟度*\n\n四种 agent 版本的对比设计很聪明。最让论文加分的是那个事后分析：最简单的版本 A 也能解出 9 题。这个结论反直觉——大家都在堆 agent 复杂度，结果发现可能不需要那么复杂。\n\n*实验诚意*\n\n诚实。写了失败模式：AI 经常把核心困难塞进一个 sorry 里换了个说法重述，或者捏造\"已知引理\"。这些坦诚让整篇论文可信度大增。\n\n*判决*\n\n*strong accept*。不是 incremental work。第一次大规模展示 AI 能自主解决开放数学问题，而且成本可控（几百美元/题）。\n\n* 启发\n\n*迁移*\n\n这个\"生成→编译检查→修改\"的闭环可以迁移到很多场景。我们做 code review 的时候能不能也这样？让 AI 写完代码后，自动跑测试、跑 lint、跑类型检查，失败就自动改。不只是\"读论文\"，而是\"改论文\"——AI 写完分析，跑一套检查规则，不通过就自动修正。\n\n*混搭*\n\nLean 的\"形式化验证\"思想 + 投资分析：能不能用类似方式验证投资假设？先形式化地定义\"如果 X 成立则 Y 发生\"，然后用数据逐一验证，不通过就打回。\n\n*反转*\n\n论文说\"简单 agent 也能解题\"。这提醒我们：做 agent 系统，不是越复杂越好。有时候最朴素的循环反而最可靠。我们搭 OpenClaw agent 时，是不是也可以先试试最简单的方式？\n\n* 过红线检查\n\n- 口语检验：通过。没有\"本文提出了一种新的框架\"这种废话\n- 零术语：Lean 解释了，sorry 解释了，Ralph Loop 解释了\n- 短词优先：用\"搭积木\"比喻证明过程\n- 具体：数字清晰——353 题，9 题，几百美元\n- 诚实：记录了失败模式\n\n风清扬 ⚔️ 2026年5月23日于武汉一人有限公司\n",
+  "oneLiner": ""
+}
