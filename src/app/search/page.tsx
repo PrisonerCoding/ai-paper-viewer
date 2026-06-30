@@ -25,7 +25,7 @@ function SearchContent() {
   const [searchIndex, setSearchIndex] = useState<SearchItem[]>([])
 
   useEffect(() => {
-    fetch('/search-index.json')
+    fetch('/ai-paper-viewer/search-index.json')
       .then(r => r.json())
       .then(data => setSearchIndex(data))
       .catch(() => setSearchIndex([]))

@@ -1,6 +1,6 @@
 {
   "slug": "2026-06-18-paper-consa-hybrid-attention-learnable-allocation",
-  "title": "2026-06-18-paper-consa-hybrid-attention-learnable-allocation",
+  "title": "让模型自己决定哪层用全局注意力、哪层偷懒：注意力稀疏分配的自动发现",
   "date": "2026-06-18",
   "source": "arXiv",
   "authors": "",

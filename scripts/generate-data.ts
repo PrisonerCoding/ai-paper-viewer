@@ -23,6 +23,16 @@ function extractOneLiner(content: string): string {
   return match ? match[1].trim() : ''
 }
 
+function extractPaperTitle(content: string): string {
+  // Try to extract from "> **论文**: ..." format
+  const match = content.match(/>\s*\*\*论文\*\*[:：]\s*(.+)/)
+  if (match) return match[1].trim()
+  // Try to extract from "# title" format
+  const h1Match = content.match(/^#\s+(.+)$/m)
+  if (h1Match) return h1Match[1].trim()
+  return ''
+}
+
 function getSlugFromFilepath(filepath: string): string {
   const basename = path.basename(filepath, '.md')
   // Keep date prefix to ensure uniqueness
@@ -110,9 +120,10 @@ const papers = files.map(filepath => {
   const basename = path.basename(filepath, '.md')
   const cardPng = path.join(dir, `${basename.replace('-paper-', '-card-')}.png`)
   const cardImage = fs.existsSync(cardPng) ? path.basename(cardPng) : undefined
+  const extractedTitle = extractPaperTitle(content)
   return {
     slug,
-    title: data.title || slug,
+    title: data.title || extractedTitle || slug,
     date: toDateStr(data.date, basename.match(/^(\d{4}-\d{2}-\d{2})/)?.[1] || ''),
     source: data.source || orgMeta.source || 'arXiv',
     authors: orgMeta.authors || '',

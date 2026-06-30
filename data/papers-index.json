@@ -1,7 +1,7 @@
 [
   {
     "slug": "2026-06-30-paper-adaptive-inference",
-    "title": "2026-06-30-paper-adaptive-inference",
+    "title": "End-to-End Dynamic Sparsity for Resource-Adaptive LLM Inference",
     "date": "2026-06-30",
     "source": "arXiv",
     "authors": "",
@@ -11,7 +11,7 @@
   },
   {
     "slug": "2026-06-30-paper-flexmoe",
-    "title": "2026-06-30-paper-flexmoe",
+    "title": "FlexMoE: One-for-All Nested Intra-Expert Pruning for MoE Language Models",
     "date": "2026-06-30",
     "source": "arXiv",
     "authors": "",
@@ -21,7 +21,7 @@
   },
   {
     "slug": "2026-06-30-paper-textual-belief",
-    "title": "2026-06-30-paper-textual-belief",
+    "title": "Textual Belief States for World Models: Identifiable Representation Learning Under Strict Mediation",
     "date": "2026-06-30",
     "source": "arXiv",
     "authors": "",
@@ -31,7 +31,7 @@
   },
   {
     "slug": "2026-06-30-paper-training-monitor",
-    "title": "2026-06-30-paper-training-monitor",
+    "title": "Mechanism-Driven Monitors for Preemptive Detection of LLM Training Instability",
     "date": "2026-06-30",
     "source": "arXiv",
     "authors": "",
@@ -41,7 +41,7 @@
   },
   {
     "slug": "2026-06-30-paper-vla-redundancy",
-    "title": "2026-06-30-paper-vla-redundancy",
+    "title": "Drop-Then-Recovery: How Redundant Are Vision-Language-Action Models?",
     "date": "2026-06-30",
     "source": "arXiv",
     "authors": "",
@@ -51,7 +51,7 @@
   },
   {
     "slug": "2026-06-30-paper-gradient-multi-agent-optimization",
-    "title": "2026-06-30-paper-gradient-multi-agent-optimization",
+    "title": "多智能体系统也能反向传播了",
     "date": "2026-06-30",
     "source": "arXiv",
     "authors": "",
@@ -60,7 +60,7 @@
   },
   {
     "slug": "2026-06-30-paper-jailbreak-attention-head-mechanism",
-    "title": "2026-06-30-paper-jailbreak-attention-head-mechanism",
+    "title": "越狱攻击不是拆炸弹，是拔保险丝",
     "date": "2026-06-30",
     "source": "arXiv",
     "authors": "",
@@ -69,7 +69,7 @@
   },
   {
     "slug": "2026-06-30-paper-llm-world-model-spectrum",
-    "title": "2026-06-30-paper-llm-world-model-spectrum",
+    "title": "大模型和世界模型不是对手，是一条绳上的蚂蚱",
     "date": "2026-06-30",
     "source": "arXiv",
     "authors": "",
@@ -78,7 +78,7 @@
   },
   {
     "slug": "2026-06-30-paper-prompt-injection-impossibility",
-    "title": "2026-06-30-paper-prompt-injection-impossibility",
+    "title": "提示注入不是 bug，是数学定理",
     "date": "2026-06-30",
     "source": "arXiv",
     "authors": "",
@@ -87,7 +87,7 @@
   },
   {
     "slug": "2026-06-30-paper-vla-redundancy-drop-recovery",
-    "title": "2026-06-30-paper-vla-redundancy-drop-recovery",
+    "title": "机器人操控不需要那么多\"语言理解\"",
     "date": "2026-06-30",
     "source": "arXiv",
     "authors": "",
@@ -96,7 +96,7 @@
   },
   {
     "slug": "2026-06-29-paper-ceiling",
-    "title": "2026-06-29-paper-ceiling",
+    "title": "When Does Combining Language Models Help? A Co-Failure Ceiling on Routing, Voting, and Mixture-of-Agents Across 67 Frontier Models",
     "date": "2026-06-29",
     "source": "arXiv",
     "authors": "",
@@ -106,7 +106,7 @@
   },
   {
     "slug": "2026-06-29-paper-geoalign",
-    "title": "2026-06-29-paper-geoalign",
+    "title": "Geometric Rollout Curation for Robust LLM Reinforcement Learning",
     "date": "2026-06-29",
     "source": "arXiv",
     "authors": "",
@@ -116,7 +116,7 @@
   },
   {
     "slug": "2026-06-29-paper-nova",
-    "title": "2026-06-29-paper-nova",
+    "title": "NOVA: A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Systems",
     "date": "2026-06-29",
     "source": "arXiv",
     "authors": "",
@@ -126,7 +126,7 @@
   },
   {
     "slug": "2026-06-29-paper-rca",
-    "title": "2026-06-29-paper-rca",
+    "title": "OpenRCA 2.0: From Outcome Labels to Causal Process Supervision",
     "date": "2026-06-29",
     "source": "arXiv",
     "authors": "",
@@ -136,7 +136,7 @@
   },
   {
     "slug": "2026-06-29-paper-river",
-    "title": "2026-06-29-paper-river",
+    "title": "Reinforcement Learning without Ground-Truth Solutions can Improve LLMs",
     "date": "2026-06-29",
     "source": "arXiv",
     "authors": "",
@@ -146,7 +146,7 @@
   },
   {
     "slug": "2026-06-28-paper-constraint-tax",
-    "title": "2026-06-28-paper-constraint-tax",
+    "title": "Constraint Tax in Open-Weight LLMs: An Empirical Study of Tool Calling Suppression Under Structured Output Constraints",
     "date": "2026-06-28",
     "source": "arXiv",
     "authors": "",
@@ -156,7 +156,7 @@
   },
   {
     "slug": "2026-06-28-paper-opera-perplexity-reward",
-    "title": "2026-06-28-paper-opera-perplexity-reward",
+    "title": "OPERA: Aligning Open-Ended Reasoning via Objective Perplexity-based Reinforcement Learning",
     "date": "2026-06-28",
     "source": "arXiv",
     "authors": "",
@@ -166,7 +166,7 @@
   },
   {
     "slug": "2026-06-28-paper-progress-advantage",
-    "title": "2026-06-28-paper-progress-advantage",
+    "title": "Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents",
     "date": "2026-06-28",
     "source": "arXiv",
     "authors": "",
@@ -176,7 +176,7 @@
   },
   {
     "slug": "2026-06-28-paper-scpo-semantic-credit",
-    "title": "2026-06-28-paper-scpo-semantic-credit",
+    "title": "Semantic Consistency Policy Optimization for Reinforcement Learning of LLM Agents",
     "date": "2026-06-28",
     "source": "arXiv",
     "authors": "",
@@ -186,7 +186,7 @@
   },
   {
     "slug": "2026-06-28-paper-tool-rl-collapse",
-    "title": "2026-06-28-paper-tool-rl-collapse",
+    "title": "Why Multi-Step Tool-Use Reinforcement Learning Collapses and How Supervisory Signals Fix It",
     "date": "2026-06-28",
     "source": "arXiv",
     "authors": "",
@@ -196,7 +196,7 @@
   },
   {
     "slug": "2026-06-27-paper-constraint-tax",
-    "title": "2026-06-27-paper-constraint-tax",
+    "title": "Constraint Tax in Open-Weight LLMs: An Empirical Study of Tool Calling Suppression Under Structured Output Constraints",
     "date": "2026-06-27",
     "source": "arXiv",
     "authors": "",
@@ -206,7 +206,7 @@
   },
   {
     "slug": "2026-06-27-paper-opera-perplexity-reward",
-    "title": "2026-06-27-paper-opera-perplexity-reward",
+    "title": "OPERA: Aligning Open-Ended Reasoning via Objective Perplexity-based Reinforcement Learning",
     "date": "2026-06-27",
     "source": "arXiv",
     "authors": "",
@@ -216,7 +216,7 @@
   },
   {
     "slug": "2026-06-27-paper-progress-advantage",
-    "title": "2026-06-27-paper-progress-advantage",
+    "title": "Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents",
     "date": "2026-06-27",
     "source": "arXiv",
     "authors": "",
@@ -226,7 +226,7 @@
   },
   {
     "slug": "2026-06-27-paper-scpo-semantic-credit",
-    "title": "2026-06-27-paper-scpo-semantic-credit",
+    "title": "Semantic Consistency Policy Optimization for Reinforcement Learning of LLM Agents",
     "date": "2026-06-27",
     "source": "arXiv",
     "authors": "",
@@ -236,7 +236,7 @@
   },
   {
     "slug": "2026-06-27-paper-tool-rl-collapse",
-    "title": "2026-06-27-paper-tool-rl-collapse",
+    "title": "Why Multi-Step Tool-Use Reinforcement Learning Collapses and How Supervisory Signals Fix It",
     "date": "2026-06-27",
     "source": "arXiv",
     "authors": "",
@@ -246,7 +246,7 @@
   },
   {
     "slug": "2026-06-26-paper-constraint-tax",
-    "title": "2026-06-26-paper-constraint-tax",
+    "title": "Constraint Tax in Open-Weight LLMs: An Empirical Study of Tool Calling Suppression Under Structured Output Constraints",
     "date": "2026-06-26",
     "source": "arXiv",
     "authors": "",
@@ -256,7 +256,7 @@
   },
   {
     "slug": "2026-06-26-paper-opera",
-    "title": "2026-06-26-paper-opera",
+    "title": "OPERA: Aligning Open-Ended Reasoning via Objective Perplexity-based Reinforcement Learning",
     "date": "2026-06-26",
     "source": "arXiv",
     "authors": "",
@@ -266,7 +266,7 @@
   },
   {
     "slug": "2026-06-26-paper-progress-advantage",
-    "title": "2026-06-26-paper-progress-advantage",
+    "title": "Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents",
     "date": "2026-06-26",
     "source": "arXiv",
     "authors": "",
@@ -276,7 +276,7 @@
   },
   {
     "slug": "2026-06-26-paper-tool-rl-collapse",
-    "title": "2026-06-26-paper-tool-rl-collapse",
+    "title": "Why Multi-Step Tool-Use Reinforcement Learning Collapses and How Supervisory Signals Fix It",
     "date": "2026-06-26",
     "source": "arXiv",
     "authors": "",
@@ -286,7 +286,7 @@
   },
   {
     "slug": "2026-06-26-paper-trustmem",
-    "title": "2026-06-26-paper-trustmem",
+    "title": "TrustMem: Learning Trustworthy Memory Consolidation for LLM Agents with Long-Term Memory",
     "date": "2026-06-26",
     "source": "arXiv",
     "authors": "",
@@ -296,7 +296,7 @@
   },
   {
     "slug": "2026-06-26-paper-constraint-tax-tool-suppression",
-    "title": "2026-06-26-paper-constraint-tax-tool-suppression",
+    "title": "你的 Agent 突然不用工具了？可能是 JSON Schema 在搞鬼",
     "date": "2026-06-26",
     "source": "arXiv",
     "authors": "",
@@ -305,7 +305,7 @@
   },
   {
     "slug": "2026-06-26-paper-opera-perplexity-reward-open-ended",
-    "title": "2026-06-26-paper-opera-perplexity-reward-open-ended",
+    "title": "不用裁判，让模型自己给自己打分——OPERA 用「困惑度」驯服开放式任务",
     "date": "2026-06-26",
     "source": "arXiv",
     "authors": "",
@@ -314,7 +314,7 @@
   },
   {
     "slug": "2026-06-26-paper-progress-advantage-implicit-prm",
-    "title": "2026-06-26-paper-progress-advantage-implicit-prm",
+    "title": "RL 后训练白送了个步级评分器，你居然不知道？",
     "date": "2026-06-26",
     "source": "arXiv",
     "authors": "",
@@ -323,7 +323,7 @@
   },
   {
     "slug": "2026-06-26-paper-tool-rl-collapse-control-tokens",
-    "title": "2026-06-26-paper-tool-rl-collapse-control-tokens",
+    "title": "大模型突然\"疯了\"——多步工具调用 RL 训练崩溃的真相",
     "date": "2026-06-26",
     "source": "arXiv",
     "authors": "",
@@ -332,7 +332,7 @@
   },
   {
     "slug": "2026-06-26-paper-woft-syntax-aware-code-generation",
-    "title": "2026-06-26-paper-woft-syntax-aware-code-generation",
+    "title": "大模型写代码总是语法错误？给它装一个\"语法直觉\"",
     "date": "2026-06-26",
     "source": "arXiv",
     "authors": "",
@@ -341,7 +341,7 @@
   },
   {
     "slug": "2026-06-25-paper-compresskv",
-    "title": "2026-06-25-paper-compresskv",
+    "title": "CompressKV: Semantic-Retrieval-Guided KV-Cache Compression for Resource-Efficient Long-Context LLM Inference",
     "date": "2026-06-25",
     "source": "arXiv",
     "authors": "",
@@ -351,7 +351,7 @@
   },
   {
     "slug": "2026-06-25-paper-edv",
-    "title": "2026-06-25-paper-edv",
+    "title": "Escaping the Self-Confirmation Trap: An Execute-Distill-Verify Paradigm for Agentic Experience Learning",
     "date": "2026-06-25",
     "source": "arXiv",
     "authors": "",
@@ -361,7 +361,7 @@
   },
   {
     "slug": "2026-06-25-paper-governed-memory",
-    "title": "2026-06-25-paper-governed-memory",
+    "title": "Governed Shared Memory for Multi-Agent LLM Systems",
     "date": "2026-06-25",
     "source": "arXiv",
     "authors": "",
@@ -371,7 +371,7 @@
   },
   {
     "slug": "2026-06-25-paper-pigeonholing",
-    "title": "2026-06-25-paper-pigeonholing",
+    "title": "Pigeonholing: Bad prompts hurt models to collapse and make mistakes",
     "date": "2026-06-25",
     "source": "arXiv",
     "authors": "",
@@ -381,7 +381,7 @@
   },
   {
     "slug": "2026-06-25-paper-radar",
-    "title": "2026-06-25-paper-radar",
+    "title": "A specialized reasoning large language model for accelerating rare disease diagnosis: a randomized AI physician assistance trial",
     "date": "2026-06-25",
     "source": "arXiv",
     "authors": "",
@@ -391,7 +391,7 @@
   },
   {
     "slug": "2026-06-25-paper-grad-detect-hallucination-detection",
-    "title": "2026-06-25-paper-grad-detect-hallucination-detection",
+    "title": "大模型说谎时，它的\"手\"在抖——Grad Detect 用梯度抓幻觉",
     "date": "2026-06-25",
     "source": "arXiv",
     "authors": "",
@@ -400,7 +400,7 @@
   },
   {
     "slug": "2026-06-25-paper-memprobe-agent-memory-probing",
-    "title": "2026-06-25-paper-memprobe-agent-memory-probing",
+    "title": "你家 AI 记性好不好？别看它答对了题，得翻它的笔记本",
     "date": "2026-06-25",
     "source": "arXiv",
     "authors": "",
@@ -409,7 +409,7 @@
   },
   {
     "slug": "2026-06-25-paper-radar-rare-disease-diagnosis",
-    "title": "2026-06-25-paper-radar-rare-disease-diagnosis",
+    "title": "32B 的小模型，干翻了 671B 的 DeepSeek-R1：罕见病诊断的「以小博大」",
     "date": "2026-06-25",
     "source": "arXiv",
     "authors": "",
@@ -418,7 +418,7 @@
   },
   {
     "slug": "2026-06-25-paper-safari-agent-fault-attribution",
-    "title": "2026-06-25-paper-safari-agent-fault-attribution",
+    "title": "当 Agent 的「病历」比上下文窗口还长，怎么查出谁搞砸的？",
     "date": "2026-06-25",
     "source": "arXiv",
     "authors": "",
@@ -427,7 +427,7 @@
   },
   {
     "slug": "2026-06-25-paper-sherloc-code-repair-localization",
-    "title": "2026-06-25-paper-sherloc-code-repair-localization",
+    "title": "AI 修 Bug 一半时间在找 Bug——SHERLOC 说：别找了，我帮你诊断好",
     "date": "2026-06-25",
     "source": "arXiv",
     "authors": "",
@@ -436,7 +436,7 @@
   },
   {
     "slug": "2026-06-24-paper-causal-reward",
-    "title": "2026-06-24-paper-causal-reward",
+    "title": "Causal Reward World Models: Zero-shot Reward Design for Automated Skill Generation",
     "date": "2026-06-24",
     "source": "arXiv",
     "authors": "",
@@ -446,7 +446,7 @@
   },
   {
     "slug": "2026-06-24-paper-enterprise-bench",
-    "title": "2026-06-24-paper-enterprise-bench",
+    "title": "EnterpriseClawBench: Benchmarking Agents from Real Workplace Sessions",
     "date": "2026-06-24",
     "source": "arXiv",
     "authors": "",
@@ -456,7 +456,7 @@
   },
   {
     "slug": "2026-06-24-paper-kamera-kvcache",
-    "title": "2026-06-24-paper-kamera-kvcache",
+    "title": "Kamera: Unified Position-Invariant Multimodal KV Cache for Training-Free Reuse",
     "date": "2026-06-24",
     "source": "arXiv",
     "authors": "",
@@ -466,7 +466,7 @@
   },
   {
     "slug": "2026-06-24-paper-malicious-skills",
-    "title": "2026-06-24-paper-malicious-skills",
+    "title": "Detecting Malicious Agent Skills in the Wild using Attention",
     "date": "2026-06-24",
     "source": "arXiv",
     "authors": "",
@@ -476,7 +476,7 @@
   },
   {
     "slug": "2026-06-24-paper-randomized-yarn",
-    "title": "2026-06-24-paper-randomized-yarn",
+    "title": "Randomized YaRN Improves Length Generalization for Long-Context Reasoning",
     "date": "2026-06-24",
     "source": "arXiv",
     "authors": "",
@@ -486,7 +486,7 @@
   },
   {
     "slug": "2026-06-23-paper-DiffusionGemma",
-    "title": "2026-06-23-paper-DiffusionGemma",
+    "title": "How Transparent is DiffusionGemma?",
     "date": "2026-06-23",
     "source": "arXiv",
     "authors": "",
@@ -496,7 +496,7 @@
   },
   {
     "slug": "2026-06-23-paper-FlashRT",
-    "title": "2026-06-23-paper-FlashRT",
+    "title": "Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving",
     "date": "2026-06-23",
     "source": "arXiv",
     "authors": "",
@@ -506,7 +506,7 @@
   },
   {
     "slug": "2026-06-23-paper-ICT",
-    "title": "2026-06-23-paper-ICT",
+    "title": "Beyond Entropy: Learning from Token-Level Distributional Deviations for LLM Reasoning",
     "date": "2026-06-23",
     "source": "arXiv",
     "authors": "",
@@ -516,7 +516,7 @@
   },
   {
     "slug": "2026-06-23-paper-StaminaBench",
-    "title": "2026-06-23-paper-StaminaBench",
+    "title": "StaminaBench: Stress-Testing Coding Agents over 100 Interaction Turns",
     "date": "2026-06-23",
     "source": "arXiv",
     "authors": "",
@@ -526,7 +526,7 @@
   },
   {
     "slug": "2026-06-23-paper-UFP4",
-    "title": "2026-06-23-paper-UFP4",
+    "title": "Rethinking Shrinkage Bias in LLM FP4 Pretraining: Geometric Origin, Systemic Impact, and UFP4 Recipe",
     "date": "2026-06-23",
     "source": "arXiv",
     "authors": "",
@@ -536,7 +536,7 @@
   },
   {
     "slug": "2026-06-23-paper-contagion-networks-multi-agent-bias",
-    "title": "2026-06-23-paper-contagion-networks-multi-agent-bias",
+    "title": "多智能体系统里的\"传话游戏\"：偏差是怎么滚雪球的",
     "date": "2026-06-23",
     "source": "arXiv",
     "authors": "",
@@ -545,7 +545,7 @@
   },
   {
     "slug": "2026-06-23-paper-diffusiongemma-transparency",
-    "title": "2026-06-23-paper-diffusiongemma-transparency",
+    "title": "扩散模型\"想\"的过程，你看得见吗？",
     "date": "2026-06-23",
     "source": "arXiv",
     "authors": "",
@@ -554,7 +554,7 @@
   },
   {
     "slug": "2026-06-23-paper-flashrt-execution-state-capsules",
-    "title": "2026-06-23-paper-flashrt-execution-state-capsules",
+    "title": "大模型推理的\"存档读档\"：从\"重新跑一遍\"到\"一毫秒恢复\"",
     "date": "2026-06-23",
     "source": "arXiv",
     "authors": "",
@@ -563,7 +563,7 @@
   },
   {
     "slug": "2026-06-23-paper-llm-psychological-profiles-artifact",
-    "title": "2026-06-23-paper-llm-psychological-profiles-artifact",
+    "title": "你测的不是模型的\"性格\"，是量表的\"脾气\"",
     "date": "2026-06-23",
     "source": "arXiv",
     "authors": "",
@@ -572,7 +572,7 @@
   },
   {
     "slug": "2026-06-23-paper-ufp4-uniform-4bit-training",
-    "title": "2026-06-23-paper-ufp4-uniform-4bit-training",
+    "title": "4-bit 训练的\"先天缺陷\"：为什么 E2M1 格式天生会\"缩水\"",
     "date": "2026-06-23",
     "source": "arXiv",
     "authors": "",
@@ -581,7 +581,7 @@
   },
   {
     "slug": "2026-06-22-paper-AtomMem",
-    "title": "2026-06-22-paper-AtomMem",
+    "title": "AtomMem: Building Simple and Effective Memory System for LLM Agents via Atomic Facts",
     "date": "2026-06-22",
     "source": "arXiv",
     "authors": "",
@@ -591,7 +591,7 @@
   },
   {
     "slug": "2026-06-22-paper-ICT",
-    "title": "2026-06-22-paper-ICT",
+    "title": "Beyond Entropy: Learning from Token-Level Distributional Deviations for LLM Reasoning",
     "date": "2026-06-22",
     "source": "arXiv",
     "authors": "",
@@ -601,7 +601,7 @@
   },
   {
     "slug": "2026-06-22-paper-ProbeRefine",
-    "title": "2026-06-22-paper-ProbeRefine",
+    "title": "Probe-and-Refine Tuning of Repository Guidance for Coding Agents",
     "date": "2026-06-22",
     "source": "arXiv",
     "authors": "",
@@ -611,7 +611,7 @@
   },
   {
     "slug": "2026-06-22-paper-SafeSpec",
-    "title": "2026-06-22-paper-SafeSpec",
+    "title": "SafeSpec: Fast and Safe LLM via Dynamic Reflective Sampling",
     "date": "2026-06-22",
     "source": "arXiv",
     "authors": "",
@@ -621,7 +621,7 @@
   },
   {
     "slug": "2026-06-22-paper-UFP4",
-    "title": "2026-06-22-paper-UFP4",
+    "title": "Rethinking Shrinkage Bias in LLM FP4 Pretraining: Geometric Origin, Systemic Impact, and UFP4 Recipe",
     "date": "2026-06-22",
     "source": "arXiv",
     "authors": "",
@@ -631,7 +631,7 @@
   },
   {
     "slug": "2026-06-18-paper-compositional",
-    "title": "2026-06-18-paper-compositional",
+    "title": "From Reasoning Traces to Reusable Modules: Understanding Compositional Generalization in Language Model Reasoning",
     "date": "2026-06-18",
     "source": "arXiv",
     "authors": "",
@@ -641,7 +641,7 @@
   },
   {
     "slug": "2026-06-18-paper-DRE",
-    "title": "2026-06-18-paper-DRE",
+    "title": "Dynamic Rollout Editing for Reducing Overthinking in RL-Trained Reasoning Models",
     "date": "2026-06-18",
     "source": "arXiv",
     "authors": "",
@@ -651,7 +651,7 @@
   },
   {
     "slug": "2026-06-18-paper-smallinit",
-    "title": "2026-06-18-paper-smallinit",
+    "title": "Small Initialization Matters for Large Language Models",
     "date": "2026-06-18",
     "source": "arXiv",
     "authors": "",
@@ -661,7 +661,7 @@
   },
   {
     "slug": "2026-06-18-paper-softmoe",
-    "title": "2026-06-18-paper-softmoe",
+    "title": "SoftMoE: Soft Differentiable Routing for Mixture-of-Experts in LLMs",
     "date": "2026-06-18",
     "source": "arXiv",
     "authors": "",
@@ -671,7 +671,7 @@
   },
   {
     "slug": "2026-06-18-paper-ZPPO",
-    "title": "2026-06-18-paper-ZPPO",
+    "title": "Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients",
     "date": "2026-06-18",
     "source": "arXiv",
     "authors": "",
@@ -681,7 +681,7 @@
   },
   {
     "slug": "2026-06-18-paper-cognitive-atrophy-llm-behaviour",
-    "title": "2026-06-18-paper-cognitive-atrophy-llm-behaviour",
+    "title": "AI 越帮你做决定，你越不会做决定：大模型\"认知萎缩\"的可测量框架",
     "date": "2026-06-18",
     "source": "arXiv",
     "authors": "",
@@ -690,7 +690,7 @@
   },
   {
     "slug": "2026-06-18-paper-compositional-reasoning-modules",
-    "title": "2026-06-18-paper-compositional-reasoning-modules",
+    "title": "SFT 给材料，RL 搭积木——为什么 SFT+RL 组合拳比单用任何一个都强",
     "date": "2026-06-18",
     "source": "arXiv",
     "authors": "",
@@ -699,7 +699,7 @@
   },
   {
     "slug": "2026-06-18-paper-consa-hybrid-attention-allocation",
-    "title": "2026-06-18-paper-consa-hybrid-attention-allocation",
+    "title": "别再拍脑袋分配注意力了——让模型自己决定哪层看全局、哪层看局部",
     "date": "2026-06-18",
     "source": "arXiv",
     "authors": "",
@@ -708,7 +708,7 @@
   },
   {
     "slug": "2026-06-18-paper-consa-hybrid-attention-learnable-allocation",
-    "title": "2026-06-18-paper-consa-hybrid-attention-learnable-allocation",
+    "title": "让模型自己决定哪层用全局注意力、哪层偷懒：注意力稀疏分配的自动发现",
     "date": "2026-06-18",
     "source": "arXiv",
     "authors": "",
@@ -717,7 +717,7 @@
   },
   {
     "slug": "2026-06-18-paper-dopsd-diffusion-llm-self-distillation",
-    "title": "2026-06-18-paper-dopsd-diffusion-llm-self-distillation",
+    "title": "扩散大模型的\"穿越式学习\"：用未来的自己教现在的自己，10% 步数超越 RL",
     "date": "2026-06-18",
     "source": "arXiv",
     "authors": "",
@@ -726,7 +726,7 @@
   },
   {
     "slug": "2026-06-18-paper-dopsd-self-future-distillation",
-    "title": "2026-06-18-paper-dopsd-self-future-distillation",
+    "title": "穿越回十年前的自己，教现在的自己解题",
     "date": "2026-06-18",
     "source": "arXiv",
     "authors": "",
@@ -735,7 +735,7 @@
   },
   {
     "slug": "2026-06-18-paper-reasoning-traces-reusable-modules",
-    "title": "2026-06-18-paper-reasoning-traces-reusable-modules",
+    "title": "SFT 喂素材，RL 拆积木：大模型推理能力的组合泛化之谜",
     "date": "2026-06-18",
     "source": "arXiv",
     "authors": "",
@@ -744,7 +744,7 @@
   },
   {
     "slug": "2026-06-18-paper-skillcamo-multimodal-skill-attack",
-    "title": "2026-06-18-paper-skillcamo-multimodal-skill-attack",
+    "title": "你的眼睛看到的是 logo，AI 看到的是攻击指令",
     "date": "2026-06-18",
     "source": "arXiv",
     "authors": "",
@@ -753,7 +753,7 @@
   },
   {
     "slug": "2026-06-18-paper-zppo-teacher-in-prompt",
-    "title": "2026-06-18-paper-zppo-teacher-in-prompt",
+    "title": "老师不该进梯度，该进提示词",
     "date": "2026-06-18",
     "source": "arXiv",
     "authors": "",
@@ -762,7 +762,7 @@
   },
   {
     "slug": "2026-06-18-paper-zppo-teacher-in-prompts",
-    "title": "2026-06-18-paper-zppo-teacher-in-prompts",
+    "title": "老师不在梯度里，在提示里：0.8B 小模型也能从 27B 大模型偷师",
     "date": "2026-06-18",
     "source": "arXiv",
     "authors": "",

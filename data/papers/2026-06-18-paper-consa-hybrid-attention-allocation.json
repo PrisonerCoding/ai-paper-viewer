@@ -1,6 +1,6 @@
 {
   "slug": "2026-06-18-paper-consa-hybrid-attention-allocation",
-  "title": "2026-06-18-paper-consa-hybrid-attention-allocation",
+  "title": "别再拍脑袋分配注意力了——让模型自己决定哪层看全局、哪层看局部",
   "date": "2026-06-18",
   "source": "arXiv",
   "authors": "",
