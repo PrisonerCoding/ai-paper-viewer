@@ -1,0 +1,27 @@
+{
+  "date": "2026-04-13",
+  "slug": "2026-04-13",
+  "stats": {
+    "total": 32,
+    "llm": 0,
+    "skill": 0,
+    "agent": 0
+  },
+  "categories": [
+    {
+      "name": "🤖 LLM",
+      "count": 14,
+      "papers": []
+    },
+    {
+      "name": "🔮 多模态 MLLM",
+      "count": 6,
+      "papers": []
+    },
+    {
+      "name": "🤖 Agent",
+      "count": 12,
+      "papers": []
+    }
+  ]
+}

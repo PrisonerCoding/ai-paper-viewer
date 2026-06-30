@@ -43,5 +43,5 @@ export default function Top5Table({ selection }: Top5TableProps) {
 function extractSlugFromLink(link: string): string {
   // Link format: ./arxiv 论文解读/2026-06-30-paper-xxx.md
   const basename = link.split('/').pop() || ''
-  return basename.replace(/\.md$/, '').replace(/^\d{4}-\d{2}-\d{2}-/, '')
+  return basename.replace(/\.md$/, '')
 }

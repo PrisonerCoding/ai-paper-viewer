@@ -73,7 +73,7 @@ export default async function PaperDetailPage({ params }: PageProps) {
       {paper.cardImage && (
         <div className="mb-8">
           <img
-            src={`/cards/${paper.cardImage}`}
+            src={`/ai-paper-viewer/cards/${paper.cardImage}`}
             alt={paper.title}
             className="w-full max-w-2xl mx-auto rounded-lg shadow-md"
           />

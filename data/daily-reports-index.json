@@ -1,0 +1,1970 @@
+[
+  {
+    "date": "2026-06-30",
+    "slug": "2026-06-30",
+    "stats": {
+      "total": 318,
+      "llm": 192,
+      "skill": 49,
+      "agent": 77
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 192
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 49
+      },
+      {
+        "name": "🤖 agent",
+        "count": 77
+      }
+    ]
+  },
+  {
+    "date": "2026-06-29",
+    "slug": "2026-06-29",
+    "stats": {
+      "total": 309,
+      "llm": 180,
+      "skill": 51,
+      "agent": 78
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 180
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 51
+      },
+      {
+        "name": "🤖 agent",
+        "count": 78
+      }
+    ]
+  },
+  {
+    "date": "2026-06-26",
+    "slug": "2026-06-26",
+    "stats": {
+      "total": 313,
+      "llm": 189,
+      "skill": 55,
+      "agent": 69
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 189
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 55
+      },
+      {
+        "name": "🤖 agent",
+        "count": 69
+      }
+    ]
+  },
+  {
+    "date": "2026-06-25",
+    "slug": "2026-06-25",
+    "stats": {
+      "total": 324,
+      "llm": 186,
+      "skill": 56,
+      "agent": 82
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 186
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 56
+      },
+      {
+        "name": "🤖 agent",
+        "count": 82
+      }
+    ]
+  },
+  {
+    "date": "2026-06-24",
+    "slug": "2026-06-24",
+    "stats": {
+      "total": 0,
+      "llm": 0,
+      "skill": 0,
+      "agent": 0
+    },
+    "categories": []
+  },
+  {
+    "date": "2026-06-23",
+    "slug": "2026-06-23",
+    "stats": {
+      "total": 311,
+      "llm": 189,
+      "skill": 51,
+      "agent": 71
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 189
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 51
+      },
+      {
+        "name": "🤖 agent",
+        "count": 71
+      }
+    ]
+  },
+  {
+    "date": "2026-06-22",
+    "slug": "2026-06-22",
+    "stats": {
+      "total": 330,
+      "llm": 189,
+      "skill": 70,
+      "agent": 71
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 189
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 70
+      },
+      {
+        "name": "🤖 agent",
+        "count": 71
+      }
+    ]
+  },
+  {
+    "date": "2026-06-18",
+    "slug": "2026-06-18",
+    "stats": {
+      "total": 327,
+      "llm": 183,
+      "skill": 73,
+      "agent": 71
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 183
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 73
+      },
+      {
+        "name": "🤖 agent",
+        "count": 71
+      }
+    ]
+  },
+  {
+    "date": "2026-06-17",
+    "slug": "2026-06-17",
+    "stats": {
+      "total": 322,
+      "llm": 184,
+      "skill": 68,
+      "agent": 70
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 184
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 68
+      },
+      {
+        "name": "🤖 agent",
+        "count": 70
+      }
+    ]
+  },
+  {
+    "date": "2026-06-16",
+    "slug": "2026-06-16",
+    "stats": {
+      "total": 321,
+      "llm": 190,
+      "skill": 54,
+      "agent": 77
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 190
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 54
+      },
+      {
+        "name": "🤖 agent",
+        "count": 77
+      }
+    ]
+  },
+  {
+    "date": "2026-06-12",
+    "slug": "2026-06-12",
+    "stats": {
+      "total": 343,
+      "llm": 185,
+      "skill": 84,
+      "agent": 74
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 185
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 84
+      },
+      {
+        "name": "🤖 agent",
+        "count": 74
+      }
+    ]
+  },
+  {
+    "date": "2026-06-11",
+    "slug": "2026-06-11",
+    "stats": {
+      "total": 359,
+      "llm": 180,
+      "skill": 93,
+      "agent": 86
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 180
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 93
+      },
+      {
+        "name": "🤖 agent",
+        "count": 86
+      }
+    ]
+  },
+  {
+    "date": "2026-06-10",
+    "slug": "2026-06-10",
+    "stats": {
+      "total": 353,
+      "llm": 190,
+      "skill": 92,
+      "agent": 71
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 190
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 92
+      },
+      {
+        "name": "🤖 agent",
+        "count": 71
+      }
+    ]
+  },
+  {
+    "date": "2026-06-09",
+    "slug": "2026-06-09",
+    "stats": {
+      "total": 332,
+      "llm": 184,
+      "skill": 72,
+      "agent": 76
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 184
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 72
+      },
+      {
+        "name": "🤖 agent",
+        "count": 76
+      }
+    ]
+  },
+  {
+    "date": "2026-06-08",
+    "slug": "2026-06-08",
+    "stats": {
+      "total": 329,
+      "llm": 183,
+      "skill": 74,
+      "agent": 72
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 183
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 74
+      },
+      {
+        "name": "🤖 agent",
+        "count": 72
+      }
+    ]
+  },
+  {
+    "date": "2026-06-05",
+    "slug": "2026-06-05",
+    "stats": {
+      "total": 225,
+      "llm": 0,
+      "skill": 100,
+      "agent": 125
+    },
+    "categories": [
+      {
+        "name": "🛠️ skill",
+        "count": 100
+      },
+      {
+        "name": "🤖 agent",
+        "count": 125
+      }
+    ]
+  },
+  {
+    "date": "2026-06-04",
+    "slug": "2026-06-04",
+    "stats": {
+      "total": 299,
+      "llm": 100,
+      "skill": 98,
+      "agent": 101
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 100
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 98
+      },
+      {
+        "name": "🤖 agent",
+        "count": 101
+      }
+    ]
+  },
+  {
+    "date": "2026-06-03",
+    "slug": "2026-06-03",
+    "stats": {
+      "total": 338,
+      "llm": 184,
+      "skill": 91,
+      "agent": 63
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 184
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 91
+      },
+      {
+        "name": "🤖 agent",
+        "count": 63
+      }
+    ]
+  },
+  {
+    "date": "2026-06-02",
+    "slug": "2026-06-02",
+    "stats": {
+      "total": 335,
+      "llm": 182,
+      "skill": 68,
+      "agent": 85
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 182
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 68
+      },
+      {
+        "name": "🤖 agent",
+        "count": 85
+      }
+    ]
+  },
+  {
+    "date": "2026-06-01",
+    "slug": "2026-06-01",
+    "stats": {
+      "total": 311,
+      "llm": 175,
+      "skill": 63,
+      "agent": 73
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 175
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 63
+      },
+      {
+        "name": "🤖 agent",
+        "count": 73
+      }
+    ]
+  },
+  {
+    "date": "2026-05-29",
+    "slug": "2026-05-29",
+    "stats": {
+      "total": 331,
+      "llm": 183,
+      "skill": 77,
+      "agent": 71
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 183
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 77
+      },
+      {
+        "name": "🤖 agent",
+        "count": 71
+      }
+    ]
+  },
+  {
+    "date": "2026-05-28",
+    "slug": "2026-05-28",
+    "stats": {
+      "total": 282,
+      "llm": 100,
+      "skill": 93,
+      "agent": 89
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 100
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 93
+      },
+      {
+        "name": "🤖 agent",
+        "count": 89
+      }
+    ]
+  },
+  {
+    "date": "2026-05-27",
+    "slug": "2026-05-27",
+    "stats": {
+      "total": 333,
+      "llm": 181,
+      "skill": 73,
+      "agent": 79
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 181
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 73
+      },
+      {
+        "name": "🤖 agent",
+        "count": 79
+      }
+    ]
+  },
+  {
+    "date": "2026-05-26",
+    "slug": "2026-05-26",
+    "stats": {
+      "total": 333,
+      "llm": 187,
+      "skill": 56,
+      "agent": 90
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 187
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 56
+      },
+      {
+        "name": "🤖 agent",
+        "count": 90
+      }
+    ]
+  },
+  {
+    "date": "2026-05-25",
+    "slug": "2026-05-25",
+    "stats": {
+      "total": 336,
+      "llm": 187,
+      "skill": 59,
+      "agent": 90
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 187
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 59
+      },
+      {
+        "name": "🤖 agent",
+        "count": 90
+      }
+    ]
+  },
+  {
+    "date": "2026-05-23",
+    "slug": "2026-05-23",
+    "stats": {
+      "total": 321,
+      "llm": 179,
+      "skill": 65,
+      "agent": 77
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 179
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 65
+      },
+      {
+        "name": "🤖 agent",
+        "count": 77
+      }
+    ]
+  },
+  {
+    "date": "2026-05-22",
+    "slug": "2026-05-22",
+    "stats": {
+      "total": 262,
+      "llm": 100,
+      "skill": 63,
+      "agent": 99
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 100
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 63
+      },
+      {
+        "name": "🤖 agent",
+        "count": 99
+      }
+    ]
+  },
+  {
+    "date": "2026-05-21",
+    "slug": "2026-05-21",
+    "stats": {
+      "total": 328,
+      "llm": 184,
+      "skill": 58,
+      "agent": 86
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 184
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 58
+      },
+      {
+        "name": "🤖 agent",
+        "count": 86
+      }
+    ]
+  },
+  {
+    "date": "2026-05-20",
+    "slug": "2026-05-20",
+    "stats": {
+      "total": 312,
+      "llm": 183,
+      "skill": 67,
+      "agent": 62
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 183
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 67
+      },
+      {
+        "name": "🤖 agent",
+        "count": 62
+      }
+    ]
+  },
+  {
+    "date": "2026-05-19",
+    "slug": "2026-05-19",
+    "stats": {
+      "total": 188,
+      "llm": 100,
+      "skill": 0,
+      "agent": 88
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 100
+      },
+      {
+        "name": "🤖 agent",
+        "count": 88
+      }
+    ]
+  },
+  {
+    "date": "2026-05-18",
+    "slug": "2026-05-18",
+    "stats": {
+      "total": 332,
+      "llm": 185,
+      "skill": 76,
+      "agent": 71
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 185
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 76
+      },
+      {
+        "name": "🤖 agent",
+        "count": 71
+      }
+    ]
+  },
+  {
+    "date": "2026-05-17",
+    "slug": "2026-05-17",
+    "stats": {
+      "total": 347,
+      "llm": 185,
+      "skill": 91,
+      "agent": 71
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 185
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 91
+      },
+      {
+        "name": "🤖 agent",
+        "count": 71
+      }
+    ]
+  },
+  {
+    "date": "2026-05-16",
+    "slug": "2026-05-16",
+    "stats": {
+      "total": 351,
+      "llm": 185,
+      "skill": 95,
+      "agent": 71
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 185
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 95
+      },
+      {
+        "name": "🤖 agent",
+        "count": 71
+      }
+    ]
+  },
+  {
+    "date": "2026-05-15",
+    "slug": "2026-05-15",
+    "stats": {
+      "total": 355,
+      "llm": 179,
+      "skill": 96,
+      "agent": 80
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 179
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 96
+      },
+      {
+        "name": "🤖 agent",
+        "count": 80
+      }
+    ]
+  },
+  {
+    "date": "2026-05-14",
+    "slug": "2026-05-14",
+    "stats": {
+      "total": 348,
+      "llm": 176,
+      "skill": 94,
+      "agent": 78
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 176
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 94
+      },
+      {
+        "name": "🤖 agent",
+        "count": 78
+      }
+    ]
+  },
+  {
+    "date": "2026-05-13",
+    "slug": "2026-05-13",
+    "stats": {
+      "total": 340,
+      "llm": 180,
+      "skill": 93,
+      "agent": 67
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 180
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 93
+      },
+      {
+        "name": "🤖 agent",
+        "count": 67
+      }
+    ]
+  },
+  {
+    "date": "2026-05-12",
+    "slug": "2026-05-12",
+    "stats": {
+      "total": 330,
+      "llm": 183,
+      "skill": 58,
+      "agent": 89
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 183
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 58
+      },
+      {
+        "name": "🤖 agent",
+        "count": 89
+      }
+    ]
+  },
+  {
+    "date": "2026-05-11",
+    "slug": "2026-05-11",
+    "stats": {
+      "total": 295,
+      "llm": 175,
+      "skill": 52,
+      "agent": 68
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 175
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 52
+      },
+      {
+        "name": "🤖 agent",
+        "count": 68
+      }
+    ]
+  },
+  {
+    "date": "2026-05-10",
+    "slug": "2026-05-10",
+    "stats": {
+      "total": 301,
+      "llm": 175,
+      "skill": 58,
+      "agent": 68
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 175
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 58
+      },
+      {
+        "name": "🤖 agent",
+        "count": 68
+      }
+    ]
+  },
+  {
+    "date": "2026-05-09",
+    "slug": "2026-05-09",
+    "stats": {
+      "total": 308,
+      "llm": 175,
+      "skill": 65,
+      "agent": 68
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 175
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 65
+      },
+      {
+        "name": "🤖 agent",
+        "count": 68
+      }
+    ]
+  },
+  {
+    "date": "2026-05-08",
+    "slug": "2026-05-08",
+    "stats": {
+      "total": 291,
+      "llm": 189,
+      "skill": 0,
+      "agent": 102
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 189
+      },
+      {
+        "name": "🤖 agent",
+        "count": 102
+      }
+    ]
+  },
+  {
+    "date": "2026-05-07",
+    "slug": "2026-05-07",
+    "stats": {
+      "total": 311,
+      "llm": 187,
+      "skill": 52,
+      "agent": 72
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 187
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 52
+      },
+      {
+        "name": "🤖 agent",
+        "count": 72
+      }
+    ]
+  },
+  {
+    "date": "2026-04-30",
+    "slug": "2026-04-30",
+    "stats": {
+      "total": 314,
+      "llm": 191,
+      "skill": 43,
+      "agent": 80
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 191
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 43
+      },
+      {
+        "name": "🤖 agent",
+        "count": 80
+      }
+    ]
+  },
+  {
+    "date": "2026-04-29",
+    "slug": "2026-04-29",
+    "stats": {
+      "total": 306,
+      "llm": 183,
+      "skill": 47,
+      "agent": 76
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 183
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 47
+      },
+      {
+        "name": "🤖 agent",
+        "count": 76
+      }
+    ]
+  },
+  {
+    "date": "2026-04-28",
+    "slug": "2026-04-28",
+    "stats": {
+      "total": 318,
+      "llm": 190,
+      "skill": 31,
+      "agent": 97
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 190
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 31
+      },
+      {
+        "name": "🤖 agent",
+        "count": 97
+      }
+    ]
+  },
+  {
+    "date": "2026-04-27",
+    "slug": "2026-04-27",
+    "stats": {
+      "total": 317,
+      "llm": 185,
+      "skill": 45,
+      "agent": 87
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 185
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 45
+      },
+      {
+        "name": "🤖 agent",
+        "count": 87
+      }
+    ]
+  },
+  {
+    "date": "2026-04-26",
+    "slug": "2026-04-26",
+    "stats": {
+      "total": 325,
+      "llm": 185,
+      "skill": 53,
+      "agent": 87
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 185
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 53
+      },
+      {
+        "name": "🤖 agent",
+        "count": 87
+      }
+    ]
+  },
+  {
+    "date": "2026-04-25",
+    "slug": "2026-04-25",
+    "stats": {
+      "total": 331,
+      "llm": 185,
+      "skill": 59,
+      "agent": 87
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 185
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 59
+      },
+      {
+        "name": "🤖 agent",
+        "count": 87
+      }
+    ]
+  },
+  {
+    "date": "2026-04-24",
+    "slug": "2026-04-24",
+    "stats": {
+      "total": 321,
+      "llm": 188,
+      "skill": 59,
+      "agent": 74
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 188
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 59
+      },
+      {
+        "name": "🤖 agent",
+        "count": 74
+      }
+    ]
+  },
+  {
+    "date": "2026-04-23",
+    "slug": "2026-04-23",
+    "stats": {
+      "total": 352,
+      "llm": 190,
+      "skill": 66,
+      "agent": 96
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 190
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 66
+      },
+      {
+        "name": "🤖 agent",
+        "count": 96
+      }
+    ]
+  },
+  {
+    "date": "2026-04-22",
+    "slug": "2026-04-22",
+    "stats": {
+      "total": 331,
+      "llm": 183,
+      "skill": 66,
+      "agent": 82
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 183
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 66
+      },
+      {
+        "name": "🤖 agent",
+        "count": 82
+      }
+    ]
+  },
+  {
+    "date": "2026-04-21",
+    "slug": "2026-04-21",
+    "stats": {
+      "total": 313,
+      "llm": 180,
+      "skill": 46,
+      "agent": 87
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 180
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 46
+      },
+      {
+        "name": "🤖 agent",
+        "count": 87
+      }
+    ]
+  },
+  {
+    "date": "2026-04-20",
+    "slug": "2026-04-20",
+    "stats": {
+      "total": 303,
+      "llm": 180,
+      "skill": 38,
+      "agent": 85
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 180
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 38
+      },
+      {
+        "name": "🤖 agent",
+        "count": 85
+      }
+    ]
+  },
+  {
+    "date": "2026-04-19",
+    "slug": "2026-04-19",
+    "stats": {
+      "total": 312,
+      "llm": 180,
+      "skill": 47,
+      "agent": 85
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 180
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 47
+      },
+      {
+        "name": "🤖 agent",
+        "count": 85
+      }
+    ]
+  },
+  {
+    "date": "2026-04-18",
+    "slug": "2026-04-18",
+    "stats": {
+      "total": 316,
+      "llm": 180,
+      "skill": 51,
+      "agent": 85
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 180
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 51
+      },
+      {
+        "name": "🤖 agent",
+        "count": 85
+      }
+    ]
+  },
+  {
+    "date": "2026-04-17",
+    "slug": "2026-04-17",
+    "stats": {
+      "total": 323,
+      "llm": 186,
+      "skill": 50,
+      "agent": 87
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 186
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 50
+      },
+      {
+        "name": "🤖 agent",
+        "count": 87
+      }
+    ]
+  },
+  {
+    "date": "2026-04-16",
+    "slug": "2026-04-16",
+    "stats": {
+      "total": 336,
+      "llm": 187,
+      "skill": 50,
+      "agent": 99
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 187
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 50
+      },
+      {
+        "name": "🤖 agent",
+        "count": 99
+      }
+    ]
+  },
+  {
+    "date": "2026-04-15",
+    "slug": "2026-04-15",
+    "stats": {
+      "total": 316,
+      "llm": 178,
+      "skill": 62,
+      "agent": 76
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 178
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 62
+      },
+      {
+        "name": "🤖 agent",
+        "count": 76
+      }
+    ]
+  },
+  {
+    "date": "2026-04-14",
+    "slug": "2026-04-14",
+    "stats": {
+      "total": 316,
+      "llm": 176,
+      "skill": 59,
+      "agent": 81
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 176
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 59
+      },
+      {
+        "name": "🤖 agent",
+        "count": 81
+      }
+    ]
+  },
+  {
+    "date": "2026-04-13",
+    "slug": "2026-04-13",
+    "stats": {
+      "total": 32,
+      "llm": 0,
+      "skill": 0,
+      "agent": 0
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 14
+      },
+      {
+        "name": "🔮 多模态 MLLM",
+        "count": 6
+      },
+      {
+        "name": "🤖 Agent",
+        "count": 12
+      }
+    ]
+  },
+  {
+    "date": "2026-04-12",
+    "slug": "2026-04-12",
+    "stats": {
+      "total": 277,
+      "llm": 186,
+      "skill": 6,
+      "agent": 85
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 186
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 6
+      },
+      {
+        "name": "🤖 agent",
+        "count": 85
+      }
+    ]
+  },
+  {
+    "date": "2026-04-11",
+    "slug": "2026-04-11",
+    "stats": {
+      "total": 277,
+      "llm": 186,
+      "skill": 6,
+      "agent": 85
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 186
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 6
+      },
+      {
+        "name": "🤖 agent",
+        "count": 85
+      }
+    ]
+  },
+  {
+    "date": "2026-04-10",
+    "slug": "2026-04-10",
+    "stats": {
+      "total": 260,
+      "llm": 186,
+      "skill": 15,
+      "agent": 59
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 186
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 15
+      },
+      {
+        "name": "🤖 agent",
+        "count": 59
+      }
+    ]
+  },
+  {
+    "date": "2026-04-09",
+    "slug": "2026-04-09",
+    "stats": {
+      "total": 263,
+      "llm": 181,
+      "skill": 11,
+      "agent": 71
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 181
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 11
+      },
+      {
+        "name": "🤖 agent",
+        "count": 71
+      }
+    ]
+  },
+  {
+    "date": "2026-04-08",
+    "slug": "2026-04-08",
+    "stats": {
+      "total": 234,
+      "llm": 170,
+      "skill": 7,
+      "agent": 57
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 170
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 7
+      },
+      {
+        "name": "🤖 agent",
+        "count": 57
+      }
+    ]
+  },
+  {
+    "date": "2026-04-07",
+    "slug": "2026-04-07",
+    "stats": {
+      "total": 0,
+      "llm": 0,
+      "skill": 0,
+      "agent": 0
+    },
+    "categories": []
+  },
+  {
+    "date": "2026-04-06",
+    "slug": "2026-04-06",
+    "stats": {
+      "total": 0,
+      "llm": 0,
+      "skill": 0,
+      "agent": 0
+    },
+    "categories": []
+  },
+  {
+    "date": "2026-04-05",
+    "slug": "2026-04-05",
+    "stats": {
+      "total": 0,
+      "llm": 0,
+      "skill": 0,
+      "agent": 0
+    },
+    "categories": []
+  },
+  {
+    "date": "2026-04-04",
+    "slug": "2026-04-04",
+    "stats": {
+      "total": 247,
+      "llm": 183,
+      "skill": 4,
+      "agent": 60
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 183
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 4
+      },
+      {
+        "name": "🤖 agent",
+        "count": 60
+      }
+    ]
+  },
+  {
+    "date": "2026-04-03",
+    "slug": "2026-04-03",
+    "stats": {
+      "total": 129,
+      "llm": 0,
+      "skill": 12,
+      "agent": 117
+    },
+    "categories": [
+      {
+        "name": "🛠️ skill",
+        "count": 12
+      },
+      {
+        "name": "🤖 agent",
+        "count": 117
+      }
+    ]
+  },
+  {
+    "date": "2026-04-02",
+    "slug": "2026-04-02",
+    "stats": {
+      "total": 249,
+      "llm": 179,
+      "skill": 5,
+      "agent": 65
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 179
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 5
+      },
+      {
+        "name": "🤖 agent",
+        "count": 65
+      }
+    ]
+  },
+  {
+    "date": "2026-04-01",
+    "slug": "2026-04-01",
+    "stats": {
+      "total": 240,
+      "llm": 167,
+      "skill": 6,
+      "agent": 67
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 167
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 6
+      },
+      {
+        "name": "🤖 agent",
+        "count": 67
+      }
+    ]
+  },
+  {
+    "date": "2026-03-31",
+    "slug": "2026-03-31",
+    "stats": {
+      "total": 186,
+      "llm": 142,
+      "skill": 7,
+      "agent": 37
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 142
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 7
+      },
+      {
+        "name": "🤖 agent",
+        "count": 37
+      }
+    ]
+  },
+  {
+    "date": "2026-03-30",
+    "slug": "2026-03-30",
+    "stats": {
+      "total": 0,
+      "llm": 0,
+      "skill": 0,
+      "agent": 0
+    },
+    "categories": []
+  },
+  {
+    "date": "2026-03-29",
+    "slug": "2026-03-29",
+    "stats": {
+      "total": 0,
+      "llm": 0,
+      "skill": 0,
+      "agent": 0
+    },
+    "categories": []
+  },
+  {
+    "date": "2026-03-28",
+    "slug": "2026-03-28",
+    "stats": {
+      "total": 249,
+      "llm": 178,
+      "skill": 5,
+      "agent": 66
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 178
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 5
+      },
+      {
+        "name": "🤖 agent",
+        "count": 66
+      }
+    ]
+  },
+  {
+    "date": "2026-03-27",
+    "slug": "2026-03-27",
+    "stats": {
+      "total": 244,
+      "llm": 175,
+      "skill": 8,
+      "agent": 61
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 175
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 8
+      },
+      {
+        "name": "🤖 agent",
+        "count": 61
+      }
+    ]
+  },
+  {
+    "date": "2026-03-26",
+    "slug": "2026-03-26",
+    "stats": {
+      "total": 279,
+      "llm": 188,
+      "skill": 11,
+      "agent": 80
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 188
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 11
+      },
+      {
+        "name": "🤖 agent",
+        "count": 80
+      }
+    ]
+  },
+  {
+    "date": "2026-03-25",
+    "slug": "2026-03-25",
+    "stats": {
+      "total": 227,
+      "llm": 164,
+      "skill": 4,
+      "agent": 59
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 164
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 4
+      },
+      {
+        "name": "🤖 agent",
+        "count": 59
+      }
+    ]
+  },
+  {
+    "date": "2026-03-24",
+    "slug": "2026-03-24",
+    "stats": {
+      "total": 273,
+      "llm": 185,
+      "skill": 7,
+      "agent": 81
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 185
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 7
+      },
+      {
+        "name": "🤖 agent",
+        "count": 81
+      }
+    ]
+  },
+  {
+    "date": "2026-03-23",
+    "slug": "2026-03-23",
+    "stats": {
+      "total": 273,
+      "llm": 185,
+      "skill": 7,
+      "agent": 81
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 185
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 7
+      },
+      {
+        "name": "🤖 agent",
+        "count": 81
+      }
+    ]
+  },
+  {
+    "date": "2026-03-22",
+    "slug": "2026-03-22",
+    "stats": {
+      "total": 273,
+      "llm": 185,
+      "skill": 7,
+      "agent": 81
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 185
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 7
+      },
+      {
+        "name": "🤖 agent",
+        "count": 81
+      }
+    ]
+  },
+  {
+    "date": "2026-03-21",
+    "slug": "2026-03-21",
+    "stats": {
+      "total": 265,
+      "llm": 186,
+      "skill": 2,
+      "agent": 77
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 186
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 2
+      },
+      {
+        "name": "🤖 agent",
+        "count": 77
+      }
+    ]
+  },
+  {
+    "date": "2026-03-20",
+    "slug": "2026-03-20",
+    "stats": {
+      "total": 252,
+      "llm": 186,
+      "skill": 6,
+      "agent": 60
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 186
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 6
+      },
+      {
+        "name": "🤖 agent",
+        "count": 60
+      }
+    ]
+  },
+  {
+    "date": "2026-03-19",
+    "slug": "2026-03-19",
+    "stats": {
+      "total": 269,
+      "llm": 185,
+      "skill": 7,
+      "agent": 77
+    },
+    "categories": [
+      {
+        "name": "🤖 LLM",
+        "count": 185
+      },
+      {
+        "name": "🛠️ skill",
+        "count": 7
+      },
+      {
+        "name": "🤖 agent",
+        "count": 77
+      }
+    ]
+  },
+  {
+    "date": "2026-03-18",
+    "slug": "2026-03-18",
+    "stats": {
+      "total": 276,
+      "llm": 180,
+      "skill": 19,
+      "agent": 77
+    },
+    "categories": []
+  },
+  {
+    "date": "2026-03-17",
+    "slug": "2026-03-17",
+    "stats": {
+      "total": 263,
+      "llm": 180,
+      "skill": 16,
+      "agent": 67
+    },
+    "categories": []
+  }
+]

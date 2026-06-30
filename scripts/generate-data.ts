@@ -2,7 +2,7 @@ import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
 
-const KNOWLEDGE_DIR = path.join(process.cwd(), '..', 'Knowledge', '05.研究领域')
+const KNOWLEDGE_DIR = 'D:\\Obsidian_Knowledge\\Knowledge\\05.研究领域'
 const PAPERS_DIR = path.join(KNOWLEDGE_DIR, 'arxiv 论文解读')
 const DAILY_DIR = path.join(KNOWLEDGE_DIR, 'arXiv 论文日报')
 const DATA_DIR = path.join(process.cwd(), 'data')
@@ -25,7 +25,8 @@ function extractOneLiner(content: string): string {
 
 function getSlugFromFilepath(filepath: string): string {
   const basename = path.basename(filepath, '.md')
-  return basename.replace(/^\d{4}-\d{2}-\d{2}-/, '')
+  // Keep date prefix to ensure uniqueness
+  return basename
 }
 
 function findMarkdownFiles(dir: string): string[] {
@@ -140,25 +141,50 @@ const dailyFiles = fs.existsSync(DAILY_DIR)
   ? fs.readdirSync(DAILY_DIR).filter(f => f.endsWith('-arXiv 日报.md') || f.endsWith('-论文日报.md'))
   : []
 
-const reports = dailyFiles.map(f => {
+const reportsMap = new Map<string, ReturnType<typeof parseDailyReportContent>>()
+for (const f of dailyFiles) {
   const dateMatch = f.match(/^(\d{4}-\d{2}-\d{2})/)
   const date = dateMatch ? dateMatch[1] : ''
+  if (!date || reportsMap.has(date)) continue
   const content = fs.readFileSync(path.join(DAILY_DIR, f), 'utf-8')
-  return parseDailyReportContent(content, date)
-}).filter(r => r.date).sort((a, b) => b.date.localeCompare(a.date))
+  reportsMap.set(date, parseDailyReportContent(content, date))
+}
+const reports = Array.from(reportsMap.values()).sort((a, b) => b.date.localeCompare(a.date))
 
 console.log(`  📅 Found ${reports.length} daily reports`)
+
+// Write full data
 fs.writeFileSync(path.join(DATA_DIR, 'daily-reports.json'), JSON.stringify(reports, null, 2), 'utf-8')
 console.log(`  ✅ daily-reports.json (${reports.length} items)`)
+
+// Write lightweight index for list page
+const dailyReportsIndex = reports.map(r => ({
+  date: r.date,
+  slug: r.slug,
+  stats: r.stats,
+  categories: r.categories.map(c => ({ name: c.name, count: c.count }))
+}))
+fs.writeFileSync(path.join(DATA_DIR, 'daily-reports-index.json'), JSON.stringify(dailyReportsIndex, null, 2), 'utf-8')
+console.log(`  ✅ daily-reports-index.json (${dailyReportsIndex.length} items)`)
+
+// Write individual report files
+const dailyDir = path.join(DATA_DIR, 'daily')
+if (!fs.existsSync(dailyDir)) fs.mkdirSync(dailyDir, { recursive: true })
+for (const report of reports) {
+  fs.writeFileSync(path.join(dailyDir, `${report.date}.json`), JSON.stringify(report, null, 2), 'utf-8')
+}
+console.log(`  ✅ daily/ (${reports.length} detail files)`)
 
 // Top5
 const top5Files = fs.existsSync(DAILY_DIR)
   ? fs.readdirSync(DAILY_DIR).filter(f => f.endsWith('-Top5 精选.md'))
   : []
 
-const top5 = top5Files.map(f => {
+const top5Map = new Map<string, { date: string; slug: string; papers: { rank: number; title: string; oneLiner: string; interpretationLink?: string }[]; criteria: string[] }>()
+for (const f of top5Files) {
   const dateMatch = f.match(/^(\d{4}-\d{2}-\d{2})/)
   const date = dateMatch ? dateMatch[1] : ''
+  if (!date || top5Map.has(date)) continue
   const raw = fs.readFileSync(path.join(DAILY_DIR, f), 'utf-8')
   const content = raw.replace(/^---[\s\S]*?---\s*/, '')
   const papersList: { rank: number; title: string; oneLiner: string; interpretationLink?: string }[] = []
@@ -171,8 +197,11 @@ const top5 = top5Files.map(f => {
       papersList.push({ rank, title: match[2].trim(), oneLiner: match[3].trim(), interpretationLink: linkMatch ? linkMatch[1] : undefined })
     }
   }
-  return { date, slug: date, papers: papersList, criteria: [] }
-}).filter(s => s.date && s.papers.length > 0).sort((a, b) => b.date.localeCompare(a.date))
+  if (papersList.length > 0) {
+    top5Map.set(date, { date, slug: date, papers: papersList, criteria: [] })
+  }
+}
+const top5 = Array.from(top5Map.values()).sort((a, b) => b.date.localeCompare(a.date))
 
 console.log(`  🏆 Found ${top5.length} top5 selections`)
 fs.writeFileSync(path.join(DATA_DIR, 'top5.json'), JSON.stringify(top5, null, 2), 'utf-8')

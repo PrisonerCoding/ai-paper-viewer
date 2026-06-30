@@ -4,20 +4,21 @@ import type { DailyReport, Top5Selection } from './types'
 
 const DATA_DIR = path.join(process.cwd(), 'data')
 
-let cachedReports: DailyReport[] | null = null
+let cachedReportsIndex: Pick<DailyReport, 'date' | 'slug' | 'stats' | 'categories'>[] | null = null
 let cachedTop5: Top5Selection[] | null = null
 
-export function getAllDailyReports(): DailyReport[] {
-  if (cachedReports) return cachedReports
-  const filePath = path.join(DATA_DIR, 'daily-reports.json')
+export function getAllDailyReports(): Pick<DailyReport, 'date' | 'slug' | 'stats' | 'categories'>[] {
+  if (cachedReportsIndex) return cachedReportsIndex
+  const filePath = path.join(DATA_DIR, 'daily-reports-index.json')
   if (!fs.existsSync(filePath)) return []
-  cachedReports = JSON.parse(fs.readFileSync(filePath, 'utf-8'))
-  return cachedReports!
+  cachedReportsIndex = JSON.parse(fs.readFileSync(filePath, 'utf-8'))
+  return cachedReportsIndex!
 }
 
 export function getDailyReportByDate(date: string): DailyReport | undefined {
-  const reports = getAllDailyReports()
-  return reports.find(r => r.date === date)
+  const filePath = path.join(DATA_DIR, 'daily', `${date}.json`)
+  if (!fs.existsSync(filePath)) return undefined
+  return JSON.parse(fs.readFileSync(filePath, 'utf-8'))
 }
 
 export function getAllTop5Selections(): Top5Selection[] {

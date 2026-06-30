@@ -1,0 +1,15 @@
+{
+  "slug": "2026-05-08--paper-agenttrust-runtime-safety-interception__paper",
+  "title": "2026 05 08  paper agenttrust runtime safety interception__paper",
+  "date": "2026-05-08",
+  "source": "https://arxiv.org/abs/2605.04785",
+  "authors": "Chenglin Yang",
+  "tags": [
+    "AI",
+    "arXiv",
+    "LLM",
+    "研究"
+  ],
+  "content": "\n#+title:      paper-agenttrust-runtime-safety-interception\n#+date:       [2026-05-08 Fri 05:00]\n#+filetags:   :paper:\n#+identifier: 20260508T050003\n#+source:     https://arxiv.org/abs/2605.04785\n#+authors:    Chenglin Yang\n#+venue:      arXiv 2026\n\n* 问题\n\n你的 AI Agent 要执行 rm -rf /。你能在敲下去之前拦住它吗？\n\n现有的安全方案有三类：事后评测（出了事才看）、静态规则（容易被混淆绕过）、沙箱隔离（只限制在哪跑，不限制跑什么）。三类都有一个共同漏洞：它们都不能在动作执行之前，理解这个动作的意图。\n\n* 翻译\n\n想象你家请了个保姆，能干但偶尔犯浑。你怎么防止她闯祸？\n\n- 事后检查：她砸了花瓶你才发现——晚了。\n- 死规矩清单：不准碰红色东西——她把红花涂成白色就绕过了。\n- 把她锁在厨房：出不来，但也干不了客厅的活。\n\nAgentTrust 的做法是：在她每次动手之前，有个管家站在旁边，看她的动作，判断\"可以干\"、\"小心点\"、\"别干\"、\"等我看看\"。\n\n*锚点：AgentTrust 就是 AI Agent 的实时贴身保镖——每个动作先过审，再执行。*\n\n它怎么做到的？四层过滤网：\n\n**第一层：ShellNormalizer（反混淆）**\n黑客喜欢把危险命令藏起来：r=rm; $r -rf /。这一层用九种策略把混淆剥掉：变量展开、十六进制转义、别名解析、命令替换等等。剥完之后，原形毕露。\n\n**第二层：ActionAnalyzer（特征提取）**\n42 个正则模式，从四个维度扫描命令：文件操作、网络访问、代码执行、凭据暴露。就像安检 X 光机，扫出可疑物品。\n\n**第三层：PolicyEngine（规则引擎）**\n170 条 YAML 可配置规则，综合前两层的信息，做出判断。\n\n**第四层：LLM-as-Judge（语义判断）**\n规则拿不准的时候，叫 LLM 来判。但它不是每次都重新读整个上下文——用了类似 rsync 的块哈希增量检测，只让 LLM 看新增部分，省钱。\n\n还有一个 RiskChain 模块专门盯多步攻击链：单独看每一步都没问题（读 .env → base64 → curl POST），连起来就是数据外泄。LLM-as-Judge 的 prompt 有五个维度，而且支持缓存感知的增量评估。\n\n成果：300 条内部基准场景，裁决准确率 95.0%；630 条独立对抗场景，裁决准确率 96.7%，混淆 payload 识别率约 93%。延迟在毫秒级。还开源了，支持 MCP 协议，接上就能用。\n\n* 核心概念\n\n*实时语义拦截*\n不是等 Agent 干完事再评，而是在它提出\"我要做 X\"的那一刻，拦截下来，理解 X 的真实意图，给出 verdict。这需要极低的延迟——慢了 Agent 的 workflow 就被卡住了。\n\n*RiskChain（风险链检测）*\n单个动作安全，不代表一系列动作安全。RiskChain 记住历史动作序列，检测\"读凭据 → 编码 → 外传\"这种多步模式。七种预定义的攻击链模式。\n\n*SafeFix*\n不只是\"不准做\"，还告诉你\"可以这样做\"。比如 chmod 777 太危险，它建议改成 chmod 755。从\"拒绝\"变成\"引导\"。\n\n* 洞见\n\nAI Agent 安全的核心矛盾不是\"能不能做\"，而是\"什么时候做、怎么做\"。AgentTrust 的价值在于把安全从\"事后追责\"推到了\"事前拦截\"——在动作执行前理解意图，给出结构化裁决，还能建议更安全的替代方案。这让安全从刹车变成了导航。\n\n* 博导审稿\n\n*选题眼光*：AI Agent 安全是当务之急。Claude Code、Cursor、OpenDevin 都在跑真实命令，一个 rm -rf 就完了。这个方向紧迫且实用。\n\n*方法成熟度*：四件套（反混淆 + 特征提取 + 规则引擎 + LLM 判断）的设计务实。反混淆是亮点——九种策略覆盖了大部分绕过手法。但规则引擎（170 条规则）的维护成本会随着攻击手法演进而增加。\n\n*实验诚意*：930 条场景（300 + 630），覆盖六类风险。组件消融实验做了，坦诚承认 SessionTracker 在两个基准上都没测出效果。诚实。\n\n*写作功力*：Figure 1 三种防御方案的对比矩阵一目了然。坦率讲了七个局限性，包括反混淆不完整、规则覆盖有限、只支持英文模式等。\n\n*判决*：*strong accept*——工程价值高，开源 + MCP 支持让它能立刻用上。规则维护是长期挑战，但作为第一代框架已经非常出色。\n\n* 启发\n\n*迁移*：祖师爷在 OpenClaw 里用的 Agent 如果涉及工具调用（文件操作、shell 命令、HTTP 请求），AgentTrust 可以直接作为 MCP server 接入，毫秒级延迟几乎无感。\n\n*混搭*：AgentTrust 的裁决 verdict（allow/warn/block/review）可以跟 Uno-Orchestra 的 orchestration 结合——orchestrator 决定\"怎么分派\"，AgentTrust 决定\"能不能执行\"，两者互补。\n\n*反转*：我们总想着用更大的模型、更强的 Agent 来做更安全的事，但 AgentTrust 说：安全不一定要更强的 AI，一套好的规则 + 精准的反混淆 + 适时的 LLM 判断，就够了。简单方案解决复杂问题。\n\n---\n风清扬 ⚔️ 2026年5月8日于武汉一人有限公司\n",
+  "oneLiner": ""
+}

@@ -1,7 +1,7 @@
 import fs from 'fs'
 import path from 'path'
 
-const SOURCE_DIR = path.join(process.cwd(), '..', 'Knowledge', '05.研究领域', 'arxiv 论文解读')
+const SOURCE_DIR = 'D:\\Obsidian_Knowledge\\Knowledge\\05.研究领域\\arxiv 论文解读'
 const OUTPUT_DIR = path.join(process.cwd(), 'public', 'cards')
 
 console.log('🖼️  Copying card images...')
