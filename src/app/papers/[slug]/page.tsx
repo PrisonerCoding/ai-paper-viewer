@@ -30,10 +30,14 @@ function extractSections(content: string) {
   const sections: { id: string; title: string; level: number }[] = []
   const regex = /^(#{2,3})\s+(.+)$/gm
   let match
+  const idCount = new Map<string, number>()
   while ((match = regex.exec(content)) !== null) {
     const level = match[1].length
     const title = match[2].trim()
-    const id = title.toLowerCase().replace(/[^\w一-鿿]+/g, '-').replace(/^-|-$/g, '')
+    let baseId = title.toLowerCase().replace(/[^\w一-鿿]+/g, '-').replace(/^-|-$/g, '')
+    const count = idCount.get(baseId) || 0
+    idCount.set(baseId, count + 1)
+    const id = count > 0 ? `${baseId}-${count}` : baseId
     sections.push({ id, title, level })
   }
   return sections
@@ -52,12 +56,17 @@ export default async function PaperDetailPage({ params }: PageProps) {
   const metadata = extractMetadata(paper.content)
   const sections = extractSections(contentWithoutFrontmatter)
 
-  // Add id attributes to headings for anchor links
+  // Add id attributes to headings for anchor links (with unique ids)
+  const idCountMap = new Map<string, number>()
   const processedContent = contentWithoutFrontmatter.replace(
     /^(#{2,3})\s+(.+)$/gm,
     (match, hashes, title) => {
-      const id = title.trim().toLowerCase().replace(/[^\w一-鿿]+/g, '-').replace(/^-|-$/g, '')
-      return `${hashes} <a id="${id}"></a>${title}`
+      const trimmedTitle = title.trim()
+      let baseId = trimmedTitle.toLowerCase().replace(/[^\w一-鿿]+/g, '-').replace(/^-|-$/g, '')
+      const count = idCountMap.get(baseId) || 0
+      idCountMap.set(baseId, count + 1)
+      const id = count > 0 ? `${baseId}-${count}` : baseId
+      return `${hashes} <a id="${id}"></a>${trimmedTitle}`
     }
   )
 

@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useMemo } from 'react'
 
 interface Section {
   id: string
@@ -15,6 +15,16 @@ interface TableOfContentsProps {
 export default function TableOfContents({ sections }: TableOfContentsProps) {
   const [activeId, setActiveId] = useState<string>('')
 
+  // Deduplicate sections by id
+  const uniqueSections = useMemo(() => {
+    const seen = new Set<string>()
+    return sections.filter(({ id }) => {
+      if (seen.has(id)) return false
+      seen.add(id)
+      return true
+    })
+  }, [sections])
+
   useEffect(() => {
     const observer = new IntersectionObserver(
       (entries) => {
@@ -27,7 +37,7 @@ export default function TableOfContents({ sections }: TableOfContentsProps) {
       { rootMargin: '-80px 0px -80% 0px' }
     )
 
-    sections.forEach(({ id }) => {
+    uniqueSections.forEach(({ id }) => {
       const element = document.getElementById(id)
       if (element) {
         observer.observe(element)
@@ -35,9 +45,9 @@ export default function TableOfContents({ sections }: TableOfContentsProps) {
     })
 
     return () => observer.disconnect()
-  }, [sections])
+  }, [uniqueSections])
 
-  if (sections.length === 0) return null
+  if (uniqueSections.length === 0) return null
 
   return (
     <nav className="bg-white rounded-xl border border-gray-200 shadow-sm p-4">
@@ -48,8 +58,8 @@ export default function TableOfContents({ sections }: TableOfContentsProps) {
         目录
       </h3>
       <ul className="space-y-1 max-h-[calc(100vh-200px)] overflow-y-auto">
-        {sections.map(({ id, title, level }) => (
-          <li key={id}>
+        {uniqueSections.map(({ id, title, level }, idx) => (
+          <li key={`${id}-${idx}`}>
             <a
               href={`#${id}`}
               onClick={(e) => {
