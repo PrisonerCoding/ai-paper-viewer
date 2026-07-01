@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-07-01",
+    "slug": "2026-07-01",
+    "papers": [
+      {
+        "rank": 1,
+        "title": "On the Inseparability of Instructions and Data in Shared-Embedding Sequence Models",
+        "oneLiner": "提示注入不可能在共享嵌入架构内被彻底防御——数学证明",
+        "interpretationLink": "./arxiv%20论文解读/2026-07-01-paper-prompt-injection-impossibility-proof.md"
+      },
+      {
+        "rank": 2,
+        "title": "Dismantling Pathological Shortcuts: A Causal Framework for Faithful LVLM Decoding",
+        "oneLiner": "幻觉不是\"看少了\"，是注意力头在关键时刻走了语言先验的捷径",
+        "interpretationLink": "./arxiv%20论文解读/2026-07-01-paper-causal-hallucination-fox-framework.md"
+      },
+      {
+        "rank": 3,
+        "title": "Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning",
+        "oneLiner": "教模型\"想好了再做\"需要三阶段训练，直接SFT只学会模仿格式",
+        "interpretationLink": "./arxiv%20论文解读/2026-07-01-paper-world-model-agent-planning.md"
+      },
+      {
+        "rank": 4,
+        "title": "Can LLMs Judge Better Than They Generate?",
+        "oneLiner": "大模型当裁判比当选手还差——判断时注意力分配严重不足",
+        "interpretationLink": "./arxiv%20论文解读/2026-07-01-paper-llm-judge-vs-generate-asymmetry.md"
+      },
+      {
+        "rank": 5,
+        "title": "NormAct: A Benchmark for Hidden Social Norm Compliance in Embodied Planning",
+        "oneLiner": "机器人完成任务却不懂规矩——目标达成率67%但规范遵守率仅26%",
+        "interpretationLink": "./arxiv%20论文解读/2026-07-01-paper-normact-hidden-social-norms.md"
+      }
+    ],
+    "criteria": []
+  },
+  {
     "date": "2026-06-30",
     "slug": "2026-06-30",
     "papers": [

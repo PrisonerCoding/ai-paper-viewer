@@ -1,0 +1,32 @@
+{
+  "date": "2026-07-01",
+  "slug": "2026-07-01",
+  "stats": {
+    "total": 1025,
+    "llm": 425,
+    "skill": 11,
+    "agent": 75
+  },
+  "categories": [
+    {
+      "name": "🤖 LLM",
+      "count": 425,
+      "papers": []
+    },
+    {
+      "name": "🛠️ skill",
+      "count": 11,
+      "papers": []
+    },
+    {
+      "name": "🤖 agent",
+      "count": 75,
+      "papers": []
+    },
+    {
+      "name": "📄 其他",
+      "count": 514,
+      "papers": []
+    }
+  ]
+}

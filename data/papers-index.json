@@ -1,5 +1,100 @@
 [
   {
+    "slug": "2026-07-01-paper-elf",
+    "title": "Embedded Language Flows",
+    "date": "2026-07-01",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-07-01-card-elf.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "2026-07-01-paper-gilp",
+    "title": "Grounded Iterative Language Planning: How Parameterized World Models Reduce Hallucination Propagation in LLM Agents",
+    "date": "2026-07-01",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-07-01-card-gilp.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "2026-07-01-paper-merr1",
+    "title": "MER-R1: Multimodal Emotion Reasoning via Slow-Fast Thinking Synergy",
+    "date": "2026-07-01",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-07-01-card-merr1.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "2026-07-01-paper-trl",
+    "title": "Tandem Reinforcement Learning with Verifiable Rewards",
+    "date": "2026-07-01",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-07-01-card-trl.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "2026-07-01-paper-wmplan",
+    "title": "Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning",
+    "date": "2026-07-01",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "cardImage": "2026-07-01-card-wmplan.png",
+    "oneLiner": ""
+  },
+  {
+    "slug": "2026-07-01-paper-causal-hallucination-fox-framework",
+    "title": "大模型幻觉的真凶不是\"看少了\"，是\"走错了路\"",
+    "date": "2026-07-01",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "oneLiner": ""
+  },
+  {
+    "slug": "2026-07-01-paper-llm-judge-vs-generate-asymmetry",
+    "title": "大模型当裁判比当选手还难？一个颠覆直觉的发现",
+    "date": "2026-07-01",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "oneLiner": ""
+  },
+  {
+    "slug": "2026-07-01-paper-normact-hidden-social-norms",
+    "title": "机器人完成了任务，但把主人气炸了：当AI不懂\"潜规则\"",
+    "date": "2026-07-01",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "oneLiner": ""
+  },
+  {
+    "slug": "2026-07-01-paper-prompt-injection-impossibility-proof",
+    "title": "你永远防不住的攻击：为什么提示注入是LLM的\"绝症\"",
+    "date": "2026-07-01",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "oneLiner": ""
+  },
+  {
+    "slug": "2026-07-01-paper-world-model-agent-planning",
+    "title": "让大模型学会\"想好了再做\"：世界模型不是看出来的，是训练出来的",
+    "date": "2026-07-01",
+    "source": "arXiv",
+    "authors": "",
+    "tags": [],
+    "oneLiner": ""
+  },
+  {
     "slug": "2026-06-30-paper-adaptive-inference",
     "title": "End-to-End Dynamic Sparsity for Resource-Adaptive LLM Inference",
     "date": "2026-06-30",
